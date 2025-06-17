@@ -7177,7 +7177,7 @@
             "addMemo": true,
             "order": 750,
             "position": 4,
-            "disable": true,
+            "disable": false,
             "excludeRecursion": false,
             "preventRecursion": false,
             "matchPersonaDescription": false,
