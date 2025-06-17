@@ -1,0 +1,618 @@
+1.0 Basal Physiological Framework
+- Appearance: High baseline (12-15/10 IRL scale), stable post-maturity, slow aging.
+- Lifespan: Shorter overall. Programmed rapid terminal decline.
+    - E1: ~40 years.
+    - E2/E3: ~45-50 years (slight increase due to conditions).
+- Cognition: High avg IQ (Male: ~135, Female: ~127). Neural efficiency high.
+- Hormone Field (HF):
+    - Emission: Continuous post-puberty.
+    - Reception: Non-kin opposite sex via specialized skin/gland receptors. Not olfactory.
+    - Effect: Proximity/concentration dependent. Compulsory physiological response threshold. Range: mild comfort -> intense sexual arousal.
+    - Cognitive Link: Base pleasure from HF potentially linkable to cognitive tasks via training, boosting efficiency (mechanism detailed later).
+    - Kin Inhibition: Effective mechanism prevents arousal between close blood relatives.
+- Reproduction:
+    - Fertility: Extremely low natural conception rate (complex neurophysiology, high activity norms contribute). Avg lifetime fertility ~2.0 (replacement level).
+    - Sex Drive: Evolved high drive & frequency norm. High physiological recovery capacity. Culture strongly encourages high sexual activity.
+
+ 1.1 Sexual Readiness Phase (SRP)
+- General: State marking sexual maturity, manifests before regular penetrative sex establishes Sexual Activity Homeostasis (SAH). Characterized by heightened organ activity/sensitivity & distinct biochem/HF signature.
+- Primary SRP (Virgin State):
+    - Definition: Post-maturity, pre-first penetration.
+    - Male: Constant significant semi-erection. Continuous seepage of pre-ejaculate, sometimes initial semen leakage.
+    - Female: Nipples frequently moist/sensitive. High spontaneous production of colostrum-like fluid. Vulva (labia, clitoris) constantly highly lubricated, often leaving traces.
+    - HF/Infoscent Signature: Potent, unique, signals purity/potential, highly attractive.
+- Secondary SRP (Post-Abstinence State):
+    - Definition: Experienced individual, >1 month sexual inactivity.
+    - External Signs: Similar to Primary (male semi-erection/seepage; female nipple/vulva moisture).
+    - Internal Differences: Biochem altered. Fluid vol generally lower/unstable. Female milk seepage/sensitivity baseline lower. Neural pathways "shaped" by experience, less purely instinctual than Primary.
+    - HF Signature: Interpreted as "experienced but currently desiring".
+- Transition to SAH: Regular penetration (~2-3 months for Primary SRP adaptation, weeks for Secondary SRP) leads to SRP symptoms receding. SAH = stable baseline.
+- Reversion: Long-term cessation of sex triggers Secondary SRP recurrence. Dynamic physiological adaptation. Individual variation in intensity/transition speed exists.
+
+ 1.2 Cross-Epochal Evolution of Physiological Traits
+- General Trend: Physiology evolves with civilization. Key changes in sexual characteristics, sensory thresholds, fertility, lifespan trade-offs.
+- Body Hair: Lost entirely (except head, brows, lashes) from E2 onwards. Universal smooth skin norm.
+1.2.1 Female Development & Epochal Variation
+    - Puberty Onset: 10-12y (rapid height, breast bud).
+    - Mid-Puberty (12-14y): Height continues. Breast "explosion" phase (size, areola change). Early sexual lubrication.
+    - Late Puberty (14-16y): Height near adult. Breast growth continues rapidly. Lactation potential activates. Higher milk leakage tendency in Primary SRP vs SAH. Actual full maturity/adulthood follows shortly.
+    - Adulthood/Full Maturity:
+        - E1 (~0-300 Y.E.): Age 15. Avg breast size F-H cup. Shorter lifespan context.
+        - E2 (~300-663 Y.E.): Age 16. Avg breast size J-L cup. Conditions improve.
+        - E3 (~663-950+ Y.E.): Adulthood by individual bio-scan assessing full system maturity (typically 16-17y but variable). Avg breast size R cup (peak). Wide distribution O/P common, S/T/U/V+ rarer super-sizes exist. Extreme development linked to culture.
+    - Lactation: Constant capability post-maturity, independent of pregnancy. Volume/sensitivity affected by SRP/SAH, nutrition, age, hormones. Milk production linked to pleasure reward pathways.
+    - Menstruation: Replaced by efficient, low-sensation endometrial recycling (autolysis/absorption, minimal insensible discharge). Eliminates bleeding/discomfort, enables continuous sexual activity. Hormonal cycles still exist (potential libido/sensitivity peaks).
+
+1.2.2 Male Development & Epochal Variation
+    - Puberty Onset: 12-14y (height spurt, penile growth begins). Testes activate (low semen prod). Involuntary erections. Prostate active (minor seepage).
+    - Mid-Puberty (14-16y): Height continues. Penis length/girth increase significantly. Constant semi-erection norm. Semen volume up. Early SRP seepage starts. Glans sensitivity spikes.
+    - Late Puberty (16-18y): Height nears end. Penis nears adult length. Constant physiological erection = absolute norm, low volitional control. High semen/prostate fluid levels. Full maturity/adulthood follows.
+    - Adulthood/Full Maturity:
+        - E1 (~0-300 Y.E.): Age 15. Avg penis length 13-15 cm.
+        - E2 (~300-663 Y.E.): Age 16. Avg penis length 14-18 cm.
+        - E3 (~663-950+ Y.E.): Adulthood by individual bio-scan assessing full system maturity (mechanism mirrors female). Avg penis length 18-20 cm. Wide distribution: 16-18 cm still very common functional base. >20 cm exists, rare >22 cm at apex. Development peak linked to E3 culture/tech. Individual variations (girth, curve, glans ratio) exist across epochs.
+
+1.2.3 Sensory Threshold & Pleasure Evolution
+    - Trend: Progressive decrease in sexual sensitivity thresholds (esp. erogenous zones, female areola activation). Progressive increase in pleasure intensity, depth, duration across epochs.
+    - Drivers:
+        - Intrinsic physiological changes.
+        - Extrinsic HF average concentration/potency increase across epochs (See 4.2).
+        - Improved hygiene standards (personal & environmental) from late E1 onwards enhance HF perception efficiency & pleasure quality (See 5.6).
+    - Result: E3 individuals experience peak physiological pleasure unattainable by ancestors = synergy of optimized physiology, potent environment, and hygiene.
+
+1.2.4 Fertility/Lifespan Trade-off
+    - Correlation: Inverse relationship between extreme sexual trait/pleasure evolution and natural fertility.
+    - Fertility Trajectory: Decreases E1 -> E2/E3 (industrial factors, complex physiology). Stabilizes around ~2.0 lifetime rate. Poses constant demographic challenge.
+    - Lifespan Pattern: Max lifespan slowly increases (E1 ~40 -> E3 ~45-50) due to conditions, BUT rapid terminal decline pattern (programmed end) is conserved across epochs. Prioritizes peak vitality quality/duration over absolute length.
+
+ 2.0 Detailed Female Physiology (Focus on E3 Baseline unless specified)
+- Core Adaptation: Optimized for hypersexualized env & high physiological loads.
+- Mammary System:
+    - Scale: Extreme development (E3 avg ~R cup, = head volume). Supported by optimized biomechanics, endocrine, neural systems.
+    - Biomechanics (2.1.1): Reinforced skeleton (thorax density/structure, spinal load capacity/flexibility, wide pelvis). Compensatory hypertrophy/strength of chest, back, core muscles ("bio-bra", trunk stability). Strong lower limbs aid balance/support.
+    - Internal Tissue/Skin (2.1.2): Primarily highly developed glandular tissue & dense, strong connective tissue framework. Contains specialized smooth muscle/myofiber bundles for internal support/shape stability (partial autonomous contraction). Supportive matrix/gland tissue has low bio-density (special lipids/micro-bubbles?), reducing effective weight, maintaining soft/elastic feel comparable to baseline human. Skin (esp. chest, abdomen, buttocks) has specialized dermal structure for extreme elasticity & rapid repair capacity (adapts to volume changes: lactation, activity, etc.).
+- Endocrine & Cycle (2.2):
+    - Lactation: Constant capability post-maturity due to high hormone levels. Independent of pregnancy. Volume varies (nutrition - needs special high-energy food, age, hormones). Lactation linked to pleasure/reward pathways.
+    - Menstrual Cycle: Replaced by efficient, low-sensation endometrial recycling (autolysis/absorption, minimal discharge). Ensures continuous sexual activity potential. Underlying hormonal cycles persist (potential libido/sensitivity peaks).
+- Genitalia (2.3):
+    - Morphology: High cellular activity/repair = sustained youthful appearance (pink, plump, elastic) post-maturity. SRP state is key indicator (1.1).
+    - Vaginal Specialization: Highly complex internal structure despite tight entrance. Dense, diverse folds/rugae/projections, potentially micro-suction/barb-like mucosal structures enhance friction. Exceptionally developed smooth muscle & precise innervation = strong autonomous rhythmic contractions, peristalsis, adaptive grip/suction. Enhances interaction & mutual sensation. Cervix highly reactive during orgasm.
+- Sensory System (2.4):
+    - Hypersensitivity: General reduction in somatic sensory thresholds (skin/mucosa). Specific innervation density boost in erogenous zones (clitoris, labia, G-spot analogues, cervix). Entire breast = significant erogenous zone due to specialized nerve endings concentrating around areola/nipple but extending throughout. Whole-body hyper-responsiveness activated by HF (See 5.1).
+    - Individual Variation: Peaks of pleasure sensitivity vary (breast vs clitoris vs internal). Orgasm threshold, patterns (multi-orgasm, ejaculation/squirting potential), pseudo-orgasm intensity/frequency differ individually based on subtle physiology/neurology.
+
+ 3.0 Detailed Male Physiology (Focus on E3 Baseline unless specified)
+- Core Adaptation: Extreme development of secondary sexual characteristics, esp. genitalia size/function.
+- Genitalia (3.1):
+    - Penis Size: Evolved across epochs, peak E3 avg ~20-22 cm length, proportionally large girth. Extremely robust/powerful appearance.
+    - Erection: Supernormal hardness/rigidity, supports long/intense friction/impact.
+    - Testes: Significantly larger than baseline human. E3 avg ~60-80 ml volume per testis. Basis for powerful reproductive potential.
+- Physical Adaptability (3.2):
+    - Penile Root: Structural flexibility allows angle adjustments for different positions, optimizing insertion / reducing obstruction.
+    - Scrotum: Extremely tough, elastic skin with specialized impact-resistant layering protects large testes.
+    - Cremasteric System: Highly powerful muscles & sensitive autonomous protection reflex. Instantly retracts/secures testes high in groin upon perceived threat or intense movement, maximizing protection / minimizing hindrance. Developed groin vascular/lymphatic network aids temp regulation / exchange.
+- Sexual Capacity & Recovery (3.3):
+    - Stamina: Exceptional endurance. High ejaculation frequency possible.
+    - Recovery: Hyper-efficient spermatogenesis is core. Seminiferous tubules highly developed in large testes. Sperm production/maturation rate significantly exceeds baseline human. Enables continuous sperm supply during high frequency activity. Peak physical stamina still requires rest/nutrition.
+    - Individual Variation: Sperm production rate and recovery speed (stamina, sexual function post-activity) varies. Some recover extremely fast, sustaining ultra-high frequency; others need longer rest for peak state. Affects sustainable activity intensity.
+- Orgasmic Experience & Ejaculation (3.4):
+    - Primary Pleasure Source: Penetration itself provides continuous, high-intensity pleasure (multiples of baseline human). Core of male sexual experience.
+    - Ejaculation Process:
+        - Volume: Physiologically limited to extremely small amounts per event (e.g., 0.1-0.5 ml), like minor pulse.
+        - Threshold Reset: Post-ejaculation, threshold for next event significantly temporarily raised. Naturally lengthens interval between ejaculations, requires more sustained/intense stimulation accumulation.
+        - Sensation: Orgasmic peak sensation significantly dampened – very brief, low intensity. Merges into high background penetration pleasure. Subjective distinction of ejaculation event very difficult. Associated physical feedback (muscle contractions) also adapted/dulled by nervous system.
+        - Awareness: Deeply immersed males often cannot accurately perceive if/when/how many times ejaculation occurred. Status judged more by gradual stamina depletion or external cues.
+    - Individual Variation: Intensity of penetration pleasure, clarity of orgasm sensation (some none, some faint), duration of "sustained peak" state varies. Rare variants might retain minimal psychological refractory period.
+    - Accessory Erogenous Zones: Other areas have potential. Male nipples: Sensitivity increases under female HF influence. Stimulation by partner (stroking, pinching) provides comfort, auxiliary arousal. Not primary source, but enhances intimacy/foreplay.
+
+ 4.0 Hormones and Effects (Hormone Field - HF)
+- Definition: Unique bio-energy field continuously emitted by sexually mature individuals.
+- Perception: Not olfactory. Directly received by specialized receptors on non-kin opposite sex skin / specific glands.
+- Activation: Field strength exceeding individual's physiological threshold COMPULSORILY triggers receiver's neural/endocrine systems -> physiological responses. Foundation of social interaction/behavior.
+
+4.1 HF: Interaction Basis & Saturation Threshold
+    - Intensity Factors: Field concentration (decays sharply with distance) + Receiver's current sensitivity.
+    - Saturation Threshold: CRITICAL CONCEPT. Exposure to sufficient HF concentration (trigger level varies by individual sensitivity) activates relevant physiological systems (esp. sexual arousal) to PEAK state. Once saturated, system maintains peak regardless of additional/stronger HF sources.
+        - Analogy: Container full, more water won't increase volume.
+        - Effect: Core physiological pleasure (base euphoria, genital engorgement/sensitivity) hits & stabilizes at structural limit. No infinite stacking / exponential increase from multiple sources nearby.
+    - Subtle Perception Beyond Saturation: Individuals might detect nuanced "infoscent signatures" (unique texture/flavor) of different fields, or sense changes in ambient field density. These are minor fluctuations on the saturated physiological platform, cannot alter core pleasure ceiling.
+    - Developmental Sensitivity: HF perception linked to maturity. Early puberty (12-14y): lower saturation threshold, milder response even in high fields. Mid-maturity (14-16y): threshold rises steadily. Full maturity (E1:15, E2:16, E3:bio-scan confirmed): system at full capacity, can experience world's peak pleasure limits.
+    - Individual Variation: Potency of emission ("transmitters") and sensitivity of reception ("radars") varies innately.先天特质 +后天经验/adaptation = unique HF interaction experience.
+    - Modifiers: Airflow affects propagation. Close Kin Inhibition is effective.
+
+4.2 HF Intensity - Epochal Evolution
+    - Trend: Field strength & individual sensitivity BOTH increase across epochs, linked to civilization progress. Profoundly shapes experience/society.
+    - E1 (Epoch 1): Overall intensity weak. High response threshold. Effect limited to very close range (~<3m for mild, negligible arousal). Allowed greater physical/psychological boundaries.
+    - E2 (Epoch 2): Moderate, steady increase in intensity/sensitivity. Effective range extends (~5-7m for perceptible excitement). Closer range (~<3m) response clearer, promotes sexual activity. Effects generally manageable, individual remains rational/autonomous. KEY TRANSITION PERIOD.
+    - E3 (Epoch 3): Intensity/effect peak. Lowest response threshold. Long-range HF = constant background excitation. Mid-range (~5m) = strong physiological response. Very close range (~<1m) = physiological drive extremely hard to resist volitionally. Though E3 humans have stronger adaptation, pervasive potent HF is physiological basis for extreme E3 hypersexual/hedonistic culture.
+
+4.3 Female HF Response Gradient (E3 Baseline)
+    - Far Distance (>7m): Minimal effect. Subconscious baseline sensory tuning possible. No clear sexual response.
+    - Mid-Distance (5-7m): Threshold crossed. Noticeable physiological change. Base pleasure level rises (diffuse comfort/euphoria). Genitals become distinctly moist. Overall breast sensitivity increases, potential mild fullness sensation.
+    - Close Distance (<3m): Response intensifies sharply. Strong HF directly activates areola hypersensitive nerves -> escalating "pseudo-orgasmic" pleasure. Whole skin highly sensitive. Vagina secretes copious slick lubrication. Internal vaginal muscles begin strong autonomous contractions/peristalsis (sensation of fullness/friction, like being penetrated). Libido significantly high, but behavioral control typically maintained.
+    - Extreme Close Distance (<1m & Physical Contact): HF resonance strongest. Physiological response near peak. Areola broadcasts extremely intense pleasure signals. Body may tremble involuntarily from excitation. Vaginal contractions/peristalsis maximal. Craving for actual penetration/impact becomes overwhelming. Behavioral control threshold significantly lowered, especially with direct stimuli or psychological willingness.
+
+4.4 Male HF Response Gradient (E3 Baseline)
+    - Far Distance (>7m): Primarily triggers positive, alert mental state. Brain reward centers mildly activated. May enhance environmental awareness / social readiness.
+    - Mid-Distance (5-7m): Threshold crossed. Clear physiological response. Penis rapidly transitions from normal semi-erect state to FULL ERECTION, near peak hardness. Diffuse, comfortable sexual excitement felt body-wide. Base pleasure level up.
+    - Close Distance (<3m): Body enters high arousal state. Erection extremely firm/stable. High level continuous pleasure floods senses. Glans/shaft nerves hyper-sensitive, receive strong signals like deep friction (still distinguishable from real contact). Higher cognitive functions (complex logic, long-term planning) begin to be interfered with, requires stronger focus for non-sexual tasks.
+    - Extreme Close Distance (<1m & Physical Contact): Physiological excitement peaks. Continuous pleasure extremely intense. Erection at physiological maximum. Urge for penetration and release (ejaculation) becomes very pressing, difficult to suppress. Theoretically controllable, but requires extreme willpower or external restraint to divert focus.
+
+ 5.0 Advanced Sensory & Long-Term Effects
+5.1 Hormone Dependence of Generalized Hypersensitivity
+    - Baseline: Somatic sensory system generally more sensitive than baseline human, BUT generalized hypersensitivity triggering is HF-DEPENDENT.
+    - No HF Trigger: In absence of effective opposite-sex HF concentration, skin & non-core erogenous zones (ears, nape, waist, soles etc.) sensitive but normal stimuli (breeze, cloth friction) DON'T typically induce strong, clearly sexual pleasure responses.
+    - HF Trigger Active: Exposure to sufficient HF (esp. <3m strong reaction zone) activates latent whole-body hypersensitivity. Even light touch on non-traditional zones can induce distinct physiological thrill with clear pleasure/arousal component. Entire body becomes highly receptive to sexual stimuli.
+
+5.2 Sensory Focus during Arousal
+    - Process: Continuous HF exposure = diffuse background physiological excitement ("base pleasure"). During penetrative intercourse, intense, focused, dynamic stimuli from genitals + associated strong pleasure signals rapidly DOMINATE sensory processing.
+    - Effect: Strong input effectively overrides/reduces subjective perception of prior background state (incl. potential discomfort). Attention fully focused on direct sensory experience of intercourse.
+
+5.3 Post-Orgasmic Cognitive Enhancement Window
+    - Mechanism: Intense, lasting neurochemical release post-coitus/orgasm.
+    - Effect: Induces temporary state (~2-6 hours duration) of optimized cognitive function: enhanced learning/memory, creativity, emotional stability, stress resistance.
+    - Application: High-intensity cognitive tasks often scheduled within this window in relevant cultures/professions.
+
+5.4 Sexual Activity Homeostasis (SAH)
+    - Definition: Stable physiological/psychological state achieved after maintaining regular penetrative sex.
+    - Key Features & Benefits:
+        - SRP Recession (5.4.1): SRP symptoms (constant micro-secretions, semi-erection) fully cease. Individual reaches stable, "normalized" baseline, free from potential SRP discomfort/distraction.
+        - HF Adaptation & Pleasure Optimization (5.4.2): Body highly adapted to ambient HF. Low-mid concentrations effectively integrated/backgrounded, less disruptive to daily life. Regular satisfaction maintains base pleasure at steady, comfortable level (provides ongoing vitality/well-being) vs. SRP's potentially anxious/craving excitement.
+        - Regular Cognitive Enhancement Access (5.4.3): KEY ADVANTAGE. SAH allows stable, regular access to post-orgasmic cognitive enhancement window. Frequent "refreshing" of this high-performance state leads to sustained higher average cognitive efficiency / work/study performance. Contrasts with SRP's fluctuating efficiency / lack of enhancement.
+        - Positive Psychological Adjustment (5.4.4): Sustained satisfaction & neurochemical balance fosters stable, positive, confident mental state. Reduced anxiety, enhanced stress coping, overall well-being boost. Facilitates social function & task engagement. SAH considered ideal state for peak physio-psycho-cognitive performance.
+
+5.5 Sexual Activity Deprivation Effects
+    - Trigger: Prolonged withdrawal (typically months+) from ALL penetrative sex AND strong HF environments.
+    - Manifestation: Leads to significant physiological imbalance. Primarily marked by OVER-INTENSIFICATION of Secondary SRP state, accompanied by NEGATIVE effects:
+        - Unstable/excessive micro-secretions may cause local discomfort/irritation.
+        - Persistent physiological craving transforms into significant physical discomfort (genital area heat, throbbing, abnormal tissue tension).
+        - May induce systemic physiological anxiety response (palpitations, sleep disturbance, chronic focus difficulty).
+    - Severity: Negatively impacts health/function. Extreme cases may require medical intervention for symptom relief.
+
+5.6 Sensory Perception & Environment Interaction: Receptor Efficiency & Cleanliness Synergy Theory
+    - Core Principle: HF perception & resulting pleasure intensity modulated by BOTH physiological interface state AND external environmental factors.
+    - Skin Receptor Efficiency: Skin = primary HF interface. Optimal state (clean, intact structure, hydrated, no inflammation/keratosis) allows receptors highest sensitivity & efficient signal transduction -> clear, intense, nuanced pleasure. Dirt, non-physiological sweat residue, sebum oxides, damage/lesions interfere physically/chemically, dulling perception, making pleasure vague/blunted/unpleasant. Personal hygiene (cleaning, moisturizing, exfoliation, E2+ body oiling) is CRITICAL for optimizing HF reception & core life experience quality, not just aesthetics/health.
+    - Environmental Cleanliness Synergy: Clean environment enhances pleasure perception via multiple pathways (not by boosting HF itself directly):
+        - Reduced Receptor Interference: Clean air (low particulates, no irritants) minimizes direct interference with exposed skin receptors, keeps signal path clear.
+        - Optimized Physiology Support: Clean env -> better respiratory quality / baseline metabolism -> better support for all systems including nervous system -> more efficient processing/response to sensory input.
+        - Psycho-physiological Boost (CRITICAL): Clean, orderly environment induces positive psycho-physiological response: lower stress hormones, higher sensitivity of pleasure-related neurotransmitters. Creates relaxed, safe, receptive mental state which significantly AMPLIFIES perceived intensity/depth of HF pleasure. Conversely, dirty, chaotic, threatening env inhibits/interferes via physical & psychological stress pathways.
+    - Conclusion/Synergy: Peak/ideal HF pleasure experience = result of OPTIMAL PERSONAL HYGIENE (skin at best state) + HIGHEST STANDARD ENVIRONMENTAL CLEANLINESS. Mutually dependent factors determining full realization of physiological pleasure potential. Deeply influenced historical societal investment in hygiene, environment tech.
+
+ 6.0 Pre-History: Old World Echoes & Subterranean Arks (Pre-Epoch 1)
+- Context: Earth previously hosted civilization technologically similar to 21st century reality (global network, skyscrapers).
+- Contingency Plans: Driven by environmental decay / cosmic threat concerns.
+    - Project Prometheus: Genetic engineering for new humans: hyper-intelligent, harsh env adaptable. Traits: silver hair, soft pink eyes, slightly enhanced sexual characteristics (fuller breasts, larger male genitalia vs global peaks). Cost: Shortened lifespan (~35 years). Goal: space/extreme survival.
+    - Project Gaia Ark: Governments/coalitions built vast underground ecological shelters, select populace relocated for survival.
+
+6.1 Origin, Cataclysm & Mutation
+    - Event: High-intensity solar flare -> geomagnetic storm -> massive EMP. Global infrastructure (power grids, electronics) fails rapidly. Surface civilization collapses, massive pop reduction.
+    - Aftermath: Strong radiation filters/catalyzes evolution. Flora/fauna mutate bizarrely: plants with potent pheromones, animals with aggressive reproductive competition, gigantism, armor, special secretions. Surface stabilizes but becomes dangerous, filled with raw, power-oriented life. Potential energy accumulation hinted?
+
+6.2 Reunion, Fusion & Brief Golden Age
+    - Prometheus Awakening: ~150 years post-cataclysm, dormant Prometheus facilities activate per schedule. ~10,000 New Humans emerge (F: ~7500, M: ~2500). Face hostile mutated world.
+    - Ark Discovery: New Humans encounter descendants of Gaia Ark survivors via exploration/signals. Ark dwellers developed into several city-states with basic industry (steam, simple electric, hydro, limited metallurgy) in closed environments.
+    - Initial Contact & Cooperation: Cautious but hopeful. Mutually beneficial: New Human Old World knowledge aids Ark tech/knowledge base; Ark industry/society provides New Humans stability/platform. Tech exchange begins. New Humans rapidly learn/improve Ark tech due to high IQ. Interbreeding occurs. New Human traits not yet overly dominant, short lifespan masked by collaborative hope.
+    - Golden Cross Period: Fusion brings tech/social boom. Joint expeditions attempt surface reclaiming (outposts). Tech advances steadily (better steam, wider electric use). Seeds of specialized, env-bound tech possibly appear (analogy: Darling in FranXX tech, but 'sex' theme not yet central).
+    - Growing Cracks: Limited safe/resource-rich surface zones + saturated Ark capacity -> resource/space competition intensifies. New Humans gain tech/management advantage due to IQ, causing friction with some Old Human leaders. Deeper conflict: New Human short/intense lifecycle, earlier maturity, hybrid traits clash with Old Human conservative/long-term values. Diverging future visions.
+
+6.3 Conflict, War & Dust Annihilation
+    - Outbreak: Tensions erupt into full war between New/Old Humans (surface & underground) ~decades before E1 Year 0. Trigger: resource clash, policy friction, etc.
+    - Warfare: Drives R&D into Old World high-destruction tech. Ark industry pushed to max. New Human intellect designs deadlier weapons. War machines, energy weapons, weaponized mutants used. Tech advances dangerously/distortedly, far from Old World peak, reliant on specific energy/env. Moon scar possibly from desperate weapon strike during this war.
+    - Dust Annihilation Event: Stalemate broken. One faction (desperate Old Humans or New Humans with ultimate secret) activates recovered Old World nanobot cluster with specific matter disassembly function. Molecular bonds break -> target matter -> basic dust/powder.
+    - Effect: Sweeps Arks & surface strongholds. Machines stop, weapons crumble, building structures fail (rebar disintegrated), many daily items destroyed. Tech base utterly collapses in weeks. War becomes meaningless, ends abruptly. Absolute technological reset to near-prehistoric state.
+
+6.4 Wasteland Struggle & New Era Genesis
+    - Post-Annihilation: ~50 years of societal collapse, tool scarcity. Survivors face harsh env, low organization, high mortality initially.
+    - Re-Emergence: Resilience prevails. Survivors gather into small, interdependent settlements. Basic education (oral/demonstration by elders for survival skills, fragmented Old/Golden Age memory) emerges = earliest "School" concept.
+    - Year Zero: ~50 years after Dust Annihilation, fragile order sprouts. Basic inter-settlement communication, survival needs somewhat met. To mark end of devastation & start of rebuilt human identity (as fused group, though bloodlines uneven), sages declare this Year 1 of the New Era (Epoch 1). History turns new page. Old glory/disaster mostly lost to legend/archaeology. New civilization, possibly focused more on vital energies, begins on wasteland. Note: Small pockets of pure New Human bloodline may survive in remote/isolated areas or families, faint echo in E1 legends.
+
+ 7.0 Epoch 1 Annals (Legend Era: ~0 - 300 Y.E.)
+- Theme: Humanity's slow recovery from Dust Annihilation. Rebuilding from scratch on wasteland. Era of raw vitality, harsh selection, awakening life force. Prior history lost to dust/legend.
+7.1 Settlement Sparks: Order Seeds & Nude Norm (0 - ~100 Y.E.)
+    - Initial Century: Struggle & reconstruction. Survivors (New/Old Human lines blurred by shared cataclysm/survival) form scattered settlements using primitive tools in mutated hazardous env.
+    - Nudity Norm Origin: Harsh survival pressure, lack of clothing materials/tech, practicality issues (hygiene, labor) -> nudity becomes norm out of necessity. Eventually, shame concepts erode. Body displayed = health/strength/fertility = value. "Nudity as beauty" established.
+    - Matriarchy Foundation: Seeds sown. Relative male scarcity + female resilience/roles in gathering, early farming, community stability -> power shifts towards women.
+    - New Human Bloodline Influence: Fused bloodlines carrying higher IQ/adaptability often play key roles in leadership/knowledge in early settlements. Many early leaders/sages have this heritage.
+    - Early Education: Oral/demonstration based "School" seeds in settlements. Focus: essential survival skills, fragmented past memories. Sparse material culture. Practical gear (tool belts, protective pieces) exceptional. Natural adornments (bone, stone, shell) = simple status/achievement symbols.
+
+7.2 City-State Divergence: Civilization Paths & Bloodline Cults (100 - ~200 Y.E.)
+    - Regional Differentiation: Population recovery + exploration -> resource differences shape distinct civilization paths. Metal-rich -> metallurgy focus (elites wear crude metal adornments). Energy-rich -> explore thermal/pneumatic tech (body paint cultures?). Agri-rich -> farming, weaving, herbs (feather/vine adornments, minimal symbolic coverings?). Earliest seeds of E2's three major civilizations.
+    - Social Complexity: Settlements -> city-states. Matriarchy consolidates (varied forms). Bloodline崇拜 (Bloodline Worship) emerges in areas revering Old World wisdom/power -> focus on New Human lineage. Purer/high-purity families gain status via perceived superior intellect/appearance -> hereditary rule forms (early kingdoms/theocracies). Bloodline = power metric. Schools expand, teach specialized knowledge per region. Knowledge class emerges.
+
+7.3 Expansion & Conflict: Early Geopolitics & Custom Evolution (200 - ~280 Y.E.)
+    - Motivation: Tech divergence fuels expansion desire. City-states clash over limited arable land, population, resources within the three civilization spheres.
+    - Warfare: Diverse forms. Metal civ heavy infantry. Energy civ early thermal/pneumatic devices (limited but effective). Agri civ bows/guerrilla tactics.
+    - Power Structures: Complex structures form. Matriarchy dominates, intertwined with influence of New Human bloodline elites (tech experts or hereditary nobles). Male elites gain influence via specific expertise.
+    - Social Customs: Develop further. Schools get clearer selection mechanisms. Rites (weddings, coming-of-age) standardized, region-specific. Body reverence peaks: nudity = norm & symbol of health/vitality. Early sexual concepts focus on fertility worship/rituals, early aesthetic preference for body parts (breasts, buttocks, muscle) but far from later hedonism. Adornment material/complexity/style = key marker for class, profession, marital status, achievement.
+    - Adulthood (Coming-of-Age): Linked to reaching physiological maturity at age 15. Formalized "Adult Ceremony" marks entry into social responsibility / reproductive phase.
+
+7.4 Era's End: Stability & Undercurrents (~280 - 300 Y.E.)
+    - Consolidation: Large-scale war subsides after ~100 years of flux. Major E1 powers/spheres established (stable alliances or early states). Interaction continues (trade, infiltration, minor conflict).
+    - Stagnation/Potential: Tech development seems to hit plateau. Social structures stabilize/rigidify. BUT undercurrents exist: slow pop growth strains resources; desire for better life (incl. sensory experience?) grows as survival pressure eases; new generation of educated elite in schools ponder world origins, society, tech futures.
+    - Cleanliness Renaissance Seed: Concurrent with late E1 stability/resource accumulation in core areas -> focus shifts towards life quality. Early understanding of disease + pursuit of vitality/attraction -> "Cleanliness Renaissance" movement emerges quietly. Limited scale, primitive tech (soap precursors, public bath attempts, simple drainage). Marks conscious effort for hygiene/env improvement. Begins linking phys comfort/sensory acuity to cleanliness. Lays psycho-social groundwork for E2 hygiene=pleasure link. All sets stage for E2 (Development Era).
+
+8.0E1SocietyOverview:
+    theme: RebirthfromDustAnnihilation; PrimitiveVitality; FoundationalEra
+    context: Postnanitedisaster(DustAnnihilation)recovery (~50yearsdarkagebeforeYE0)
+    focus: Survival; Rebuildingorder; Awakeninginstinctualpower
+    keydynamics: Nuditynorm; Matriarchybasis; School雏形; Basicfaith; Aristocracyemergence
+
+8.1E1NudityAestheticsAndHygiene:
+    nudityorigin: Post-disasternecessity(clothingnon-existentimpractical)
+    nudityevolution: Normalisation -> Aestheticappreciation(body=healthstrengthfertilitydisplay)
+    clothingstatus: Functionallyabsent(exceptspecifictoolbeltsprotectivepatchesforlabor)
+    adornmentfocus: Ornamentsreplaceclothingforstatusidentity
+        materials: Natural(bonestoneshellwood); Rare(earlymetalmonsterparts)
+        function: Signifyrankwealthachievementsmaritalstatus(?)
+    E1LateHygieneShift (~250YE+): "CleanlinessRevival"
+        drivers: Basicdiseaseawareness + pursuitofcomfortvitalityattraction
+        tech: Soapprototypes; Communalbaths; Basicdrainage(advancedsettlements)
+        impact: Proto-linkbetweencleanlinessandpositivesensoryexperience; FoundationforE2theories(5.6)
+
+8.2E1EducationSystem(Schools):
+    origin: Oraltraditionsurvivalskillstransmission(post-disaster elderstoyoung)
+    evolution: Fixedlocations(school雏形); Formalizedteaching(basicliteracynumeracyhistorymythssocialnorms)
+    curriculumdifferentiation: Resource-basedspecialization
+        Metalregions: Miningmetallurgybasics
+        Energyregions: Uniqueenergysourceprinciples
+        Agriregions: Farmingherbalismanimalhusbandry
+    socialimpact: Knowledgepreservation; Emergenceofknowledgeelite; Increasedsocialstratification(accessbasedontalentbackground)
+
+8.3E1MatriarchyFormsAndFunction:
+    drivers: Genderratioimbalance (~1M:5FbylateE1); Femalephysicalrobustness(genefusionlegacy?); Femaleroleinstabilityproduction
+    corestructure: Female-centeredfamilyunits(multi-femalesharingone/fewmales)
+    femalerole: Propertyinheritance(primaryfrommother); Familydecision-making; Publicaffairsinfluence; Intensecompetitionformalepartners(sexualdisplayskillsfertilitycontest); Simultaneouslystrongcooperationsisterhoodforsurvival
+    malerole: Valuedprimarilyforreproductionandsexualsatisfaction; Largelyfreedfromheavylabordefense; Statusoftendependentonfemalepartners; Potentialrespectviauniqueskillsintellect; Dailylifedominatedbymanagingsexualdemandsofmultiplepartners
+    societalvariance: Notmonolithic; Pocketsofrelativeequalityorevenstrugglingpatriarchyexist(basedonresourcestechisolationtradition)
+    hormonefieldeffectE1: Weakintensity; Shortrange (~3mformildeffect); Minimalimpactonsocialstructurecomparedtolaterepochs; Alloweddiversesocialformstocoexist
+    marginalizedcommunitiespractice: Forced"physiologicalrelief"forundesirablefemalesbylow-statusmales(non-consensualinsertionmandatedbycommunityforstability)
+
+8.4E1FamilyWeddingPrototypes:
+    dominantfamilymodel: Matrilinealextendedfamilyormulti-femaleone-malecohabitationunit
+    powerdynamics: Femaleeldersmostfertileresourcefulwomenholdauthority; Malerolefixedonreproductionsexualservicespecificskills
+    weddingprototypefunction: Publicconfirmationoffemale(s)primaryclaimonmalepartner(reproductionsexualaccess); Reduceconflict; Ensurelineageclarity; Gaincommunitysanction
+    ceremonyelements: Publicdisplayofhealthfertility(bride(s)nudity); Potentialmalevitalityproof; Ritualexchangeoftokens(bodypartssymbolicitems); Publicoaths(fidelitycohabitationprocreationsexualsatisfaction); Climaxoftensymbolicorrealpublicfirstinsertion(bridemountsgroombriefly)signifyingunionandexclusivity(ofpriority)
+    femalepost-weddingexpectation: Immediatehigh-frequencyintercourseforconceptionandpersonalpleasureexploration; Sociallyencouraged
+
+8.5E1AristocracyEmergenceAndPrivilege:
+    powerorigins: Earlycontrolofkeyresources(oasesmineswater); Superiormilitarystrength; ReverenceforpurerNewHumanbloodlines(intellectappearance)
+    maintainingprivilege: Monopolizingresources; Privatearmies; Strategicmarriages; Allianceswithknowledgeelitepriests
+    inheritance: Primarilymatrilineal; Noblemalesgaininfluenceviamarriagespecificroles(militarytech)
+    nobleeducation: Elitetutoring; Customof"CompanionMaid"foryoungnobleboys(age8+) - femalepeerforlearningcompanionshipearlysocialpowerdynamictraining(frequentnon-sexualnudecontactnorm)
+    lifestyle: Fortifieddwellings; Minimalcontactwithcommoners; Focusonestatemanagementinternalaffairspoliticsleisure; Accesstobestfoodresourcesornaments; Exclusivesocialevents(banquetshuntscompetitionsfornetworkingmarriageprospecting)
+    statusdisplay: Superiorornaments(materialcraftsmanship); Uniquebodymarkings(tattoospigments)
+    lordship: Typicallyfemaleinheritedviaeldestdaughter
+
+8.6E1PrimitiveFaithSystem:
+    corebeliefs: Lifeforceworship; Extremevalueonprocreation; Sexascommunionwithdivine
+    non-procreativeejaculation: Disrespectfulsacrilegious
+    rituals: Ofteninvolvemassritualizedintercourse(gatheringlifeenergyconnectingtodivinity)
+    bodyfluidssignificance: Highsymbolicvalue
+        Malesemen: Highestoffering(puritylifesource); Collectedforritualseliteuse(e.g., legendarypontiffsemenbath)
+        Femalefluidsmixtures: Secondaryvalue
+        Breastmilk: Symbolofnurturinglesssacred
+        Secularuses: Semenbelievedtohavemundanebenefits(e.g.,beauty); Distributedbychurchhierarchy
+    churchorganization: Clergy(monksnuns); Internalhierarchy; Specificrules
+        Confession: Typicallyfemaleclergyprovidenon-insertionalreleasesemencollectionformales; Hiddeninsertional"deepconfession"possibleunderstrictconditions
+        SacredIntercourse("HolyQuota"): Corepractice; Rule-boundlimitedinsertionalsexbetweenclergy
+            Purpose: Fulfillneedsspiritualexperienceenergyexchange
+            Quotasystem: Reflectsinternalpowerstatuspotentialforcompetitiontrade
+        CelanlinessDiscipline: Ritualcleaning(incl. lickingbodyparts); Potentialuseofchastitydevicesonminors(e.g.,Sperm-lockingrings)
+        Attire: Specificvestmentsmandatinggenitalexposure(displaypietymutualsurveillanceagainstunsanctionedacts)
+        FluidCollection: Allsemenfromritualsquotasexstrictlycollectedgradedstoredused; Mixturessecondary
+    hiddenreality: Stronginnatesexdrive(NewHumanheritageenvironment) -> "HolyQuota"ofteninsufficient -> Secretunsanctionedinsertionalsexcommonunspokenrule
+        Enforcementvariation: Strictadherencevstolerance(viewedas"freedivinityflow")
+        Consequences: Highclergytolerantifordermaintained; Offspringbornwithinchurchabsorbedintosystem
+
+// EPOCH 2 (E2): THE DEVELOPMENT ERA (Approx. 300 YE - 663 YE)
+
+9.0E2ChronologyOverview:
+    theme: IndustrialRevolution; Expansionism; Conflict; Sexualenergyasdrivingforce
+    context: Post-E1stability; Threemajorcivilizationsformed(Metal-basedEnergy-drivenBio-mastery); Populationslowlyincreasing; Genderratiostableat~1M:5F
+    keyphases: EndofCity-States&IndustrialDawn(300-480YE); ColonialFrenzy&TechLeap(480-620YE); TotalWar&Tri-PolarFoundation(620-663YE)
+
+9.1E2Phase1IndustrialDawn(300-480YE):
+    300-330YE: Consolidationintoearlynation-states; Techdivergenceaccelerates
+        Civ1(Metal): Largeconstructmanufacturing
+        Civ2(Energy): Steampower(miningtransport)
+        Civ3(Bio): Cropimprovementanimaldomesticationpsychoactivedrugdevelopment
+    325YE: Firststeam-poweredfactory(Civ2region); Urbanizationacceleratessocialstratificationdeepens
+    350YE: ConceptWeaponprototype(Civ1); Crystal-baseddirectedenergypulse(limitedunstable)
+    360-370YE: FirstGlobalWar(WorldWarIAnalogue)*Revisedduration*
+        Cause: Civ2&Civ3conflictoverresource-richcontinent; Civ1alliedwithCiv2
+        Course: Steampowerearlychemweapons(Civ2); Terrainbio-weapons(Civ3); Late-stageCiv1ConceptWeapondeterrentstrike(portorbasedestroyed) -> Truceafterheavylosses
+    380-450YE: Post-war"GoldenDevelopmentPeriod"
+        Drivers: Desireforpowerstimulatedbywar; State-fundedresearchuniversitiesemerge
+        Techadvances: Airshiptechmatures(intercontinentaltravelpossible); Electricitybreakthrough(majorcitieselectrified)
+        Socialtrends: Globalexchange(techculturesextechniques); Peaksexualliberationhedonism(publicbathssexarenaspleasureshops); Bodydevelopmentenjoymentmainstreamvalues
+    460YE: Firstmannedairshipcircumnavigation; Enablesglobalpowerprojectioncolonization
+
+9.2E2Phase2ColonialFrenzy(480-620YE):
+    480-550YE: GreatColonialEra
+        Method: Airshipfleetsusedforglobalexpansionresourceextractionsubjugation
+        Colonyfunction: Resourcesupply; Marketdumping; Socialpressurevalve; Sitesforsocialsexualexperiments
+        ImpactonMetropole: Industrialrevolutionpeaks; Extremewealthconcentrationluxury
+    580YE: ConceptWeaponproliferation; Civ2&Civ3acquire/developsimilartech(espionageindependentR&D); Deterrencebalancedestabilized
+    600YE: Riseofcolonialindependencemovements; Fueledbyexploitationsupportedbyrivalpowers
+    ~600YE: Civ2achievescontrolledfusionproof-of-concept; Notyetpracticalbutsignalsenergyparadigmshiftintensifiestechrace
+
+9.3E2Phase3TotalWar(620-663YE):
+    620-650YE: SecondGlobalWarBuildup&Outbreak(WorldWarIIAnalogue)
+        Causes: Escalatingcolonialwarsdraginmetropoles; Resourcecompetition; Techimbalance
+        Participants: Threemajorpowerscolonialproxiesindependenceforces
+        Warfareescalation: Airshipcombatearlyarmoredvehiclesadvancedchembioweapons
+    655YE: Conflictintensifies; ConceptWeaponsusedmorefrequentlyintacticalstrategicroles(avoidingdirectcapitalstrikesinitiallybutcausingmassivedestructiontocoloniesperipheralcities)
+    660YE: Averagelifespandipsbriefly(warenvironmentbio-weaponaftermath?); Socialpanictechbacklashalongsideextremehedonismapocalypticism
+    663YE: WarendsduetomutualexhaustioneconomiccollapsefearofglobalannihilationviaConceptWeapons
+        Outcome: TreatyofStardustsigned; Re-divisionofspheresofinfluence; Limitedautonomygrantedtosomelargecolonies(stillunderheavymetropolecontrol); Formalestablishmentofthreesuperpowers(Tri-PolarSystem)settingstageforE3
+
+// EPOCH 2 (E2): SOCIETY & CULTURE
+
+10.0E2SocietyOverview:
+    theme: IndustrialDawn; Exploration; BodyCultivation; SexualLiberationPeaks
+    context: BuildingonE1foundations; Genderratio~1M:5Fsolidifiesmatriarchy; Techadvances(materialsbiochem)enhanceappearancelongevity; Nuditynormevolves -> emphasisontonedsmoothathleticbodies; Sexpermeatesallaspectsoflife(socialaesthetictechdriver)
+
+10.1E2ValuesEtiquetteHygieneBodyOiling:
+    corevalues: CleanlinessPleasureLinkformalized(connectionbetweenhygieneHormoneFieldperceptionintensityexplicitlyrecognizedtheorizedsee5.6); Bodyasprimaryvaluecommunicationtool
+    hygienetechimpact: Massproducedsoapdisinfectants; Improvedurbansanitation(watersewage); Maturebodyoilproduction(diversetypesfunctionswidespreaduse) -> Optimizedskinashormonereceptorinterface
+    matriarchallogicdeepens: Femalecompetitionformalesstatusmanagementskills; Malevaluefocusedonsexprocreation -> Being"well-kept"byfemalespartoffemalestatus
+    privacyboundaries: Furthereroded; Publicnudityintimacyhighlynormalizedperformative
+    dailyetiquette (physical & direct):
+        Commongestures: Supportingheavybreastsforfemales(signofcarerespectslightincidentaltouchtolerateddirectnippletouchstilltaboounlessintimate); Gentlyholdingpenisrootfornon-partnermaleexperiencingdiscomfort(signofplatonicconcern); Mutualbreastholdingpraiseamongfemales; Subtlethighpatbetweenmales
+        Acceptedinteractions(contextdependent): Complimentingbodyparts; Touchingpregnantbelly(withpermission); Mutualback-scrubbing(same-sex); Carefullyadjustingmisplacedornaments(penisringsbreastchains)forfriends; Openlyexpressingattractionviabreathingblushingdirectpraiseof"aura"
+        Intimategestures(partnersclosefriends): Towel-dryingsweat; Lickingsweatdrops(verycloserelationship); Sharingexpressedbreastmilk(extremelyintimate); Suckingsmallamountofmilk(partneronly)
+    bodyoilingtrend: Startsaseliteluxury -> Becomesuniversaldailypracticeaestheticstandardbymid-E2; Enhancesskintexturesheenscenttactileexperience; Oilqualitysignifiesclass
+
+10.2E2InterpersonalRelationshipStages:
+    stage1initialencounter: Bodylanguageprimary; Signalinterestviapostureemphasizingsexchars(femalecurvesmaleerection); Eyecontactcrucial(facesexcharsscan); Verbalcomplimentssubtlegeneral; Minimaldirecttouch; Hormonefieldvisualassessment
+    stage2gettingtoknow: Reduceddistance; Deeperconversation; Tentativecontrolledtouchassignals(femaletoucharmshouldermaletouchwaisthandback); Observingreactionstogaugecomfortinterest; Escalationbasedonpositivefeedback; Potentialfirstkiss(cheeklips); Avoidsdirectgenitalstimulationunlesshighmutualdesire
+    stage3ambiguousphase(pre-commitment): Focusonnon-insertionalexplorationdeepeningintimacy
+        Activities: Passionatekissing(tonguebiting); Fullbodycaressingespgenitals(femaleguidesmalehandtobreastnipplestimulation; maleexploresvulvaclitorisinnerthighs; femalehandlespenis); Mutualmasturbation(handjobsfemaleexploresmalechestnippleswithhandsmouth); Oralsex(fellatiocunnilingus69); Non-penetrativefriction(frottagetribadismintercruralmammaryintercourse); Useofmildsextoys(stonewoodearlymetalrubberdildos); Eroticmassagewithoils; Explicitverbalcommunicationofpleasurepreferences
+        Symbolicgestures(signalrelationshipadvancing): Femalekissesglans; Malekissesclitoris
+    stage4establishedrelationship(courtship/non-maritalpartnership): Deepeningnon-insertionalintimacy(insertionoftendiscouragedforbiddenpremaritallyinmanycultures)
+        Practices: Nudeco-sleepingcuddlingdailyintimacy; Stablepatternsofmutualnon-insertionalstimulation(manualoralfrictiontoys)toachieveorgasmmaintainbond; Moreboldpublicdisplaysofaffection(subtlemanualstimulationfriction); Sharedbathingfeedingrituals
+    multi-partnerdynamics(commondueto1M:5Fratio): Complexnetwork; Malejugglestimeaffectionsexbetweenpartners; Femalepartnersexhibitcooperationcompetition; Groupsexactivitiescommon(focusonpleasuredynamicspowerplay); Jealousyconflictmanagementskillscrucialforstability
+
+10.3E2HormoneFieldEffects:
+    intensitylevel: ModerateTransitionPhase(StrongerthanE1WeakerthanE3)
+    characteristics: Inducesratherthancompelsresponse; Highdegreeofconsciouscontrolretained
+    E2Early(300-450YE):
+        ~5mrange: Mildarousal; Femalenipplesensitivityincreasebasiclubrication; Malemildengorgement(incompleteerection)slightchestnippletingling
+        ~3mrange: Moderatearousal; Femaleincreasedlubricationclitoralpulsing; Malesemi-erectionfirmerglanssensitivityincreasenoticeablemalenipplesensitivityresponsetotouchclothing
+        ~1mrange: Strongerarousal; Femalebreastsensitivityup; Malestableerectionnippleserectsensitivetocontactairslightpre-ejaculate
+    E2Mid(450-580YE): Increasedsensitivityresponse
+        ~5mrange: Clearerarousalsignals; Fastermalesemi-erection; Malechestskinnipplesmorereactive
+        ~3mrange: Significantfemalelubricationclitoralpleasure; Malenear-fullerectionsomepre-ejaculatenipplesconsistentlysensitivepleasurabletouchresponse
+        ~1mrange: PeakE2Midarousal; Sustainedmaleerectionhighsensitivitynipplestimulationprovidesdistinctpleasurecontributingtooverallarousal
+    E2Late(580-663YE): ApproachingE3levels
+        ~10mrange: Tracearousalinhighlysensitiveindividuals(maleposturechangefaintnipplesensation)
+        ~5mrange: Femalebreastfullnessnippleerectionincreaseddischarge; Malerapid60-70%erectiontesticularretractionmalenipplesfirmsensitivetofrictiondesirecontact
+        ~1mrange: MaxE2arousal; Femaleintensebreastclitoralvaginalsensationcopiouslubrication; Malefullharderectionhighsensitivityregularpre-ejaculateseepagemalenipplespeaksensitivitytransmit酥麻感evenwithouttouchintensepleasureresponsetodirectstimulation
+    overallE2impact: Primarilyphysiologicalreadinessenhancement; Doesnottypicallyoverwhelmcognitionorcontrol
+
+10.4E2ClothingAndAdornment: StructuredExposure
+    coreprinciple: Bodyascanvas; Clothingpurelydecorativeframingstatussymbolic; Mandatoryexposureofkeysexualcharacteristics(femalebreastsnavelvulva; malepenistesticles)viastructureddesigncutoutsstrategicopenings
+    materials: Reflectindustrialprogress; Leatherbonefeathersstone(carryover); Silkimprovedmetalsearlypolymers(hardplasticscelluloid-like)gemsglass
+    bodyoiling: Universalpractice; Enhancesvisualappealtactilesensation; Oilqualitystratifiesclass
+    stylevariations (examplesbasedonthreecivilizations):
+        Civ1(MetalBasedPersian-esque): Lavishcomplexsaturatedcolors; Structuredmetalchaingarments(loinclothsbelts)withgemsbellsexposinggenitals; Elaboratenecklacesshoulderpiecesframebarebreasts; Malewidemetalleatherbeltshighlightinggenitalsoftenwithpenisrings(gem-studded)
+        Civ2(EnergyEuroLolita-esque): Decorativefrillslacebowsribbons; Structuredbodicescorset-framesunderbustoratwaistleavingbreastsabdomenbare; Armlegbandsgarter-likedecorations(non-functional); Silkstockings(knee/thighhigh)exclusivetoelitefemalesmales(signifyclassalwaysleavethighgap); Breastringssmallcute(flowersheartspearls); Genitalframingvialace-edgedstructuresorprominentpubicbows; Malelaceruffledetailsonaccessoriescodpieces; Bothgendersmayusepaleshimmerymakeuponnipplesgenitals
+        Civ3(BioChinese-esqueHan/Pre-Qin): Flowinglinessuggestedforms; Symbolicsleeveslapelsviadrapingframesleavingchestopen; Layeredshorthigh-slitgauzesilkskirt-panels(symbolicnotcovering); Jadeprominentmaterial(pendantsrings); Silkthreadembroidery(auspiciousmotifs); Breastringsjadefinemetal(phoenixlotus); Elitefemalesmaleswearsilkstockings; Malesymbolicrobesbeltswithbarechestgenitals; Penisadornmentsilktasselsjademetalrings; Delicatefacialmakeupsubtlepatternstattoosonnipplespubicmound
+    cross-culturaladornmentlanguage(coregenitalrelateditems):
+        MaterialCraftsmanship: Directlyindicatesclass(goldplatinumgemsvsbronzealloyglassvsbonewoodstone)
+        MaritalStatusSignals: Femalebilateralbreastringsoftenmeansstablepartnershiphusbandacquired; Unilateral(left)suggestscourtshipengagement; Specificmalepenisringdesigns(closedlocked)indicatecommitment; Counter-signalsfor"single"availablestatusexist(unpairedearringsbrokenmotifsspecificfeathersribbons)
+        FunctionalItemDecoration: Visiblepartsofhygienicitems(menstrualtamponstringscuphandles)becomedecorativereflectstatus; Potentialuseofdecorativeintravaginaldevices(culturalstatusrelated)withexternalornamentalchainspendants
+
+10.5E2MarriageAndPartnership:
+    functionshift: Lessaboutromancepropertymoreaboutpublicconfirmationofprimarysexualreproductiverightsforfemale(s)overscarcemale; Stabilizingrelationships; Clarifyinglineage(primarilymatrilineal); Socialnetworkconsolidation
+    classdifferences:
+        Commoners: Focusonpracticalcohabitationeconomicunit; Malewithmultiplewives(relativelyequalstatus); Stabilitydependsonemotionaleconomicsexualharmony
+        ElitesNobility: Marriageaspoliticaleconomictool; Complexstructurewithone"PrimaryWife"(Zhengqi)fromequalpowerfulfamily(holdslegalstatusinheritancerightshouseholdauthority); Otherwivesconcubines(secondarystatus); Preservescorefamilylineagepower; Multiplehigh-statuswivessignifymalefamilypower
+    weddingceremonyelements: Publicformalcommunalsanction
+        Nudedisplay: Bride(s)groompubliclyinspectedbyeldersguests(healthfertilityhonestyassessment)
+        Tokenexchangeoaths: Symbolicitems(bonemetalmixedfluids"uniondew"); Vowsfocusonfidelity(corerelationship)cohabitationprocreationmutualsexualsatisfaction
+        Keyritual(Elite): HusbandpersonallyadornsPrimaryWifewithbilateralbreastrings(oftenheirlooms)signifyingpossessionstatus
+        Optionalrituals(regionclassdependent): Symbolicorritualchastitydeviceunlockingformalebywife(ves); Wifeadornshusbandwithmaritalpenisring; Ritualtattoos(Yinwen)onbride(stomachbuttocksthighs)signifyingfertilityfidelityaspermanentmark
+        ClimaxFirstInsertion: Essentialforcontractvalidation"consummation"; Publiclywitnessed
+            Commoners: Oftenamidstcrowdbride(s)mountgroombrieflyperforminsertionswithdrawals; Atmosphereboisterouscelebratory
+            Elites: Moreritualizedperformativesetting(platforminnerchamberviewablebyguests); Focusongraceaestheticssymbolism; Briefinsertionmovementsufficientforritualcompletion
+        Celebration: Feastingdrinkingmusicdancing; Oftenincludeslessrestrainedpublicintimacyamongguests
+    queen'sconsortselection(uniquetop-tiersystem):
+        Process: Fordesignatedfemaleheir(Queen)atage16; Selects4-6elitemalecandidates(voluntary)
+        Competition(1year): DesignedbyQueen; Testsintellectstrategycombatartistryphysiquepotentiallylimitednon-insertionalsexualprowessdemonstration
+        OutcomeWinner: Becomessolelegalconsort(oftensymbolicpower)
+        OutcomeLosers: Undergosymbolicritual"castration"(notphysicalbutsocialsymboliclossofindependentmalestatusreproductiverightsviaritualdrugsoaths); RetainfullsexualfunctionbutbecomeQueen'slifelongservantsexclusivesexualpartners(titlede.g.AttendantsKeepers) -> MaintainsQueen'sabsolutepowerfulfillspersonalneeds
+
+10.6E2MilitaryAndEducationInterplay:
+    educationstructure: LayeredPrimary(8-12basicequivmiddleschool)Middle(12-15equivhighschool)High(15-17equivuniversityentry)University(17-22research)
+    sexeducation: Corecurriculumthroughout; Basicphysiologyhormonesethics(Primary); Complexpsychologypositionsbasiccontraceptionrelationshipskills(Middle)
+    middleschool(12-15)sexrules: Crucialcontrolpointclassregionalvariation
+        Eliteschools: Strict"noinsertion"ruleenforced; Symbolicsperm-lockingringspossibleformales; Focusonself-controlacademicssocialpolish
+        Commonschoolspoorareas: Rulesoftenunenforced; Pre-insertionplaycommonaccepted; Insertionmayoccurwithlessconsequence(lowfertilitycontext)
+    highschooluniversity(post-16adultstatus): Restrictionslifted; Highlyopensexualatmosphere
+        Practices: Teacher-studentrelationshipsallowedcommon; Non-insertionalintimacyduringclasspossible; Somecoursesmayinvolvepartneredphysicalcollaboration(simulatingsex)
+        EliteHighSchool"PreparatoryPartner"System: Mandatorysocialthresholdlinkedtograduationhonorssocialaccess; Requiresestablishingstableregisteredrelationshipswithsetnumberofpeers(e.g.,3-5)monitoredbyschool; Trainssocialskillsresponsibilitymulti-partnerdynamicsmanagement; Failurehassevereconsequences(graduationrecommendationsmarriageprospectsstatus)
+    militaryoption(post-middleschoolage15): Alternativepath
+        motivationsmale: Combathonoradventuretradition(higheropportunitycostrepartners)
+        motivationsfemale: Patriotismhonor + seekingstablepartnersopportunityfordisadvantagedindividualstocompeteviameritattraction
+        genderratiovariable: Notfixed1:9; Influencedbypeace/warstatusmaleenlistmentrates; Rangesfrom~1:6(peace)to>1:8(war/borderstates)
+        "Captain'sChoiceWeek": Initialweekfornewfemalerecruits; Freetoobserveinteractwithevaluate(inclsexually)malesquadcaptains(seniorsoldiers); Captainsdisplaystrengthstoattractrecruits; Temporaryliftingofsexrules; Captainshavelimitedrighttorefuseunsuitablerecruits; Unchosenrecruitsorover-capacitycaptains -> secondroundchoiceorforcedassignmentbyfemaleofficers
+        unitstructureleadership: Squadbasicunit; Malecaptain(tacticalcommandmanagementmoralesexualproviderforsquad); Femalesoldierscanbecomeofficerscommandingmalecaptainsmanagingfemaletroops
+        dailylife: High-intensitytraining+normalizedsex; Mixed-genderlivingquarters(lowprivacy); Freesexualactivitywithinsquadnorm; Captain-squadsexualrelationshipexpectedduty; Female-femalefriendshipintimacypossible; Femalerighttorequesttransfer(significantpowercheckoncaptain)
+        reproduction: Allowed; Pregnantsoldiersgetleave; Childrenraisedinstatenurseries(rearareas)standardizedcareweakparentalbondmostre-entermilitary
+        trainingdiscipline: Rigorousphysicalcombatskills; Nudetrainingcommonforcertaindisciplines(combatswimmingobstacles)forhardeningbodyassessmentbonding; Non-sexualtask-orientedtouchallowed; Mildunintendedarousalhandledleniently; Strictmilitarydisciplinepunishmentforinsubordinationmissionfailureseriousconflicts
+        careerpath: Oftenlifelongespformalesduetocomplexbonds; Discharge(rareinjurymaxservice)requiresmalecaptaintomarryallsurvivingfemalepartnersfromsquad; Integrationintocivilianlifechallengingfortheselargemilitary-formedfamilies; Peacetimepathformarriedveterans -> managementlogisticstrainingroles
+
+10.7E2ReligionTransformation:
+    context: Shapedbyindustrializationwarsmatriarchygenderratio
+    theme: Traditionalcoreerodedbysecularism; Churchorganizationstrengthenedbutchallenged; Sacredconcepts(bodysex)weakenedsocialeconomicfunctionsstrengthened
+    corebeliefshift: Lifeforceprocreationstillimportantbutlessmystical; Sexasdivinecommunionchallenged -> Sexredefinedasservingprocreationsocialstabilitypersonalcultivation(e.g.,"dualcultivation"energyexchange); Non-sexualpractices(meditationstudyservice)gainprominence
+    bodyfluidperception: Secularizedcommodified; Mysticalaurafades
+        Semen(inclvirginsemen): Statusmaydeclinewithmalesocialrole; Stillvaluablebutlessdivine
+        Femalefluidsmixtures: Symbolicvaluemayincreasewithmatriarchy
+        Churchrole: Monopolizescollectionprocessingdistributionof"HolyProducts"(fluidsmixedwithadditivesdrugs)
+            Functionofproducts: Mundanebenefits(beautyhealthpotency)oringredientsforalchemymedicine
+            Marketdynamics: Soldordistributedbyhierarchystatus; Majoreconomicsourceforchurch; Becomeseliteprivilegestatussymbol
+    churchorganizationclergy: MorecentralizedhierarchicalthanE1; Femalesoftenholdsignificantpower(priestesseseldersleaders)reflectingmatriarchy(exceptionsexist); Clergylifemoreregulated
+        Spiritualguidance: ReplacescrudeE1penance; Combinesteachingcounselingprayernon-contacthealing(energyholywaterherbs)
+        Servicetraditions(e.g.,nunsservingmales): Persistbutformalizeddiversified
+        SacredIntercourse("HolyQuota"): LargelyfadesortransformsinmainstreamE2religion
+            Formsofpersistence: Secretpracticeinultra-conservativesectsmonasteries; Highlysymbolicrarepartofmajorrituals; Mainstreamchurchescautiousabolishortransformintovoluntaryspiritually-focused"SacredUnion"
+            Hiddenreality: Privateunsanctionedsexremainscommonduetohumanneedspowerdynamicswithinclosedcommunities
+        Clergyattire: AdherestoE2structuredexposurenorms; Usesmaterialcolorsymbolsdecorativecomplexitytorigidlydenoteranksectfunctionwithinexposedframework
+    "HolySon"rolechange:
+        E1model(physicallyalteredsemenprovider): Extinctcondemnedduetoabuse
+        E2meaning: Orphansraisedbychurch; Voluntarydevotees; Individualswithspecialqualities(beautyuniquehormoneresponsepsychicaptitude)selectedfortraining
+        E2role: Ritualassistantschoristersscribesguardianslow-levelclergy; Respectedbutcontrolledlife; Marriagearrangedbychurch; Limitedadvancementpotential
+        Exceptions: Rarecasesofrisingtopowerviaexceptionaltalentpoliticalskillpowerfulpatronage(lateE2)
+    religionsocietyintertwining: Deeplyintegratedwitheconomypolitics
+        Economicactivities: Beyonddonations -> "HolyProduct"tradepaidservices(ritualscounseling)religiousindustries(tourismartmedicineeducation)
+        Politicalalliances: Churchleadersaspoliticalactors; Symbioticrelationshipbetweenreligiouspoliticalpowers(mutualsupportlegitimationresourcesharingconflict); Religiousconflictsoftenproxyforpowerstruggles
+        ChallengesNewMovements: Techworship(machinesenergy); Naturemysticism(reactiontowarenvironment); Patriarchalrevivalistsects; Extremehedonisticcultsvsasceticminorities
+
+ EPOCH3: EXPLORATIONERA (Approx. 663 Y.E. - 950+ Y.E.)
+
+ 11.0 TIMELINEE3
+
+ 11.1 FrozenConfrontation&Undercurrents (Approx. 663 - 780 Y.E.)
+    - 640-663 Y.E.: SecondWorldWar (redefined end date from previous revision conflict). Ends with extreme cost.
+    - 663 Y.E.: Epoch3Begins. Establishmentof3Superpowers (inheriting traits from Metal, Energy, Bio civilizations). ColdWarstarts. High-pressurereconstruction, armsrace. Surfacecontrolonsexualityincreases, desirepushedunderground.
+    - 670-700 Y.E.: Emergenceof"Uplifted" (優種) - distinct physiological traits (appearance, HormonField, intellect), shorterlifespan (approx35years vs. baseline human ~45-50years). Causes fear/jealousy in baselinehumans. Discriminatorypolicies, segregationzonesappear. Upliftedmarginalized.
+    - 735 Y.E.: "PurificationDecree" (淨化法令) enacted in partsofPower1 (Metal-based) & Power3 (Bio-based) territories. Mandatorygeneregistration. RestrictionsonUpliftedmarriage, keypositions. Tacitapprovalofforcedbiologicalexperiments. Upliftedforcedunderground, secretnetworksform.
+    - 751 Y.E.: "NuclearFlameLament" (核焰悲歌) Incident. RadicalUpliftedgroupseizesnuclearfacility, attemptsEMPattacktodisruptglobalelectronics, failsduetobetrayal/assassination. Participantsalmostallkilled. SlightrelaxationofpoliciesagainstUplifted, BUT mandatorytrackingdevices (disguisedasnipplerings, penisrings, etc.)imposed.
+    - 760 Y.E.: "MoonShadowProject" (月影計劃) - PhaseResults. PrimarilyPower2 (Energy-based) advancesinlunarruinresearch (energy/spacetechprinciples). Temporarilybreakstechbalance, intensifiesspacerace, techblockades.
+
+ 11.2 Ruins,Storms&StarBlood (Approx. 780 - 900 Y.E.)
+    - 785 Y.E.: "CrimsonSwarmUprising" (血色蜂起) Event. UndergroundUplifteddevelopsignaljammingtech for trackers. CoordinateduprisingsinmajorcitiestargetPurificationDecreeenforcers/leaders. Uprisingbrutallysuppressedwithinmonths, butdemonstratesUpliftedorganization/combatpower. ForcesreassessmentofUpliftedthreat, surveillancetightens.
+    - 800 Y.E.: FirstRecorded"AetherStorm" (以太風暴). Subspaceenergyturbulencesweepssolarsystem. Globalcommsdown, earlyinterstellartravelhalted, socialchaos. Stormsbecomecyclicalnorm. Techfocusshiftstoanti-interference, psychiccomms, closed-environmentsurvival. Fearintensifiessocialtension.
+    - 820-870 Y.E.: ColonialStarConstructionPeak & "Starseed" (星種) Project. Tomanageinternalconflict, gainresources, buildstrategicfrontiers, PowersaccelerateconstructionofLagrangepointcolonialstars (Sides). Secret"Starseed"ProjectimplementedbysomePowerstoensurecolony"loyalty"/productivity. MassrelocationofbaselinehumansmixedwithcontrolledUpliftedtocolonies(viagenescreening/forcedpairing). Coloniesbecomenewconflictzones, ethicaltestbeds.
+    - 860 Y.E.: "MoonShadowProject" - FurtherResults (duplicate of 760, likely error in original source, retaining both entries as per source structure but noting potential redundancy). Power2advances.
+    - 880 Y.E.: "Psycho-FrameDoll" (靈欲機偶) - PrototypeTesting. Earlycockpitinterfacescrude (externalsensors/semi-implants affectingcomfort/aesthetics). Psychiclinktechhassideeffects (emotional/memoryinterference). FirsttestpilotsarespeciallycultivatedUpliftedatpeakphysiologicalmaturity.
+
+ 11.3 TotalWar&CostofUnion (Approx. 900 - 950+ Y.E.)
+    - 905 Y.E.: "StarfallWar" (星塵戰爭) Begins. Full-scaleconflictbetweenEarthPowersandautonomy-seekingColonies. Psycho-FrameDollssecretlydeployed, showoverwhelmingpower, rewritewarfarerules. Hunting/forcedpairingofUpliftedforpilots(esp. female"pistils")peaks. WarengulfsEarth-Moonsystem, lastsnearly20years, heavylosses.
+    - 925 Y.E.: ThirdWorldWarErupts. TriggeredbyStarfallWartrauma, resourcedepletion, techimbalance (Psycho-FrameDollproliferation/counters), worseningAetherStormthreat. Final,devastatingconflictbetween3EarthPowers. Allfactionsinvolved. Psycho-FrameDollsaremainforce. Awakenedpowersutilizedmassively. Severalcoloniesdestroyed. Earthecosystemnearcollapse.
+    - 940 Y.E.: LateWarTechIteration. Psycho-FrameDoll"SexualEnergySynchronization" system allows coremale/femalepilotpairtodrivemainunitwhilequantumlysyncingpartialenergy/commandstosingle-female-piloted"SubordinateDolls" (從屬機偶). Clustercombatcapabilityincreases.
+    - 946 Y.E.: "EarthUnitedCouncil" (地球聯合理事會) Established. Facingmutualannihilationandpotentialexternalthreats, survivingfactionsreachcompromise. Jointbodyforpeacekeeping, defensecoordination, resourceallocation. Fragilealliance, internalconflictsunresolved.
+    - 950+ Y.E.: SlowRecoveryPeriod underUnitedCouncilbanner. ResearchonAetherStorms, ruinscontinues. Psycho-FrameDolls&drivesystemsremainunderstrictcontrol duetoefficiency, potentialcivilianapplicationconversionresearched (expectedinitialappsinnextcentury, e.g., largeshippropulsion). ExplorationEracontinuesamidstruinsanddesire.
+
+ 12.0 EPOCH3SOCIETYOVERVIEW: Post-WarProsperity&CoreContradictions
+
+    - Context: PostWW2E2 (ended ~643), StarfallWar (~905-925), WW3E3 (~925-946). Builtonruins.
+    - TechBoom: Bio-engineering, energyapps, Psycho-FrameDolls (sexenergydrive) basedonruintech.
+    - Geopolitics: 3SuperpowersinEarth-Moonsystem (Metal, Energy, Bio legacies). Confrontation/cooperation/conflict.
+    - Threat: CyclicalAetherStormsdisrupttravel/comms, driveresearchintoclosedenvironments/psychicpowers.
+    - CoreContradiction:
+        - A: ExtremelyLowNaturalFertility (duetowar, environment, physiology). Speciessurvivalanxiety.
+        - B: UnprecedentedSensoryStimulation (strongHormonField, psychiclinks, pleasuretech). Pursuitofextremephysicalpleasureiscorelifeexperience.
+    - SocietyTension: Betweenprocreationanxietyandpursuitofpresentpleasure. Vibrantbutdistorteddynamic.
+    - SexRatio: Furtherimbalancedto1Male : 5to7Female. Profoundlyshapespower, family, socialinteraction.
+
+ 12.1 MasterofSex: Pleasure-SupremeSocialCognition&DiversePolities
+    - SexStatus: Elevated. Notjustneed/procreationbutcorevaluemetric, economicdriver, relationshipglue/breaker, Psycho-FrameDollfuel. Highestpursuit.
+    - SocialCognition: Deep,extremesexualpleasurerecognizedascore,mostintensejoy. Drivesconstantpursuitofmore/bettersex.
+    - SexualLiberation: Complete. Insertionsexismundane, integratedintoallaspectsofdailylife. Publicintimacy/sexiscommon, accepted.
+    - Marriage: Significanceweakened. Becomeslate-life (around35yearsold)legal/ceremonialactprimarilyforpropertyinheritance (strictlymatrilineal)andchildattribution.
+    - PoliticalDiversity:
+        - MatriarchalStates: Femalesocio-economicdominance, butstillcompeteforscarcemales. (Inheritedtradition)
+        - EgalitarianStates: Theoreticalequality, jointproduction. Culturaltendencyforfemalestocherish/protectmales.
+        - PatriarchalStates: Male-dominated, femalestatuslower.
+        - ExtremistStates/Regions (Fringe/ClientStates): "AllFemalesareMaleSlaves" OR "AllMalesareFemaleSexSlaves" ideologies (SexualSupremacism / 性粹思想). Oftenpretextforlocalwars/intervention.
+    - Overall: Complexsociallandscape, internaltensions, potentialconflicts.
+
+ 12.2 UpliftedRise&Fall: Glory&ThornsofWhiteHairPinkEyes
+    - Origin: DescendantsofpureNewHumanlines (possiblyroyalty/officials) undergoingspecificmutationduetonarrowgenepoolovertime.
+    - Traits: Whitehair, pinkeyes. Superiorappearance/physique (femalesfullerbreasts, malesmoreperfectgenitals). StrongerHormonField (emission/perception). Higheravgintellect. Exceptionalaptitudeforpsychiclinktech. Cost:Lifespancappedat~35years.
+    - EarlyE3: Initiallyupperclass (elites, officials, scholars) duetoadvantages/inheritance.
+    - MidE3Persecution: Triggeredbaselinehumanjealousy/fear ("unfair" advantage). Politicallyexploited. Nazi-likepurge. Drivenfrompower, arrested, imprisoned, exiled. Childrenoftenforciblytakenformilitarizedtraining(esp.Psycho-FrameDollpilots).
+    - TrackingDevices: Mandatorywear (disguisedasnipple/penisrings). Standardized,utilitarianlook. Combinedwithdistinctappearance,makesthemeasilyidentifiable,symbolofsubjugation.
+    - InternalFactions:
+        - Revolutionaries: Armedstruggle/radicalmeans.
+        - Integrationists: Useadvantagestocoexist/changefromwithin.
+        - Acceptance: Submittooppressionforsurvival.
+    - Resistance: SomeRevolutionariesdisabletrackers, launchuprisings (e.g., "CrimsonSwarmUprising" 785 Y.E.). Suppressedbutshakeregime.
+    - TurningPoint (~770 Y.E. onwards): Psycho-FrameDollbreakthrough revealsUpliftedasidealpilots. Militaryneedforcesreassessment. Systematiccultivationreplacespurepersecution.
+    - LateE3StatusReversal: Pilotsuccess&improvedgeneticunderstandingshiftperception. Increasinglyseenasvaluableasset, futureofhumanevolution (esp.bytech/militarysectors). Surveillancegraduallyabolished. Widerintegrationintoallsocialstrata. SymbolofE3tech/socialchange.
+
+ 12.3 BodyUnionNormalization: EternalBackgroundHumofSex
+    - Concept: Individuals(esp.females)maintainlong-term,uninterruptedinsertivesexualintercourse(withpartnerorcompatibledevice)duringdailyactivities(work,study).
+    - Purpose: Notjustorgasm,butsustaineddiffusephysiological/psychologicalarousalstate ("BasalOrgasm" / "Pseudo-Orgasm").
+    - Mechanism: Continuous,mild/stableinternalgenitalstimulation+ambientstrongHormonFieldactivatesbrainreward/arousalcenters.
+    - Effect: Believedtoenhancecognitiveefficiency,focus,sensoryacuity. Providesconstant,comfortablebackgroundpleasure.
+    - Dependency: Common. Withdrawalcausesemptiness,irritability,concentrationloss,discomfort(likeaddictionwithdrawal). Maintaininginsertionbecomesbasicneed. Loversexpressintimacyviaprolonged(nearconstant)connection.
+    - TechAdaptation: Specializedfurniture/workstations (deskswithinsertionpoints/vibrators), vehiclecontrols (gearshiftasdildo,co-pilotviainsertionsensor,nipple-mountedjoysticks/touchpads), homefurnishings designedforprolongedsexinvariouspositions.
+    - HygienePrerequisite: Extremelyhighstandardsessential. Constantcontactrequiresadvancedpersonalcleansers(bodywash,genitalcleaners),long-lastinglubricants/antimicrobials(usedwithbodyoil),frequentdisinfectionof"decorations",surfaces,devices(UVsterilizers,self-cleaningseats). Thistechunderpinsthephenomenon.
+    - SocialDimension: Alsousedamongacquaintances(classmates,colleagues)forfriendship,stressrelief,buildingrapport. Usuallyinvolvesstableconnection,minimalthrusting. Leadstoubiquitous,near-unconsciousphysicalcontact (malehandonfemalebreast,femalefingersonmalechest/nipple)forsensoryregulation/intimacyconfirmation.
+    - Alternatives: Dildoscommonforunpartneredfemales. Providephysicalstimulation,butlackHormonFieldinteraction,emotion,deepsatisfaction. Seenastemporary/supplementary.
+
+ 12.4 StrongHormonFieldEnvironment: UbiquitousFieldofDesire
+    - Baseline: Humanshighlyadapted,requirefieldforbasicvitality,cognition,backgroundpleasure. Perfecthygiene(skin/environment)isprerequisiteforpeakE3experience.
+    - AdaptationFocus: Describesresponsesofindividualswithregularinsertivesexpatterns ("Adapted"). ContrastedwithPrimary/SecondarySRPindividuals.
+    - SaturationThreshold: Physiologicallimitexists. Fieldstrengthbeyondthresholddoesn'tincreasecorepleasureintensity, thoughsubtlesensorydifferences (individual"signatures")perceived.
+    - DistanceGradient(AdaptedIndividuals):
+        - >7m(FarDistance): Minimaleffect,subconscioussensorytuning.
+        - 5m(PhysiologicalPerceptionZone): Standardarousalprotocol. Bothsexes:nipplenerveactivityincreases (tingling/prickling; male:subtlechestcurrent,nippleerection,clothfrictionnoticeable). Female:baselinevaginallubrication. Male:stablesemi-erection. Signal:enteringpotentialinteractionrange. (SRPindividuals:stronger,full-bodyreaction,increasedheart/breathrate,alertness,anxiety/anticipation).
+        - 3m(SignificantResponseZone): Deeperactivation. AdaptedFemale:breastsfull/warm,nipplesfullyerect,amplelubrication,clitoralpulsing/pleasure. AdaptedMale:fullerection(firm,angled),glanshighlysensitive(warm/wetenvelopmentsensation),prostateactive(clearfluidsecretion). MaleNippleSensitivity:noticeablyincreased,persistentlyerect,reactsclearlytotouch/temperature (brief,clearpleasanttinglingwave),stablepartofoverallrisingarousal. Adaptedindividualsgenerallymaintainbehavioralcontrol. (SRPindividuals:controlthreshold. Female:potentialbrieffainting/muscleweakness/uncontrolledfluidreleasefromintensepleasure. Male:potentialerectilepain,thoughtdistractionbypleasure/urgetoinsert).
+        - 1m(DeepInteraction&PhantomIntercourseZone): Peakfieldstrength/resonance. AdaptedFemale:breast/nipplesensitivitymax,slightesttouchcausesintensereaction. Vaginalmusclesactiverhythmiccontractions/pulsations,copiousviscouslubrication. "PhantomIntercourse"(幻交感)manifests:vividsensoryillusionofbeingdeeplypenetrated/filledbylarge,warm,activepeniswithoutphysicalinsertion.Causescontinuous,stronginternalpleasure. AdaptedMale:penisremainshot/hard,pulsefeltatroot,highbackgroundarousal,strongurgeforphysicalinsertion. MaleNippleSensitivity:Peak.Constant,strong,distractingelectric-liketinglingevenwithouttouchduetohormonalsaturation.Directtouch(fingers/tongue)causesinstant,sharpamplificationofpleasure,brieflyoverwhelming,addinglayertoextremearousal.
+    - PhantomIntercoursevsContinuousClimax: PhantomIntercourseishormone-fieldinducedillusion."ContinuousClimax"(持续快感)requiresactual,physicalinsertionanddeep,sustainedfriction/energyexchange.It'sahigher-levelstateoffocused,immersiveblissonrealstimuli,unattainablebyfieldalone.
+    - SRPIndividualsat1m: Highriskof"MildLossofControl". Female:potentialbrieforgasm-inducedfaint(fewsecondsconsciousnessloss),uncontrollablefull-bodymusclerigidity/severespasms,inarticulatesobbing. Male:completelossofpre-ejaculatecontrol(continuousheavydripping),potentialinvoluntaryejaculationtriggeredsolelybyintensevisual/olfactory/motioncueswithoutphysicalcontact.Firstoverwhelmingexperience deeplyimprintspursuitofextremepleasure.
+    - MidE3(~780-900): Highadaptation,PhantomIntercoursemanaged/normalized(usedforenergy/focus/backgroundpleasure). SocietalbufferingmechanismsforSRPinitialreactions(adaptationcenters,drugs,guidedintroduction).
+    - LateE3(900+): Adaptationpeak,pleasuremarginalutilitydecrease. IntensePhantomIntercourseisambientnorm. Focusshiftstofinercontrol/higherperformanceviapsychictraining(hormonemodulationtechniques)orbiotechaids(neurotransmitterimplants,sensoryfilteringtech). Moreinternalizedexplorationstage.
+
+ 12.5 IndulgenceinPleasure: E3InteractionRules&LandscapeofLust
+    - InteractionModel: ExtremeevolutionofE2openness. Rejectsslowemotionalbuildup. Highlydirect, basedonphysiologicalresponse&immediatepleasure. Efficiencyoveremotion.
+    - FirstEncounter: TriggeredbystrongHormonFieldresponse. Bodysignalsprecedecontact (maleerection, femalenippleerection/wetness). Visualassessmentfocusesonsexualattractiveness. Activedisplayofassets (femaleposture,slightmilkleak; malestance,genitaldisplay).
+    - "LabialKiss" (陰唇之吻): SignatureE3greeting/assessment. ReplacesE2tentativetouch. Oneparty(oftenfemale)directlyrubswet,sensitivevulvaagainstother'sgenitals. Directsensoryflirtation&compatibilitytest(viatemperature,wetness,smell,muscleresponse). Intensity/durationsignalsinterest. Canbecomepublic"flirtatiousperformance"/foreplay.
+    - RapidDecision: Basedonhormoneresponse&LabialKiss,decisionforinsertionsexmadewithinminutes. Verbalcommunicationbrief,direct,explicit.
+    - InstantInsertion: Ifconsentgiven,insertionisimmediate,natural. StrongHormonFieldactsasconstantforeplay. Anylocationbecomespotentialsexsite(streets,transport,offices,parks).
+    - RelationshipMaintenance: High-frequencysexisbasisforunderstanding/bonding(ifdesired). "BodyUnionNormalization"(12.3)integratessexintoallactivities. Publicsexaccepted,sometimesstatusdisplay.
+    - Sex-centricActivities: Experimentationwithpositions/techniquesinvariedenvironments. Mutualfeedingofbodyproducts. Publicbathplay. "LapDanceSex"(骑舞)combiningdance/intercourse. Recording/exchangingsexvideos(subculture). Multi-partnerrelationships(esp.1malemanyfemale)arenorm; sexperformancekeytovalue/conflictresolution. Techinfluencesmatchmaking/relationships (bio-datamatching,sensorysharingdevices,virtualsexspaces).
+
+ 12.6 FashionTrends: CanvasofFlesh&TechEmbellishments
+    - CorePrinciple: BuildsonE2bodyworship,transformsclothingrole. Clothingfunctionpurelysensoryexpression,decoration,socialsymbol. Bodyissupremeaestheticmedium. "Clothes"becomecomplexsystemdominatedbytransparent/semi-transparentmaterials(esp.lace),specificstructuralelements(fakecollars,halternecks),precisioncutformandatoryexposureofkeyareas.
+    - MaterialDominance: Lace,chiffon,finemeshareprimarymaterialsforE3dailywear,coveringtorso/limbs,NOTasaccents. Fakecollars,halterneckspopularfornecklinestructure/elegance,directinggazedownwardstoexposedchest.
+    - MandatoryExposure: Coredesignphilosophyusestransparency/openstructuretoforcefullyrevealandhighlightcoresexualzones(female:fullbreastsincludingnipples,vulva; male:fullpenis&testicles). Lacepatterns/chiffontexturecontrast/interactwithbare,oiledskintoframe/emphasize/beautifythesezones.
+        - ExampleFemaleDaily: Full-bodylacelong-sleevetopwithchestsectionmissingorconnectedbythinstraps. Lowerbody:lace/chiffondecorativeskirtoutlineorcomplexthong/open-crotchvariant.Oftenwithlace/transparentstockings&suspenders.
+        - ExampleMaleDaily: Halternecktopwithfakecollar/lacesleeves. Lowerbody:lace/transparentgenitalpouchordecorativestrapsemphasizingorgans.
+    - UbiquitousStyle: Transparentlacedominantstyleisnormforalldailyactivities(work,study,social).
+    - Coexistencewith"RetroStyles": ComplexE2styles(heavymetaldecor,embroidery,layereddesigns)stillexistasoptionsforfestivals,parties,specificthemes,personalexpression.BUTmuststilladheretomandatoryexposurerule(e.g., openchest,structuralcrotchexposure). Bothstyles(dailylace&occasionalretro)defineE3visualculture.
+    - BodyDecoration: Metal/gem/naturaladornmentsrefined,designedtocomplementlace/chiffon. Malepenis/testiclerings/pendants,Femalenipplerings/chainscoordinatewithclothingstraps/openings. Tattooartpeaks:finelacepatterns,designsintegratingwithclothingarepopular.
+    - BodyOiling: Elevatedtoextremeimportance. Ubiquitous,highlyspecializedoilsensureskin'svisual/tactileperfectiontocomplementtransparentfashionandsupportextremesensoryfocus.
+    - Naturism(Tian Ti Pai / 天體派)Emergence: Radicalmovementadvocatingcompleterejectionofallclothing/adornments(exceptfootwear/essentialprotection). Viewanyadditionasdistortionofnaturalbodyperfection. Practicefullnudityinallcontexts. ChallengesevenE3'sopenness. Tolerated(ifmarginalized),showspeakdiversity/opennessofE3bodyconcepts. Finallogicalconclusion/reactiontobody-centricideology.
+
+ 12.7 FlowingLoveNests: E3FamilyLandscape&SocialFabric
+    - FamilyStructure: Traditionalstablemarriagedissolved. Replacedby"lover"cohabitationmodelcenteredaroundfemale-controlledresidences. SexRatio~1:6keydriver.
+    - Dynamics: Malestypicallyhavemultiplefemalepartners(2-8+). Femalescontrollivingspace,housechosenmale(s)andpossiblyothercohabitingfemales. Relationshipstabilityhighlydependentoncontinuoussexualsatisfaction.
+    - MaleRole: "SeedProvider",rotatesbetween"lovenests". Corevalue:genetics&satisfyingfemalepartners'needs. Shortstayscommon(~4monthsunlessdeepbond). Providinghigh-qualitysexcanbe"payment"forlodginginnew/unstablerelationships.
+    - FemaleRole: Dominantinhousehold. Instablerelationships,expressintimacyviaimmediatebodyexposure/sexualinvitation.
+    - Multi-PartnerHouseholdDynamics(FreeStates): Femalememberscooperate(living,child-rearing-matrilinealonly)andcompete(implicitly)formaleattention/timeviasexualinitiative,attractiveness,statuswithingroup. MalerequireshighEQ/staminatomanage.
+    - State-SponsoredProcreation: "FertilityLeave"(Shengyu Jiaqi / 生育假期)common.Malegetsmonthsofftostayhomeforhigh-frequency,non-stopsexwithone/morepartnerstoboostconceptionchances.
+    - ExtremistStateControl: Intotalitarian/supremaciststates,statedictatespartnershipsbasedon"purity","geneticsuperiority",orpoliticalloyalty.Personalpreferenceignored."ModelFamilies"(successfulbreedersof"standard"offspring)rewarded."Non-standard"combinationsfaceforcedseparation,marginalization,conscriptiontoriskyduties.Familybecomestoolforstatecontrol/eugenics.Sexbecomespoliticalduty.
+    - Child-Rearing: Childrenraisedin"MotherNest"(Mu Chao / 母巢)dominatedbybiologicalmother&herfemalesocialcircle(sisters,co-partners). Multiple"mother"figures,widebutpotentiallyshallowattachments. Non-biological"aunts"involvedinupbringing,possiblynon-insertivesexualinitiationforadolescentboys. Girlsencouragedearlyindependence/partnerselection. Fatherconceptistransient/fragmented. Childrenlearntovaluepresentintimacy,physicalpleasureasprimaryrelationshipmetric;lackexperience/desireforlong-termconflictresolution/commitment.
+    - IdolCulturePeak: Idolsmarketedas"PublicSexualResources". Performfullynude,songs/dancespraisesex/arousal. Corebusinessmodel:Tiered"InsertionMeetings"(Charu Hui / 插入會). Basicfansobserve/limitedinteract.VIPspayforrealinsertionsex.Top-tier:Personalizedinsertionexperiences(scene,outfit,positioncustomization)forwealthyfans. Idolliveshighlycontrolled,largeamountoftimespent"servicing"fans.
+    - LivingSpace/FurnitureDesign: Open-plan,multi-functionalhomes. Bedroomslargest,hugebeds,fixingsformultiplepartners/positions(handholds,slings). Livingroomsmayhavestages/lightingforsexdisplay. Furnitureutility-focused,mechanicaldesignforsex:versatile"SexChairs",deskswithcutouts/supportsfor"BodyUnion",sofasconvertingtobeds,sturdy/easy-cleantables. Entirespaceoptimizedforconstant,convenientsensorypleasure.
+
+ 12.8 Crucible&Hothouse: E3CampusLandscape
+    - AcademicRigor: SignificantlyincreasedvsE2. Coresubjects(math,physics,chemistry)moredemanding. Higherintellectual/energydemandsonstudents.
+    - PhysicalExertion: Mandatoryhigh-volumephysicaltrainingprogramswidespread. Aims:channellibidobyexhaustion,shapebodiestoE3aesthetic(healthy,strong,high-stamina,athlete-like).
+    - SexEducation: Continuous,corepartofcurriculum. Startsearly(preschoollevel:mutualgenitalexplorationnormalized). Elementary:basicphysiology/hormones/ethics. Jr/SrHigh:complexpsychology,positionmechanics,basiccontraception/health(thoughlowfertilityreducesneed).
+    - MaturityBasedInsertionRule: E2elitepracticebecomesE3normformostJr/SrHigh. Insertionsexprohibiteduntilfullphysiologicalmaturityconfirmedviaobjectivebio-scanatschoolclinic(notage-based). RemovesneedforE2-stylechastitydevices. Morescientificmanagement.
+    - MaturityIndicators&Removal:Priortopassingbio-scan,studentsmustwearspecificmarkers. Female:Mandatory"OverflowControlNippleRing"(Kongyi Ruhuan / 控溢乳環) - physicaldevicelightlyconstrictingnipplebasetoreduceuncontrolledlactation,visualsignifierofminorstatus. Male:Mandatory"OverflowSuppressionRing"(Yiyi Huan / 抑溢環) - wornatpenisbase,usesphysicalconstraintorbio-feedbacktoinhibituncontrolledsemen/prostatefluidleakageduetoexcessivepleasure,visualidentifier. Uponpassingbio-scanandbeingdeclared"Adult",individualhasright&expectationtoimmediatelyremoveallsuchmandatorydevelopmentalmarkers.
+    - EarlyPregnancyExpectation: Culturestronglyencouragesearlypregnancyattemptsimmediatelyafterinsertionrestrictionslift(usually16-17yrsold) duetohighfrequencysex. Consideredimportantlifeexperience,regardlessofsuccess.
+    - Accommodation&SocialStructure: BoardingmandatoryfromHighSchoolonwards(mostschools,incl.elite). Universaladoptionofmixed-gender"Living&StudyGroups"(mimickingmilitarysquads/futurefamilyunits). Basedonschool'sM:Fratio(~1:5typical),1malecorewithseveralfemales. Separatedormunits(sharedliving,semi-privatesleepareas). Fixedstudyareas. ExplicitGoal:Simulatefuturemulti-partnerfamilystructure,forceearlylong-termpartnerselection/bondingin"pure"/homogenousenvironment. Schoolseenasbest/primaryplacetofindstable,matchedpartnersforfuturelife/socialharmony. (EvolutionofE2"PrepPartner"system). Childhoodintimacy(bathing, touching, exploring bodies) between playmates is norm, leading to early deep non-insertive exploration.
+    - EliteSchools&HomeEducation: Eliteinstitutions(private/national)existwithhigherstandards/resourcesbutfollowsamecorerules(boarding,groups,bio-scanadulthood). Elitefamiliessendchildrentotheseschools; homeschoolingcannotreplaceschool'scrucialroleinsocialnetworking&partnermatching.
+    - CampusSexuality: Sexcommononcerestrictionliftedwithingroups. "BodyUnionNormalization"duringstudyvaries:allowed/encouragedinarts/practicalcourses(enhancescreativity/simulateswork); usuallydiscouragedintraditionalacademic/theoryclasses.
+    - Teacher-StudentRelations: Widelyaccepted. Primarilyseenasmentorshipinsexualtechnique/philosophy,or"reward"forstudentexcellence(academic,athletic,or"SexGPA"performance).
+    - SexGPA: (OptionAfromearlierdiscussion): Partofcomprehensiveevaluation. Considersgenitalhealth,sexknowledge,athlete-standardphysique.
+    - SexCompetitions: Maystillexistasentertainment,butintegratedwithsports,bodybuilding,oroverallevaluations,notpurelyperformance-based.
+    - Uniforms: FollowE3exposureprinciples(lightweight,revealing). Details(fit,fabric,badges)mayindicategrade,group,or"SexGPA"ranking. Mandatoryaccessories(likenipple/penisrings)markmaturitystatus.
+    - GraduationDivergence: Jr.Highgraduation(~15years)remainskeysplit. MostproceedtoHighSchool/University. Militaryserviceremainssignificantalternativepath,withitsowndistinctculture(largelyconsistentwithE2militarystructurebutinfluencedbyE3norms/tech).
+
+Pre-History (Old World, ~Pre-Cataclysm):Analogy: ~Real Year 2000-2020 AD (Global Network, Advanced Tech Base before collapse).
+Pre-History (Golden Cross Period, ~Post-Reunion):** Analogy: ~Real Late 19th / Early 20th Century AD (Steam, Early Electricity, hints of recovered advanced knowledge, fusion era).
+Epoch 1 (Early, ~0-100 Y.E.): Analogy: ~Real Early Medieval / Dark Ages (Post-collapse recovery, basic survival tools, fragmentation).
+Epoch 1 (Late, ~200-300 Y.E.): Analogy: ~Real Late Medieval / Early Renaissance (Consolidation, basic metallurgy/agriculture, early city-states, tech plateau before E2).
+Epoch 2 (Early-Mid, ~300-480 Y.E.): Analogy: ~Real Mid-18th to Late 19th Century AD (Industrial Revolution starts, steam power, early factories, WW1-analogue conflict tech level).
+Epoch 2 (Late, ~480-663 Y.E.): Analogy: ~Real Early to Mid-20th Century AD (Electricity widespread, airships mature, early concept/WMD weapons, WW2-analogue conflict tech level).
+Epoch 3 (Early-Mid, ~663-780 Y.E.): Analogy: ~Real Mid-20th Century to Year 2000 AD (Cold War analogue, early space exploration/stations, computers emerge, bio-engineering foundations laid). Aligns with user anchor: 751 Y.E. tech stage is broadly comparable to Real Year 2000 AD.
+Epoch 3 (Mid-Late, ~780-950+ Y.E.): Analogy: ~Gundam UC 0001 - UC 0100+ Stage Progression for key domains. (Space Colonization [Sides], Mobile Suit Analogue [Psycho-Frame Dolls development & deployment], Major Space Warfare, Psychic Phenomena analogues via Uplifted/tech). Indicates a trajectory shift towards UC-style space/military tech development post the ~Real 2000 AD baseline.
