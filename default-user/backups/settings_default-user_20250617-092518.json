@@ -1,8 +1,7 @@
 {
     "firstRun": false,
     "accountStorage": {
-        "__migrated": "1",
-        "NavOpened": "true"
+        "__migrated": "1"
     },
     "currentVersion": "1.13.0",
     "username": "ak161616",
@@ -11,7 +10,7 @@
     "user_avatar": "user-default.png",
     "amount_gen": 350,
     "max_context": 8192,
-    "main_api": "openai",
+    "main_api": "koboldhorde",
     "world_info_settings": {
         "world_info": {
             "globalSelect": []
@@ -383,11 +382,7 @@
         "pin_styles": true,
         "click_to_edit": false,
         "ui_mode": 1,
-        "auto_sort_tags": false,
-        "selectSamplers": {
-            "forceHidden": [],
-            "forceShown": []
-        }
+        "auto_sort_tags": false
     },
     "extension_settings": {
         "apiUrl": "http://localhost:5100",
@@ -696,110 +691,11 @@
             "id": "1345561466591",
             "name": "ST Default",
             "color": "rgba(108, 32, 32, 1)"
-        },
-        {
-            "id": "79ed87f9-20a4-4346-93e6-8951aa9e991c",
-            "name": "上海名媛",
-            "folder_type": "NONE",
-            "filter_state": "UNDEFINED",
-            "sort_order": null,
-            "is_hidden_on_character_card": false,
-            "color": "",
-            "color2": "",
-            "create_date": 1750152339555
-        },
-        {
-            "id": "64fe763f-8ad6-417e-bbf8-6523af7c9e45",
-            "name": "拜金",
-            "folder_type": "NONE",
-            "filter_state": "UNDEFINED",
-            "sort_order": null,
-            "is_hidden_on_character_card": false,
-            "color": "",
-            "color2": "",
-            "create_date": 1750152339555
-        },
-        {
-            "id": "282c9fd7-3e71-43ae-8cf7-c74b82b98912",
-            "name": "崇洋媚外",
-            "folder_type": "NONE",
-            "filter_state": "UNDEFINED",
-            "sort_order": null,
-            "is_hidden_on_character_card": false,
-            "color": "",
-            "color2": "",
-            "create_date": 1750152339555
-        },
-        {
-            "id": "a6e3ac17-9516-4ebb-b4b6-14bfc3e819fe",
-            "name": "黑人崇拜",
-            "folder_type": "NONE",
-            "filter_state": "UNDEFINED",
-            "sort_order": null,
-            "is_hidden_on_character_card": false,
-            "color": "",
-            "color2": "",
-            "create_date": 1750152339555
-        },
-        {
-            "id": "01666bf6-ab60-4940-804c-3e9a54975867",
-            "name": "R18",
-            "folder_type": "NONE",
-            "filter_state": "UNDEFINED",
-            "sort_order": null,
-            "is_hidden_on_character_card": false,
-            "color": "",
-            "color2": "",
-            "create_date": 1750152339555
-        },
-        {
-            "id": "bd596ae9-49ed-4c0a-a409-c40eb60f5e7f",
-            "name": "性开放",
-            "folder_type": "NONE",
-            "filter_state": "UNDEFINED",
-            "sort_order": null,
-            "is_hidden_on_character_card": false,
-            "color": "",
-            "color2": "",
-            "create_date": 1750152339555
-        },
-        {
-            "id": "d9874bcf-16a0-42f2-aee9-d4906bed4425",
-            "name": "侮辱",
-            "folder_type": "NONE",
-            "filter_state": "UNDEFINED",
-            "sort_order": null,
-            "is_hidden_on_character_card": false,
-            "color": "",
-            "color2": "",
-            "create_date": 1750152339556
-        },
-        {
-            "id": "6731b527-5aa4-4052-a3f9-516f142db972",
-            "name": "现代都市",
-            "folder_type": "NONE",
-            "filter_state": "UNDEFINED",
-            "sort_order": null,
-            "is_hidden_on_character_card": false,
-            "color": "",
-            "color2": "",
-            "create_date": 1750152339556
         }
     ],
     "tag_map": {
         "default_Seraphina.png": [
             "1345561466591"
-        ],
-        "null": [],
-        "杨晓彤.png": [
-            "79ed87f9-20a4-4346-93e6-8951aa9e991c",
-            "64fe763f-8ad6-417e-bbf8-6523af7c9e45",
-            "282c9fd7-3e71-43ae-8cf7-c74b82b98912",
-            "a6e3ac17-9516-4ebb-b4b6-14bfc3e819fe",
-            "01666bf6-ab60-4940-804c-3e9a54975867",
-            "bd596ae9-49ed-4c0a-a409-c40eb60f5e7f",
-            "d9874bcf-16a0-42f2-aee9-d4906bed4425",
-            "6731b527-5aa4-4052-a3f9-516f142db972"
         ]
     },
     "nai_settings": {
