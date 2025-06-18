@@ -15,8 +15,7 @@
         "AlertWI_第一章3.8.png": "true",
         "AlertRegex_第一章3.8.png": "true",
         "AlertWI_速度与姬情 v13.0 Ω.png": "true",
-        "WI_PerPage": "1000",
-        "LNavLockOn": "true"
+        "WI_PerPage": "1000"
     },
     "currentVersion": "1.13.0",
     "username": "林深",
@@ -4012,7 +4011,7 @@
         "repetition_penalty_openai": 1,
         "stream_openai": true,
         "openai_max_context": 2000000,
-        "openai_max_tokens": 16000,
+        "openai_max_tokens": 8192,
         "wrap_in_quotes": false,
         "prompts": [
             {
