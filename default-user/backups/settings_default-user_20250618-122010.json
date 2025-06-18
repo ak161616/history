@@ -3,7 +3,7 @@
     "accountStorage": {
         "__migrated": "1",
         "NavOpened": "false",
-        "LNavOpened": "false",
+        "LNavOpened": "true",
         "Characters_PerPage": "1000",
         "SelectedNavTab": "rm_button_characters",
         "WINavOpened": "true",
@@ -16,8 +16,7 @@
         "AlertRegex_第一章3.8.png": "true",
         "AlertWI_速度与姬情 v13.0 Ω.png": "true",
         "WI_PerPage": "1000",
-        "LNavLockOn": "true",
-        "AlertWI_探花直播.png": "true"
+        "LNavLockOn": "true"
     },
     "currentVersion": "1.13.0",
     "username": "林深",
