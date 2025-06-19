@@ -4013,7 +4013,7 @@
         "top_a_openai": 0,
         "repetition_penalty_openai": 1,
         "stream_openai": true,
-        "openai_max_context": 163840,
+        "openai_max_context": 2000000,
         "openai_max_tokens": 16000,
         "wrap_in_quotes": false,
         "prompts": [
@@ -5182,7 +5182,7 @@
         "openrouter_middleout": "on",
         "reverse_proxy": "",
         "chat_completion_source": "openrouter",
-        "max_context_unlocked": false,
+        "max_context_unlocked": true,
         "api_url_scale": "",
         "show_external_models": true,
         "proxy_password": "",
