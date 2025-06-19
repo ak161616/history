@@ -5181,7 +5181,7 @@
         "openrouter_allow_fallbacks": false,
         "openrouter_middleout": "on",
         "reverse_proxy": "",
-        "chat_completion_source": "custom",
+        "chat_completion_source": "openrouter",
         "max_context_unlocked": false,
         "api_url_scale": "",
         "show_external_models": true,
