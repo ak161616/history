@@ -3473,6 +3473,17 @@
             "color": "",
             "color2": "",
             "create_date": 1750173294875
+        },
+        {
+            "id": "7cc04779-6cd8-444b-9bd7-5d96b4b1eebe",
+            "name": "动态剧情",
+            "folder_type": "NONE",
+            "filter_state": "UNDEFINED",
+            "sort_order": null,
+            "is_hidden_on_character_card": false,
+            "color": "",
+            "color2": "",
+            "create_date": 1750415728921
         }
     ],
     "tag_map": {
@@ -3940,6 +3951,20 @@
             "dda84875-d51e-4918-b0f3-4cc8cc490c7a",
             "af9baf9e-2fe4-4fcc-9a7e-c05f5b080def",
             "7c56064d-5ecb-4536-aaec-88116e723b08"
+        ],
+        "海贼王叙事者.png": [
+            "f86b763d-ef20-4ac6-97cc-c0aa1acc3d53",
+            "6aed81b9-b1e2-47a1-a1ba-5ab22364e784",
+            "62101197-3ad1-4e93-b891-fa3b218bd4e1",
+            "60e16b35-f1d6-4b9b-b7ca-a955833209ba",
+            "043eb534-b84c-4124-b7e3-e878f588799d",
+            "df7805d1-b19c-4e94-91f5-69b805b8cc7b",
+            "0ed16129-7c5d-4379-b88c-84f462710eec",
+            "1b29a171-9fec-4ce1-9791-0ea6060d9b7d",
+            "1fcc1017-123f-468b-af33-63eb5a33990a",
+            "ca6a87e1-a2b4-4b56-8d3a-b95759eef88d",
+            "853cb737-339e-4c87-948b-c342e5f15153",
+            "7cc04779-6cd8-444b-9bd7-5d96b4b1eebe"
         ]
     },
     "nai_settings": {
