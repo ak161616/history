@@ -2,7 +2,7 @@
     "firstRun": false,
     "accountStorage": {
         "__migrated": "1",
-        "NavOpened": "true",
+        "NavOpened": "false",
         "LNavOpened": "false",
         "Characters_PerPage": "1000",
         "SelectedNavTab": "rm_button_characters",
@@ -27,11 +27,12 @@
         "AlertWI_刘雨瑶.png": "true",
         "AlertWI_{{user}}的AV女优后宫.png": "true",
         "AlertWI_莉安娜·魅夜 (淫乱欲女).png": "true",
-        "AlertWI_AI互动叙事：洛青青的都市罗曼史.png": "true"
+        "AlertWI_AI互动叙事：洛青青的都市罗曼史.png": "true",
+        "AlertWI_电竞圈恶霸.png": "true"
     },
     "currentVersion": "1.13.0",
     "username": "林深",
-    "active_character": "AI互动叙事：洛青青的都市罗曼史.png",
+    "active_character": "欲望之戒.png",
     "active_group": null,
     "api_server": "http://127.0.0.1:5000/api",
     "preset_settings": "RecoveredRuins",
