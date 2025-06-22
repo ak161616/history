@@ -36,11 +36,13 @@
         "AlertWI_赛博朋克2077 往日之影.png": "true",
         "AlertWI_大虞王朝（ntr）.png": "true",
         "AlertWI_林晓雨.png": "true",
-        "AlertRegex_林晓雨.png": "true"
+        "AlertRegex_林晓雨.png": "true",
+        "AlertWI_刘珊.png": "true",
+        "AlertWI_聊天软件嫖娼模拟器.png": "true"
     },
     "currentVersion": "1.13.0",
     "username": "林深",
-    "active_character": "林晓雨.png",
+    "active_character": "聊天软件嫖娼模拟器.png",
     "active_group": null,
     "api_server": "http://127.0.0.1:5000/api",
     "preset_settings": "RecoveredRuins",
