@@ -13,11 +13,23 @@
         "AlertWI_杨晓彤.png": "true",
         "mediaWarningShown:第一章3.8.png": "true",
         "AlertWI_第一章3.8.png": "true",
-        "AlertRegex_第一章3.8.png": "true"
+        "AlertRegex_第一章3.8.png": "true",
+        "AlertWI_速度与姬情 v13.0 Ω.png": "true",
+        "WI_PerPage": "1000",
+        "LNavLockOn": "true",
+        "AlertWI_探花直播.png": "true",
+        "AlertWI_真真假假.png": "true",
+        "AlertWI_雪嫣.png": "true",
+        "AlertWI_东方瑶.png": "true",
+        "AlertWI_林清雅.png": "true",
+        "AlertWI_少妇白洁.png": "true",
+        "AlertWI_校园恋足.png": "true",
+        "AlertWI_杨洁 (粗口痴女教导主任).png": "true",
+        "AlertWI_刘雨瑶.png": "true"
     },
     "currentVersion": "1.13.0",
     "username": "林深",
-    "active_character": "黑色秩序：崛起.png",
+    "active_character": "杨晓彤.png",
     "active_group": null,
     "api_server": "http://127.0.0.1:5000/api",
     "preset_settings": "RecoveredRuins",
@@ -227,7 +239,6 @@
         "confirm_message_delete": true,
         "sort_field": "date_last_chat",
         "sort_order": "desc",
-        "sort_rule": null,
         "font_scale": 1,
         "blur_strength": 10,
         "shadow_width": 2,
@@ -253,7 +264,7 @@
         "auto_swipe_minimum_length": 0,
         "auto_swipe_blacklist": [],
         "auto_swipe_blacklist_threshold": 2,
-        "auto_scroll_chat_to_bottom": true,
+        "auto_scroll_chat_to_bottom": false,
         "auto_fix_generated_markdown": false,
         "send_on_enter": 0,
         "console_log_prompts": false,
@@ -269,7 +280,7 @@
         "hideChatAvatars_enabled": false,
         "max_context_unlocked": false,
         "message_token_count_enabled": true,
-        "expand_message_actions": false,
+        "expand_message_actions": true,
         "enableZenSliders": false,
         "enableLabMode": false,
         "prefer_character_prompt": true,
@@ -388,7 +399,7 @@
         "reduced_motion": false,
         "compact_input_area": true,
         "show_swipe_num_all_messages": false,
-        "auto_connect": false,
+        "auto_connect": true,
         "auto_load_chat": true,
         "forbid_external_media": true,
         "external_media_allowed_overrides": [],
@@ -1109,7 +1120,27 @@
             "profiles": []
         },
         "dice": {},
-        "regex": [],
+        "regex": [
+            {
+                "id": "29cbc882-7c15-4270-8c9d-28b0d47f1277",
+                "scriptName": "隐藏思维链Plus",
+                "findRegex": "/<(think(?:ing|_format)?)>([\\s\\S]*?)<\\/\\1>|```think([\\s\\S]*?)```/g",
+                "replaceString": "",
+                "trimStrings": [],
+                "placement": [
+                    1,
+                    2,
+                    5
+                ],
+                "disabled": true,
+                "markdownOnly": true,
+                "promptOnly": true,
+                "runOnEdit": true,
+                "substituteRegex": 0,
+                "minDepth": null,
+                "maxDepth": null
+            }
+        ],
         "character_allowed_regex": [
             "黑色秩序：崛起.png",
             "第一章3.8.png"
@@ -3359,6 +3390,127 @@
             "color": "",
             "color2": "",
             "create_date": 1750156772459
+        },
+        {
+            "id": "af9baf9e-2fe4-4fcc-9a7e-c05f5b080def",
+            "name": "警匪",
+            "folder_type": "NONE",
+            "filter_state": "UNDEFINED",
+            "sort_order": null,
+            "is_hidden_on_character_card": false,
+            "color": "",
+            "color2": "",
+            "create_date": 1750173291250
+        },
+        {
+            "id": "7c56064d-5ecb-4536-aaec-88116e723b08",
+            "name": "卧底",
+            "folder_type": "NONE",
+            "filter_state": "UNDEFINED",
+            "sort_order": null,
+            "is_hidden_on_character_card": false,
+            "color": "",
+            "color2": "",
+            "create_date": 1750173291251
+        },
+        {
+            "id": "7d85f851-4aa2-4d34-88ab-07feae5c93e5",
+            "name": "恋足",
+            "folder_type": "NONE",
+            "filter_state": "UNDEFINED",
+            "sort_order": null,
+            "is_hidden_on_character_card": false,
+            "color": "",
+            "color2": "",
+            "create_date": 1750173293349
+        },
+        {
+            "id": "0e606029-1522-4796-8c88-ff062adabd74",
+            "name": "剧情向",
+            "folder_type": "NONE",
+            "filter_state": "UNDEFINED",
+            "sort_order": null,
+            "is_hidden_on_character_card": false,
+            "color": "",
+            "color2": "",
+            "create_date": 1750173293350
+        },
+        {
+            "id": "4c3f5ad0-2087-4322-8c58-c382bc82203b",
+            "name": "角色扮演",
+            "folder_type": "NONE",
+            "filter_state": "UNDEFINED",
+            "sort_order": null,
+            "is_hidden_on_character_card": false,
+            "color": "",
+            "color2": "",
+            "create_date": 1750173293351
+        },
+        {
+            "id": "05dba998-d5be-4a0c-b78e-926097e00b50",
+            "name": "绿主",
+            "folder_type": "NONE",
+            "filter_state": "UNDEFINED",
+            "sort_order": null,
+            "is_hidden_on_character_card": false,
+            "color": "",
+            "color2": "",
+            "create_date": 1750173293352
+        },
+        {
+            "id": "d8668047-b0ea-4777-97f0-7543037853e1",
+            "name": "黄毛",
+            "folder_type": "NONE",
+            "filter_state": "UNDEFINED",
+            "sort_order": null,
+            "is_hidden_on_character_card": false,
+            "color": "",
+            "color2": "",
+            "create_date": 1750173293353
+        },
+        {
+            "id": "c6daf420-19d5-43b2-a24b-71487e29ab7c",
+            "name": "苦主",
+            "folder_type": "NONE",
+            "filter_state": "UNDEFINED",
+            "sort_order": null,
+            "is_hidden_on_character_card": false,
+            "color": "",
+            "color2": "",
+            "create_date": 1750173293354
+        },
+        {
+            "id": "87bce39c-af7b-4a4c-a6df-6fb4593f3767",
+            "name": "路人",
+            "folder_type": "NONE",
+            "filter_state": "UNDEFINED",
+            "sort_order": null,
+            "is_hidden_on_character_card": false,
+            "color": "",
+            "color2": "",
+            "create_date": 1750173294874
+        },
+        {
+            "id": "60e16b35-f1d6-4b9b-b7ca-a955833209ba",
+            "name": "叙事者",
+            "folder_type": "NONE",
+            "filter_state": "UNDEFINED",
+            "sort_order": null,
+            "is_hidden_on_character_card": false,
+            "color": "",
+            "color2": "",
+            "create_date": 1750173294875
+        },
+        {
+            "id": "7cc04779-6cd8-444b-9bd7-5d96b4b1eebe",
+            "name": "动态剧情",
+            "folder_type": "NONE",
+            "filter_state": "UNDEFINED",
+            "sort_order": null,
+            "is_hidden_on_character_card": false,
+            "color": "",
+            "color2": "",
+            "create_date": 1750415728921
         }
     ],
     "tag_map": {
@@ -3778,7 +3930,75 @@
         "国运游戏.png": [],
         "大唐双龙传.png": [],
         "神话.png": [],
-        "黑色秩序：崛起.png": []
+        "黑色秩序：崛起.png": [],
+        "少妇白洁.png": [
+            "6aed81b9-b1e2-47a1-a1ba-5ab22364e784",
+            "62101197-3ad1-4e93-b891-fa3b218bd4e1",
+            "d2896a2c-2092-4785-bc3a-14e51ed0b0a9",
+            "05dba998-d5be-4a0c-b78e-926097e00b50",
+            "d8668047-b0ea-4777-97f0-7543037853e1",
+            "c6daf420-19d5-43b2-a24b-71487e29ab7c",
+            "b75758da-8b98-4ae8-aa3a-5c6f1ee8e9a1",
+            "853cb737-339e-4c87-948b-c342e5f15153",
+            "df7805d1-b19c-4e94-91f5-69b805b8cc7b",
+            "0ed16129-7c5d-4379-b88c-84f462710eec",
+            "1b29a171-9fec-4ce1-9791-0ea6060d9b7d",
+            "1fcc1017-123f-468b-af33-63eb5a33990a",
+            "ca6a87e1-a2b4-4b56-8d3a-b95759eef88d",
+            "87bce39c-af7b-4a4c-a6df-6fb4593f3767",
+            "60e16b35-f1d6-4b9b-b7ca-a955833209ba"
+        ],
+        "校园恋足.png": [
+            "8d18ae93-4a50-4c07-a8fb-f24a02408a8f",
+            "b75758da-8b98-4ae8-aa3a-5c6f1ee8e9a1",
+            "853cb737-339e-4c87-948b-c342e5f15153",
+            "7c6153fd-2682-41bc-9ac7-22ac10e9db32",
+            "ca6a87e1-a2b4-4b56-8d3a-b95759eef88d",
+            "05ea9a88-eaba-4cc0-b7bd-38a35d3ed5f9",
+            "d2896a2c-2092-4785-bc3a-14e51ed0b0a9",
+            "df7805d1-b19c-4e94-91f5-69b805b8cc7b",
+            "0ed16129-7c5d-4379-b88c-84f462710eec",
+            "7d85f851-4aa2-4d34-88ab-07feae5c93e5",
+            "0e606029-1522-4796-8c88-ff062adabd74",
+            "4c3f5ad0-2087-4322-8c58-c382bc82203b",
+            "05dba998-d5be-4a0c-b78e-926097e00b50",
+            "d8668047-b0ea-4777-97f0-7543037853e1",
+            "c6daf420-19d5-43b2-a24b-71487e29ab7c"
+        ],
+        "电竞圈恶霸.png": [],
+        "速度与姬情 v13.0 Ω.png": [
+            "1a6c7e04-9779-4d03-b4f7-0b1a8649e36b",
+            "05ea9a88-eaba-4cc0-b7bd-38a35d3ed5f9",
+            "01666bf6-ab60-4940-804c-3e9a54975867",
+            "b75758da-8b98-4ae8-aa3a-5c6f1ee8e9a1",
+            "853cb737-339e-4c87-948b-c342e5f15153",
+            "ca6a87e1-a2b4-4b56-8d3a-b95759eef88d",
+            "1fcc1017-123f-468b-af33-63eb5a33990a",
+            "7c6153fd-2682-41bc-9ac7-22ac10e9db32",
+            "dda84875-d51e-4918-b0f3-4cc8cc490c7a",
+            "af9baf9e-2fe4-4fcc-9a7e-c05f5b080def",
+            "7c56064d-5ecb-4536-aaec-88116e723b08"
+        ],
+        "海贼王叙事者.png": [
+            "f86b763d-ef20-4ac6-97cc-c0aa1acc3d53",
+            "6aed81b9-b1e2-47a1-a1ba-5ab22364e784",
+            "62101197-3ad1-4e93-b891-fa3b218bd4e1",
+            "60e16b35-f1d6-4b9b-b7ca-a955833209ba",
+            "043eb534-b84c-4124-b7e3-e878f588799d",
+            "df7805d1-b19c-4e94-91f5-69b805b8cc7b",
+            "0ed16129-7c5d-4379-b88c-84f462710eec",
+            "1b29a171-9fec-4ce1-9791-0ea6060d9b7d",
+            "1fcc1017-123f-468b-af33-63eb5a33990a",
+            "ca6a87e1-a2b4-4b56-8d3a-b95759eef88d",
+            "853cb737-339e-4c87-948b-c342e5f15153",
+            "7cc04779-6cd8-444b-9bd7-5d96b4b1eebe"
+        ],
+        "真真假假.png": [],
+        "林清雅.png": [],
+        "雪嫣.png": [],
+        "东方瑶.png": [],
+        "故事叙述者.png": [],
+        "神印王座.png": []
     },
     "nai_settings": {
         "temperature": 1.5,
@@ -3851,7 +4071,7 @@
         "top_a_openai": 0,
         "repetition_penalty_openai": 1,
         "stream_openai": true,
-        "openai_max_context": 2000000,
+        "openai_max_context": 32000,
         "openai_max_tokens": 8192,
         "wrap_in_quotes": false,
         "prompts": [
@@ -4725,11 +4945,11 @@
                     },
                     {
                         "identifier": "61593a20-3bf4-415b-9f78-e002a234f2ac",
-                        "enabled": false
+                        "enabled": true
                     },
                     {
                         "identifier": "f775e4f2-497a-4ea4-8e75-9226c4498e1d",
-                        "enabled": true
+                        "enabled": false
                     },
                     {
                         "identifier": "a4b0be6f-e131-4982-9c9e-18ba300fb3c4",
@@ -4753,7 +4973,7 @@
                     },
                     {
                         "identifier": "a345239f-ad37-4fb0-bfbc-0a4a9459cdf0",
-                        "enabled": false
+                        "enabled": true
                     },
                     {
                         "identifier": "44dd8d39-f356-497b-a371-c03c0c519994",
@@ -4761,7 +4981,7 @@
                     },
                     {
                         "identifier": "47306d3e-6e94-425c-85e9-e22ce1566c03",
-                        "enabled": true
+                        "enabled": false
                     },
                     {
                         "identifier": "1adc95a8-ad85-4a99-8acd-06fc5810104a",
@@ -4917,7 +5137,7 @@
                     },
                     {
                         "identifier": "728db1e0-d49f-476d-bf53-8ac1f266150f",
-                        "enabled": true
+                        "enabled": false
                     },
                     {
                         "identifier": "68a3e539-e18c-49a0-bbd7-adc2d9b78906",
@@ -4993,7 +5213,7 @@
         "openai_model": "gemini-exp-1206",
         "claude_model": "claude-3-5-sonnet-20240620",
         "google_model": "gemini-2.5-pro-exp-03-25",
-        "vertexai_model": "gemini-2.0-flash-001",
+        "vertexai_model": "gemini-2.5-pro-preview-06-05",
         "ai21_model": "jamba-1.5-large",
         "mistralai_model": "mistral-large-latest",
         "cohere_model": "command-r-plus",
@@ -5005,8 +5225,8 @@
         "aimlapi_model": "gpt-4o-mini-2024-07-18",
         "xai_model": "grok-3-beta",
         "pollinations_model": "openai",
-        "custom_model": "[EXPRESS] gemini-2.5-pro-preview-05-06",
-        "custom_url": "https://ak1616162025-google-vertex.hf.space/v1",
+        "custom_model": "grok-beta",
+        "custom_url": "https://deep.apinet.top/v1",
         "custom_include_body": "",
         "custom_exclude_body": "",
         "custom_include_headers": "",
@@ -5019,7 +5239,7 @@
         "openrouter_allow_fallbacks": true,
         "openrouter_middleout": "on",
         "reverse_proxy": "",
-        "chat_completion_source": "custom",
+        "chat_completion_source": "openrouter",
         "max_context_unlocked": true,
         "api_url_scale": "",
         "show_external_models": true,
@@ -5042,7 +5262,7 @@
         "names_behavior": -1,
         "continue_postfix": " ",
         "custom_prompt_post_processing": "merge",
-        "show_thoughts": true,
+        "show_thoughts": false,
         "reasoning_effort": "medium",
         "enable_web_search": false,
         "request_images": false,

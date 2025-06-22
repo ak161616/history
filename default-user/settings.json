@@ -2,7 +2,7 @@
     "firstRun": false,
     "accountStorage": {
         "__migrated": "1",
-        "NavOpened": "false",
+        "NavOpened": "true",
         "LNavOpened": "false",
         "Characters_PerPage": "1000",
         "SelectedNavTab": "rm_button_characters",
@@ -18,18 +18,18 @@
         "WI_PerPage": "1000",
         "LNavLockOn": "true",
         "AlertWI_探花直播.png": "true",
-        "AlertWI_真真假假.png": "true",
         "AlertWI_雪嫣.png": "true",
         "AlertWI_东方瑶.png": "true",
         "AlertWI_林清雅.png": "true",
         "AlertWI_少妇白洁.png": "true",
         "AlertWI_校园恋足.png": "true",
         "AlertWI_杨洁 (粗口痴女教导主任).png": "true",
-        "AlertWI_刘雨瑶.png": "true"
+        "AlertWI_刘雨瑶.png": "true",
+        "AlertWI_{{user}}的AV女优后宫.png": "true"
     },
     "currentVersion": "1.13.0",
     "username": "林深",
-    "active_character": "杨晓彤.png",
+    "active_character": "{{user}}的AV女优后宫.png",
     "active_group": null,
     "api_server": "http://127.0.0.1:5000/api",
     "preset_settings": "RecoveredRuins",
@@ -237,8 +237,9 @@
         "play_sound_unfocused": true,
         "auto_save_msg_edits": false,
         "confirm_message_delete": true,
-        "sort_field": "date_last_chat",
+        "sort_field": "create_date",
         "sort_order": "desc",
+        "sort_rule": null,
         "font_scale": 1,
         "blur_strength": 10,
         "shadow_width": 2,
@@ -3511,6 +3512,215 @@
             "color": "",
             "color2": "",
             "create_date": 1750415728921
+        },
+        {
+            "id": "027f810f-5c67-483b-880d-cfec13b9486d",
+            "name": "福利姬",
+            "folder_type": "NONE",
+            "filter_state": "UNDEFINED",
+            "sort_order": null,
+            "is_hidden_on_character_card": false,
+            "color": "",
+            "color2": "",
+            "create_date": 1750562169664
+        },
+        {
+            "id": "59f1ccbc-5475-4ef8-9dc2-4fab0cde5efe",
+            "name": "秘密",
+            "folder_type": "NONE",
+            "filter_state": "UNDEFINED",
+            "sort_order": null,
+            "is_hidden_on_character_card": false,
+            "color": "",
+            "color2": "",
+            "create_date": 1750562169665
+        },
+        {
+            "id": "cd48c680-f6e9-466c-914e-e4dc310a3c0c",
+            "name": "威胁",
+            "folder_type": "NONE",
+            "filter_state": "UNDEFINED",
+            "sort_order": null,
+            "is_hidden_on_character_card": false,
+            "color": "",
+            "color2": "",
+            "create_date": 1750562169667
+        },
+        {
+            "id": "4044f483-865c-4ae7-9682-640603da91fb",
+            "name": "色诱",
+            "folder_type": "NONE",
+            "filter_state": "UNDEFINED",
+            "sort_order": null,
+            "is_hidden_on_character_card": false,
+            "color": "",
+            "color2": "",
+            "create_date": 1750562169668
+        },
+        {
+            "id": "e8bdf96d-7393-40f9-ba84-3e3483975149",
+            "name": "强气御姐",
+            "folder_type": "NONE",
+            "filter_state": "UNDEFINED",
+            "sort_order": null,
+            "is_hidden_on_character_card": false,
+            "color": "",
+            "color2": "",
+            "create_date": 1750562169669
+        },
+        {
+            "id": "8b8ce102-02e4-44c6-ab95-d431a2b44c79",
+            "name": "毒舌",
+            "folder_type": "NONE",
+            "filter_state": "UNDEFINED",
+            "sort_order": null,
+            "is_hidden_on_character_card": false,
+            "color": "",
+            "color2": "",
+            "create_date": 1750562169670
+        },
+        {
+            "id": "7d9e160e-b38e-46b9-b7e4-2d752e5ba3b6",
+            "name": "Cosplay",
+            "folder_type": "NONE",
+            "filter_state": "UNDEFINED",
+            "sort_order": null,
+            "is_hidden_on_character_card": false,
+            "color": "",
+            "color2": "",
+            "create_date": 1750562169671
+        },
+        {
+            "id": "b099322f-98d3-4472-bd18-7a85c8eb481c",
+            "name": "细节描写",
+            "folder_type": "NONE",
+            "filter_state": "UNDEFINED",
+            "sort_order": null,
+            "is_hidden_on_character_card": false,
+            "color": "",
+            "color2": "",
+            "create_date": 1750562169672
+        },
+        {
+            "id": "75dfe9aa-4fcc-46e4-9520-b49eec8d872b",
+            "name": "心理博弈",
+            "folder_type": "NONE",
+            "filter_state": "UNDEFINED",
+            "sort_order": null,
+            "is_hidden_on_character_card": false,
+            "color": "",
+            "color2": "",
+            "create_date": 1750562169673
+        },
+        {
+            "id": "f2f94cdf-c9b4-44cd-883e-dbdfd6cea207",
+            "name": "叙事AI",
+            "folder_type": "NONE",
+            "filter_state": "UNDEFINED",
+            "sort_order": null,
+            "is_hidden_on_character_card": false,
+            "color": "",
+            "color2": "",
+            "create_date": 1750562171595
+        },
+        {
+            "id": "fa720637-1ab4-4853-b76a-5e10b1d84c35",
+            "name": "环境控制",
+            "folder_type": "NONE",
+            "filter_state": "UNDEFINED",
+            "sort_order": null,
+            "is_hidden_on_character_card": false,
+            "color": "",
+            "color2": "",
+            "create_date": 1750562171596
+        },
+        {
+            "id": "514a9e3a-d0b9-4f31-b677-6a8bb83dadd6",
+            "name": "剧情引导",
+            "folder_type": "NONE",
+            "filter_state": "UNDEFINED",
+            "sort_order": null,
+            "is_hidden_on_character_card": false,
+            "color": "",
+            "color2": "",
+            "create_date": 1750562171597
+        },
+        {
+            "id": "de695e7a-4812-43c8-aded-d815cf86908f",
+            "name": "淫乱欲女",
+            "folder_type": "NONE",
+            "filter_state": "UNDEFINED",
+            "sort_order": null,
+            "is_hidden_on_character_card": false,
+            "color": "",
+            "color2": "",
+            "create_date": 1750562171598
+        },
+        {
+            "id": "b306626a-21ac-4982-9bfc-4848c237187a",
+            "name": "都市传说",
+            "folder_type": "NONE",
+            "filter_state": "UNDEFINED",
+            "sort_order": null,
+            "is_hidden_on_character_card": false,
+            "color": "",
+            "color2": "",
+            "create_date": 1750562171600
+        },
+        {
+            "id": "0e3c61bd-c9f6-4b28-bd3c-833a20aaeb0d",
+            "name": "莉安娜",
+            "folder_type": "NONE",
+            "filter_state": "UNDEFINED",
+            "sort_order": null,
+            "is_hidden_on_character_card": false,
+            "color": "",
+            "color2": "",
+            "create_date": 1750562171601
+        },
+        {
+            "id": "395dbdd8-d85f-4e71-b353-20a31df5549d",
+            "name": "魅夜集团",
+            "folder_type": "NONE",
+            "filter_state": "UNDEFINED",
+            "sort_order": null,
+            "is_hidden_on_character_card": false,
+            "color": "",
+            "color2": "",
+            "create_date": 1750562171602
+        },
+        {
+            "id": "51597e3b-c805-415d-af58-fcfcee151cdf",
+            "name": "AV女优后宫",
+            "folder_type": "NONE",
+            "filter_state": "UNDEFINED",
+            "sort_order": null,
+            "is_hidden_on_character_card": false,
+            "color": "",
+            "color2": "",
+            "create_date": 1750562172869
+        },
+        {
+            "id": "14e5a1fa-7707-4390-8ef1-de300c6221ce",
+            "name": "成人幻想",
+            "folder_type": "NONE",
+            "filter_state": "UNDEFINED",
+            "sort_order": null,
+            "is_hidden_on_character_card": false,
+            "color": "",
+            "color2": "",
+            "create_date": 1750562172871
+        },
+        {
+            "id": "79268fa2-2db0-41df-b0f1-d3ba9d22b162",
+            "name": "多身份选择",
+            "folder_type": "NONE",
+            "filter_state": "UNDEFINED",
+            "sort_order": null,
+            "is_hidden_on_character_card": false,
+            "color": "",
+            "color2": "",
+            "create_date": 1750562172872
         }
     ],
     "tag_map": {
@@ -3993,12 +4203,52 @@
             "853cb737-339e-4c87-948b-c342e5f15153",
             "7cc04779-6cd8-444b-9bd7-5d96b4b1eebe"
         ],
-        "真真假假.png": [],
         "林清雅.png": [],
         "雪嫣.png": [],
         "东方瑶.png": [],
         "故事叙述者.png": [],
-        "神印王座.png": []
+        "神印王座.png": [],
+        "{{user}}的AV女优后宫.png": [
+            "f2f94cdf-c9b4-44cd-883e-dbdfd6cea207",
+            "7cc04779-6cd8-444b-9bd7-5d96b4b1eebe",
+            "01666bf6-ab60-4940-804c-3e9a54975867",
+            "b75758da-8b98-4ae8-aa3a-5c6f1ee8e9a1",
+            "853cb737-339e-4c87-948b-c342e5f15153",
+            "1fcc1017-123f-468b-af33-63eb5a33990a",
+            "7e81540e-515f-4b99-a07f-d977cba613c6",
+            "51597e3b-c805-415d-af58-fcfcee151cdf",
+            "14e5a1fa-7707-4390-8ef1-de300c6221ce",
+            "79268fa2-2db0-41df-b0f1-d3ba9d22b162"
+        ],
+        "AI互动叙事：洛青青的都市罗曼史.png": [],
+        "莉安娜·魅夜 (淫乱欲女).png": [
+            "ee21c7e5-9538-430e-bbc6-bdb1e3539b36",
+            "f2f94cdf-c9b4-44cd-883e-dbdfd6cea207",
+            "fa720637-1ab4-4853-b76a-5e10b1d84c35",
+            "514a9e3a-d0b9-4f31-b677-6a8bb83dadd6",
+            "de695e7a-4812-43c8-aded-d815cf86908f",
+            "b306626a-21ac-4982-9bfc-4848c237187a",
+            "0e3c61bd-c9f6-4b28-bd3c-833a20aaeb0d",
+            "395dbdd8-d85f-4e71-b353-20a31df5549d"
+        ],
+        "李若薇 (高冷女上司 X 福利姬薇薇).png": [
+            "1a1c9aa6-5eaf-47f3-b377-daa068ccf918",
+            "104a7bb1-0778-40b4-a67d-4f20c3cd9197",
+            "6731b527-5aa4-4052-a3f9-516f142db972",
+            "6cf3043e-d903-4a9f-8c12-e2049ce5d1e3",
+            "69235adc-7b2c-4e4b-b80d-166c3bc95543",
+            "05ea9a88-eaba-4cc0-b7bd-38a35d3ed5f9",
+            "027f810f-5c67-483b-880d-cfec13b9486d",
+            "59f1ccbc-5475-4ef8-9dc2-4fab0cde5efe",
+            "cd48c680-f6e9-466c-914e-e4dc310a3c0c",
+            "4044f483-865c-4ae7-9682-640603da91fb",
+            "e8bdf96d-7393-40f9-ba84-3e3483975149",
+            "8b8ce102-02e4-44c6-ab95-d431a2b44c79",
+            "7d9e160e-b38e-46b9-b7e4-2d752e5ba3b6",
+            "b099322f-98d3-4472-bd18-7a85c8eb481c",
+            "75dfe9aa-4fcc-46e4-9520-b49eec8d872b"
+        ],
+        "真真假假.png": []
     },
     "nai_settings": {
         "temperature": 1.5,
@@ -4071,8 +4321,8 @@
         "top_a_openai": 0,
         "repetition_penalty_openai": 1,
         "stream_openai": true,
-        "openai_max_context": 32000,
-        "openai_max_tokens": 8192,
+        "openai_max_context": 163840,
+        "openai_max_tokens": 16000,
         "wrap_in_quotes": false,
         "prompts": [
             {
@@ -4945,11 +5195,11 @@
                     },
                     {
                         "identifier": "61593a20-3bf4-415b-9f78-e002a234f2ac",
-                        "enabled": true
+                        "enabled": false
                     },
                     {
                         "identifier": "f775e4f2-497a-4ea4-8e75-9226c4498e1d",
-                        "enabled": false
+                        "enabled": true
                     },
                     {
                         "identifier": "a4b0be6f-e131-4982-9c9e-18ba300fb3c4",
@@ -4973,7 +5223,7 @@
                     },
                     {
                         "identifier": "a345239f-ad37-4fb0-bfbc-0a4a9459cdf0",
-                        "enabled": true
+                        "enabled": false
                     },
                     {
                         "identifier": "44dd8d39-f356-497b-a371-c03c0c519994",
@@ -4981,7 +5231,7 @@
                     },
                     {
                         "identifier": "47306d3e-6e94-425c-85e9-e22ce1566c03",
-                        "enabled": false
+                        "enabled": true
                     },
                     {
                         "identifier": "1adc95a8-ad85-4a99-8acd-06fc5810104a",
@@ -5133,11 +5383,11 @@
                     },
                     {
                         "identifier": "ffc1c51f-fdd2-48cd-b63c-838126e59d1f",
-                        "enabled": false
+                        "enabled": true
                     },
                     {
                         "identifier": "728db1e0-d49f-476d-bf53-8ac1f266150f",
-                        "enabled": false
+                        "enabled": true
                     },
                     {
                         "identifier": "68a3e539-e18c-49a0-bbd7-adc2d9b78906",
@@ -5169,7 +5419,7 @@
                     },
                     {
                         "identifier": "e5097714-e9fc-4abe-91c1-7c7e5799d1e4",
-                        "enabled": false
+                        "enabled": true
                     }
                 ]
             }
@@ -5240,7 +5490,7 @@
         "openrouter_middleout": "on",
         "reverse_proxy": "",
         "chat_completion_source": "openrouter",
-        "max_context_unlocked": true,
+        "max_context_unlocked": false,
         "api_url_scale": "",
         "show_external_models": true,
         "proxy_password": "",
