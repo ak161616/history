@@ -29,11 +29,14 @@
         "AlertWI_莉安娜·魅夜 (淫乱欲女).png": "true",
         "AlertWI_AI互动叙事：洛青青的都市罗曼史.png": "true",
         "AlertWI_电竞圈恶霸.png": "true",
-        "AlertWI_我获得了月老的红绳v1.1.png": "true"
+        "AlertWI_我获得了月老的红绳v1.1.png": "true",
+        "AlertWI_DC世界.png": "true",
+        "AlertWI_荔吱吱吱.png": "true",
+        "AlertWI_御狐千夜.png": "true"
     },
     "currentVersion": "1.13.0",
     "username": "林深",
-    "active_character": "我获得了月老的红绳v1.1.png",
+    "active_character": "御狐千夜.png",
     "active_group": null,
     "api_server": "http://127.0.0.1:5000/api",
     "preset_settings": "RecoveredRuins",
@@ -4134,7 +4137,6 @@
         "灵虚界.png": [],
         "邻居美少妇-刘莹莹.png": [],
         "聊天软件嫖娼模拟器.png": [],
-        "荔吱吱吱.png": [],
         "金庸群侠传.png": [],
         "金纯珉.png": [],
         "家和万事兴.png": [],
@@ -4252,7 +4254,9 @@
             "75dfe9aa-4fcc-46e4-9520-b49eec8d872b"
         ],
         "真真假假.png": [],
-        "我获得了月老的红绳v1.1.png": []
+        "我获得了月老的红绳v1.1.png": [],
+        "荔吱吱吱.png": [],
+        "御狐千夜.png": []
     },
     "nai_settings": {
         "temperature": 1.5,
