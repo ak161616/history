@@ -4340,7 +4340,7 @@
         "repetition_penalty_openai": 1,
         "stream_openai": true,
         "openai_max_context": 2000000,
-        "openai_max_tokens": 8192,
+        "openai_max_tokens": 16000,
         "wrap_in_quotes": false,
         "prompts": [
             {
@@ -5493,7 +5493,7 @@
         "aimlapi_model": "gpt-4o-mini-2024-07-18",
         "xai_model": "grok-3-beta",
         "pollinations_model": "openai",
-        "custom_model": "[EXPRESS] gemini-2.5-flash",
+        "custom_model": "grok-beta",
         "custom_url": "https://ak1616162025-google-vertex.hf.space/v1",
         "custom_include_body": "",
         "custom_exclude_body": "",
