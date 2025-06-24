@@ -46,11 +46,12 @@
         "AlertRegex_柳欣妍.png": "true",
         "AlertWI_微信付费版.png": "true",
         "AlertWI_逆转援交.png": "true",
-        "AlertWI_精神小妹.png": "true"
+        "AlertWI_精神小妹.png": "true",
+        "mediaWarningShown:莉安娜·魅夜 (淫乱欲女).png": "true"
     },
     "currentVersion": "1.13.0",
     "username": "林深",
-    "active_character": "精神小妹.png",
+    "active_character": "莉安娜·魅夜 (淫乱欲女).png",
     "active_group": null,
     "api_server": "http://127.0.0.1:5000/api",
     "preset_settings": "RecoveredRuins",
@@ -5517,7 +5518,7 @@
         "custom_exclude_body": "",
         "custom_include_headers": "",
         "windowai_model": "",
-        "openrouter_model": "microsoft/mai-ds-r1:free",
+        "openrouter_model": "deepseek/deepseek-chat-v3-0324:free",
         "openrouter_use_fallback": false,
         "openrouter_group_models": false,
         "openrouter_sort_models": "alphabetically",
