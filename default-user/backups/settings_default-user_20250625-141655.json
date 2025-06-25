@@ -46,15 +46,13 @@
         "AlertRegex_柳欣妍.png": "true",
         "AlertWI_微信付费版.png": "true",
         "AlertWI_逆转援交.png": "true",
+        "AlertWI_精神小妹.png": "true",
         "mediaWarningShown:莉安娜·魅夜 (淫乱欲女).png": "true",
-        "extension_update_nag": "Wed Jun 25 2025",
-        "AlertWI_精神小妹1.png": "true",
-        "AlertWI_机会成本.png": "true",
-        "AlertRegex_机会成本.png": "true"
+        "extension_update_nag": "Wed Jun 25 2025"
     },
     "currentVersion": "1.13.0",
     "username": "林深",
-    "active_character": "机会成本.png",
+    "active_character": "微信付费版.png",
     "active_group": null,
     "api_server": "http://127.0.0.1:5000/api",
     "preset_settings": "RecoveredRuins",
@@ -1171,8 +1169,7 @@
             "黑色秩序：崛起.png",
             "第一章3.8.png",
             "林晓雨.png",
-            "柳欣妍.png",
-            "机会成本.png"
+            "柳欣妍.png"
         ],
         "tts": {
             "voiceMap": "",
@@ -4289,10 +4286,8 @@
         "官员模拟器.png": [],
         "娱乐圈潜规则.png": [],
         "机会成本.png": [],
-        "undefined": [],
-        "精神小妹1.png": [],
-        "大奉打更人之寝取.png": [],
-        "世界调制模式·重制版.png": []
+        "精神小妹.png": [],
+        "undefined": []
     },
     "nai_settings": {
         "temperature": 1.5,
