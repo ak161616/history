@@ -3,7 +3,7 @@
     "accountStorage": {
         "__migrated": "1",
         "NavOpened": "false",
-        "LNavOpened": "false",
+        "LNavOpened": "true",
         "Characters_PerPage": "1000",
         "SelectedNavTab": "rm_button_characters",
         "WINavOpened": "true",
