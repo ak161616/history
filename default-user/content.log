@@ -203,3 +203,4 @@ presets/reasoning/DeepSeek.json
 presets/reasoning/Blank.json
 presets/instruct/Dots1.json
 presets/context/Dots1.json
+presets/instruct/KoboldAI.json
