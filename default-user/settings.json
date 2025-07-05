@@ -57,11 +57,13 @@
         "AlertRegex_人生复本.png": "true",
         "AlertWI_[都市]-【熟妇狩猎者】.png": "true",
         "AlertWI_clk-001租来的女友.png": "true",
-        "AlertWI_clk-003性感女房东.png": "true"
+        "AlertWI_clk-003性感女房东.png": "true",
+        "AlertWI_【你的老婆是炮友转正】.png": "true",
+        "AlertWI_[都市]-【神豪的后宫日常】.png": "true"
     },
     "currentVersion": "1.13.1",
     "username": "林深",
-    "active_character": "速度与姬情 v13.0 Ω.png",
+    "active_character": "[都市]-【神豪的后宫日常】.png",
     "active_group": null,
     "api_server": "http://127.0.0.1:5000/api",
     "preset_settings": "RecoveredRuins",
