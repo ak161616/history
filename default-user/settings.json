@@ -2,7 +2,7 @@
     "firstRun": false,
     "accountStorage": {
         "__migrated": "1",
-        "NavOpened": "true",
+        "NavOpened": "false",
         "LNavOpened": "false",
         "Characters_PerPage": "1000",
         "SelectedNavTab": "rm_button_characters",
@@ -64,7 +64,7 @@
     },
     "currentVersion": "1.13.1",
     "username": "林深",
-    "active_character": "【鬼吹灯世界】.png",
+    "active_character": "官员模拟器.png",
     "active_group": null,
     "api_server": "http://127.0.0.1:5000/api",
     "preset_settings": "RecoveredRuins",
@@ -274,7 +274,6 @@
         "confirm_message_delete": true,
         "sort_field": "create_date",
         "sort_order": "desc",
-        "sort_rule": null,
         "font_scale": 1,
         "blur_strength": 10,
         "shadow_width": 2,
@@ -4352,7 +4351,8 @@
         "【表面高冷禁欲的大学文学教授，暗藏痴女本性的双面反差女学者】.png": [],
         "【表面是冷艳女高管，私下是欲求不满的骚奴】.png": [],
         "【少年歌行世界】.png": [],
-        "clk-019分手后变得放荡的前女友.png": []
+        "clk-019分手后变得放荡的前女友.png": [],
+        "clk-021创世神的游戏.png": []
     },
     "nai_settings": {
         "temperature": 1.5,
