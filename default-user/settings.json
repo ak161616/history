@@ -2,7 +2,7 @@
     "firstRun": false,
     "accountStorage": {
         "__migrated": "1",
-        "NavOpened": "true",
+        "NavOpened": "false",
         "LNavOpened": "false",
         "Characters_PerPage": "1000",
         "SelectedNavTab": "rm_button_characters",
@@ -4429,8 +4429,8 @@
         "min_p_openai": 0,
         "top_a_openai": 0,
         "repetition_penalty_openai": 1,
-        "stream_openai": false,
-        "openai_max_context": "2000000",
+        "stream_openai": true,
+        "openai_max_context": 2000000,
         "openai_max_tokens": 16000,
         "wrap_in_quotes": false,
         "prompts": [
@@ -5598,7 +5598,7 @@
         "openrouter_allow_fallbacks": false,
         "openrouter_middleout": "on",
         "reverse_proxy": "",
-        "chat_completion_source": "makersuite",
+        "chat_completion_source": "custom",
         "max_context_unlocked": true,
         "api_url_scale": "",
         "show_external_models": true,

@@ -144,6 +144,11 @@
                 "match_character_depth_prompt": false,
                 "match_scenario": false,
                 "match_creator_notes": false
+            },
+            "characterFilter": {
+                "isExclude": false,
+                "names": [],
+                "tags": []
             }
         },
         "2": {
@@ -160,7 +165,7 @@
             "addMemo": true,
             "order": 800,
             "position": 4,
-            "disable": true,
+            "disable": false,
             "excludeRecursion": false,
             "preventRecursion": false,
             "matchPersonaDescription": false,
@@ -436,6 +441,11 @@
                 "match_character_depth_prompt": false,
                 "match_scenario": false,
                 "match_creator_notes": false
+            },
+            "characterFilter": {
+                "isExclude": false,
+                "names": [],
+                "tags": []
             }
         },
         "6": {
@@ -654,6 +664,11 @@
                 "match_character_depth_prompt": false,
                 "match_scenario": false,
                 "match_creator_notes": false
+            },
+            "characterFilter": {
+                "isExclude": false,
+                "names": [],
+                "tags": []
             }
         },
         "9": {
@@ -729,6 +744,11 @@
                 "match_character_depth_prompt": false,
                 "match_scenario": false,
                 "match_creator_notes": false
+            },
+            "characterFilter": {
+                "isExclude": false,
+                "names": [],
+                "tags": []
             }
         },
         "10": {
@@ -803,6 +823,11 @@
                 "match_character_depth_prompt": false,
                 "match_scenario": false,
                 "match_creator_notes": false
+            },
+            "characterFilter": {
+                "isExclude": false,
+                "names": [],
+                "tags": []
             }
         },
         "11": {
@@ -877,6 +902,11 @@
                 "match_character_depth_prompt": false,
                 "match_scenario": false,
                 "match_creator_notes": false
+            },
+            "characterFilter": {
+                "isExclude": false,
+                "names": [],
+                "tags": []
             }
         },
         "12": {
@@ -951,6 +981,11 @@
                 "match_character_depth_prompt": false,
                 "match_scenario": false,
                 "match_creator_notes": false
+            },
+            "characterFilter": {
+                "isExclude": false,
+                "names": [],
+                "tags": []
             }
         },
         "13": {
@@ -989,7 +1024,7 @@
             "matchWholeWords": null,
             "useGroupScoring": false,
             "automationId": "",
-            "role": 0,
+            "role": null,
             "sticky": 0,
             "cooldown": 0,
             "delay": 0,
@@ -1024,6 +1059,11 @@
                 "match_character_depth_prompt": false,
                 "match_scenario": false,
                 "match_creator_notes": false
+            },
+            "characterFilter": {
+                "isExclude": false,
+                "names": [],
+                "tags": []
             }
         },
         "14": {
@@ -1241,6 +1281,11 @@
                 "match_character_depth_prompt": false,
                 "match_scenario": false,
                 "match_creator_notes": false
+            },
+            "characterFilter": {
+                "isExclude": false,
+                "names": [],
+                "tags": []
             }
         },
         "17": {
@@ -1281,7 +1326,7 @@
             "matchWholeWords": null,
             "useGroupScoring": false,
             "automationId": "",
-            "role": 0,
+            "role": null,
             "sticky": 0,
             "cooldown": 0,
             "delay": 0,
@@ -1316,6 +1361,11 @@
                 "match_character_depth_prompt": false,
                 "match_scenario": false,
                 "match_creator_notes": false
+            },
+            "characterFilter": {
+                "isExclude": false,
+                "names": [],
+                "tags": []
             }
         },
         "18": {
@@ -1353,7 +1403,7 @@
             "matchWholeWords": null,
             "useGroupScoring": false,
             "automationId": "",
-            "role": 0,
+            "role": null,
             "sticky": 0,
             "cooldown": 0,
             "delay": 0,
@@ -1388,6 +1438,11 @@
                 "match_character_depth_prompt": false,
                 "match_scenario": false,
                 "match_creator_notes": false
+            },
+            "characterFilter": {
+                "isExclude": false,
+                "names": [],
+                "tags": []
             }
         },
         "19": {
@@ -1425,7 +1480,7 @@
             "matchWholeWords": null,
             "useGroupScoring": false,
             "automationId": "",
-            "role": 0,
+            "role": null,
             "sticky": 0,
             "cooldown": 0,
             "delay": 0,
@@ -1460,6 +1515,11 @@
                 "match_character_depth_prompt": false,
                 "match_scenario": false,
                 "match_creator_notes": false
+            },
+            "characterFilter": {
+                "isExclude": false,
+                "names": [],
+                "tags": []
             }
         },
         "20": {
@@ -1498,7 +1558,7 @@
             "matchWholeWords": null,
             "useGroupScoring": false,
             "automationId": "",
-            "role": 0,
+            "role": null,
             "sticky": 0,
             "cooldown": 0,
             "delay": 0,
@@ -1533,6 +1593,11 @@
                 "match_character_depth_prompt": false,
                 "match_scenario": false,
                 "match_creator_notes": false
+            },
+            "characterFilter": {
+                "isExclude": false,
+                "names": [],
+                "tags": []
             }
         },
         "21": {
@@ -1608,6 +1673,11 @@
                 "match_character_depth_prompt": false,
                 "match_scenario": false,
                 "match_creator_notes": false
+            },
+            "characterFilter": {
+                "isExclude": false,
+                "names": [],
+                "tags": []
             }
         },
         "22": {
@@ -1683,6 +1753,11 @@
                 "match_character_depth_prompt": false,
                 "match_scenario": false,
                 "match_creator_notes": false
+            },
+            "characterFilter": {
+                "isExclude": false,
+                "names": [],
+                "tags": []
             }
         },
         "23": {
@@ -1923,7 +1998,7 @@
             "addMemo": true,
             "order": 800,
             "position": 4,
-            "disable": false,
+            "disable": true,
             "excludeRecursion": false,
             "preventRecursion": false,
             "matchPersonaDescription": false,
@@ -1999,7 +2074,7 @@
             "addMemo": true,
             "order": 300,
             "position": 4,
-            "disable": false,
+            "disable": true,
             "excludeRecursion": false,
             "preventRecursion": false,
             "matchPersonaDescription": false,
@@ -2055,6 +2130,11 @@
                 "match_character_depth_prompt": false,
                 "match_scenario": false,
                 "match_creator_notes": false
+            },
+            "characterFilter": {
+                "isExclude": false,
+                "names": [],
+                "tags": []
             }
         },
         "28": {
@@ -2075,7 +2155,7 @@
             "addMemo": true,
             "order": 300,
             "position": 4,
-            "disable": false,
+            "disable": true,
             "excludeRecursion": false,
             "preventRecursion": false,
             "matchPersonaDescription": false,
@@ -2151,7 +2231,7 @@
             "addMemo": true,
             "order": 300,
             "position": 4,
-            "disable": false,
+            "disable": true,
             "excludeRecursion": false,
             "preventRecursion": false,
             "matchPersonaDescription": false,
@@ -2227,7 +2307,7 @@
             "addMemo": true,
             "order": 300,
             "position": 4,
-            "disable": false,
+            "disable": true,
             "excludeRecursion": false,
             "preventRecursion": false,
             "matchPersonaDescription": false,
@@ -2321,7 +2401,7 @@
             "matchWholeWords": null,
             "useGroupScoring": false,
             "automationId": "",
-            "role": 0,
+            "role": null,
             "sticky": 0,
             "cooldown": 0,
             "delay": 0,
@@ -2356,6 +2436,11 @@
                 "match_character_depth_prompt": false,
                 "match_scenario": false,
                 "match_creator_notes": false
+            },
+            "characterFilter": {
+                "isExclude": false,
+                "names": [],
+                "tags": []
             }
         },
         "32": {
@@ -2430,6 +2515,11 @@
                 "match_character_depth_prompt": false,
                 "match_scenario": false,
                 "match_creator_notes": false
+            },
+            "characterFilter": {
+                "isExclude": false,
+                "names": [],
+                "tags": []
             }
         },
         "33": {
@@ -2596,7 +2686,7 @@
             "addMemo": true,
             "order": 300,
             "position": 4,
-            "disable": false,
+            "disable": true,
             "excludeRecursion": false,
             "preventRecursion": false,
             "matchPersonaDescription": false,
@@ -2652,6 +2742,11 @@
                 "match_character_depth_prompt": false,
                 "match_scenario": false,
                 "match_creator_notes": false
+            },
+            "characterFilter": {
+                "isExclude": false,
+                "names": [],
+                "tags": []
             }
         },
         "36": {
@@ -2671,7 +2766,7 @@
             "addMemo": true,
             "order": 500,
             "position": 1,
-            "disable": false,
+            "disable": true,
             "excludeRecursion": false,
             "preventRecursion": false,
             "matchPersonaDescription": false,
@@ -2692,7 +2787,7 @@
             "matchWholeWords": null,
             "useGroupScoring": false,
             "automationId": "",
-            "role": 0,
+            "role": null,
             "sticky": 0,
             "cooldown": 0,
             "delay": 0,
