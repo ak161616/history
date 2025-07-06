@@ -1071,8 +1071,7 @@
             }
         ],
         "muyoo_dataTable": {
-            "updateIndex": 4,
-            "lastSelectedTemplate": null
+            "updateIndex": 4
         }
     },
     "extension_settings": {
@@ -4432,7 +4431,7 @@
         "min_p_openai": 0,
         "top_a_openai": 0,
         "repetition_penalty_openai": 1,
-        "stream_openai": false,
+        "stream_openai": true,
         "openai_max_context": 2000000,
         "openai_max_tokens": 16000,
         "wrap_in_quotes": false,
@@ -5601,7 +5600,7 @@
         "openrouter_allow_fallbacks": false,
         "openrouter_middleout": "on",
         "reverse_proxy": "",
-        "chat_completion_source": "makersuite",
+        "chat_completion_source": "custom",
         "max_context_unlocked": true,
         "api_url_scale": "",
         "show_external_models": true,
