@@ -2,7 +2,7 @@
     "firstRun": false,
     "accountStorage": {
         "__migrated": "1",
-        "NavOpened": "false",
+        "NavOpened": "true",
         "LNavOpened": "false",
         "Characters_PerPage": "1000",
         "SelectedNavTab": "rm_button_characters",
@@ -60,11 +60,14 @@
         "AlertWI_clk-003性感女房东.png": "true",
         "AlertWI_【你的老婆是炮友转正】.png": "true",
         "AlertWI_[都市]-【神豪的后宫日常】.png": "true",
-        "AlertWI_【鬼吹灯世界】.png": "true"
+        "AlertWI_【鬼吹灯世界】.png": "true",
+        "AlertWI_clk-019分手后变得放荡的前女友.png": "true",
+        "AlertWI_世界调制模式·重制版.png": "true",
+        "AlertRegex_世界调制模式·重制版.png": "true"
     },
     "currentVersion": "1.13.1",
     "username": "林深",
-    "active_character": "官员模拟器.png",
+    "active_character": "世界调制模式·重制版.png",
     "active_group": null,
     "api_server": "http://127.0.0.1:5000/api",
     "preset_settings": "RecoveredRuins",
@@ -1188,7 +1191,8 @@
             "柳欣妍.png",
             "机会成本.png",
             "人生复本MVU.png",
-            "人生复本.png"
+            "人生复本.png",
+            "世界调制模式·重制版.png"
         ],
         "tts": {
             "voiceMap": "",
