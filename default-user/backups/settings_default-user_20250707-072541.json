@@ -20,7 +20,6 @@
         "AlertWI_探花直播.png": "true",
         "AlertWI_雪嫣.png": "true",
         "AlertWI_东方瑶.png": "true",
-        "AlertWI_林清雅.png": "true",
         "AlertWI_少妇白洁.png": "true",
         "AlertWI_校园恋足.png": "true",
         "AlertWI_杨洁 (粗口痴女教导主任).png": "true",
@@ -47,15 +46,29 @@
         "AlertWI_微信付费版.png": "true",
         "AlertWI_逆转援交.png": "true",
         "mediaWarningShown:莉安娜·魅夜 (淫乱欲女).png": "true",
-        "extension_update_nag": "Thu Jun 26 2025",
+        "extension_update_nag": "Mon Jul 07 2025",
         "AlertWI_精神小妹1.png": "true",
         "AlertWI_机会成本.png": "true",
         "AlertRegex_机会成本.png": "true",
-        "AlertWI_捞女游戏.png": "true"
+        "AlertWI_捞女游戏.png": "true",
+        "AlertWI_人生复本MVU.png": "true",
+        "AlertRegex_人生复本MVU.png": "true",
+        "AlertWI_人生复本.png": "true",
+        "AlertRegex_人生复本.png": "true",
+        "AlertWI_[都市]-【熟妇狩猎者】.png": "true",
+        "AlertWI_clk-001租来的女友.png": "true",
+        "AlertWI_clk-003性感女房东.png": "true",
+        "AlertWI_【你的老婆是炮友转正】.png": "true",
+        "AlertWI_[都市]-【神豪的后宫日常】.png": "true",
+        "AlertWI_【鬼吹灯世界】.png": "true",
+        "AlertWI_clk-019分手后变得放荡的前女友.png": "true",
+        "AlertWI_世界调制模式·重制版.png": "true",
+        "AlertRegex_世界调制模式·重制版.png": "true",
+        "AlertWI_学习？学个屁.png": "true"
     },
-    "currentVersion": "1.13.0",
+    "currentVersion": "1.13.1",
     "username": "林深",
-    "active_character": "速度与姬情 v13.0 Ω.png",
+    "active_character": "DC世界.png",
     "active_group": null,
     "api_server": "http://127.0.0.1:5000/api",
     "preset_settings": "RecoveredRuins",
@@ -357,8 +370,11 @@
             "use_stop_strings": true,
             "names_as_stop_strings": true
         },
+        "instruct_derived": false,
         "context_derived": false,
         "context_size_derived": false,
+        "model_templates_mappings": {},
+        "chat_template_hash": "",
         "sysprompt": {
             "enabled": true,
             "name": "Neutral - Chat",
@@ -1055,7 +1071,8 @@
             }
         ],
         "muyoo_dataTable": {
-            "updateIndex": 4
+            "updateIndex": 4,
+            "lastSelectedTemplate": null
         }
     },
     "extension_settings": {
@@ -1132,7 +1149,8 @@
             "multimodal_api": "openai",
             "multimodal_model": "gpt-4-turbo",
             "prompt": "What's in this image?",
-            "template": "[{{user}} sends {{char}} a picture that contains: {{caption}}]"
+            "template": "[{{user}} sends {{char}} a picture that contains: {{caption}}]",
+            "show_in_chat": false
         },
         "expressions": {
             "showDefault": false,
@@ -1173,7 +1191,10 @@
             "第一章3.8.png",
             "林晓雨.png",
             "柳欣妍.png",
-            "机会成本.png"
+            "机会成本.png",
+            "人生复本MVU.png",
+            "人生复本.png",
+            "世界调制模式·重制版.png"
         ],
         "tts": {
             "voiceMap": "",
@@ -1282,7 +1303,9 @@
             "tool_visible": false,
             "stability_style_preset": "anime",
             "bfl_upsampling": false,
-            "character_negative_prompts": {}
+            "character_negative_prompts": {},
+            "google_api": "makersuite",
+            "google_enhance": true
         },
         "chromadb": {},
         "translate": {
@@ -1409,7 +1432,9 @@
             "script": {
                 "global_script_enabled": true,
                 "scriptsRepository": [],
-                "characters_with_scripts": []
+                "characters_with_scripts": [
+                    "人生复本MVU.png"
+                ]
             },
             "audio": {
                 "audio_enabled": true,
@@ -4230,7 +4255,6 @@
             "853cb737-339e-4c87-948b-c342e5f15153",
             "7cc04779-6cd8-444b-9bd7-5d96b4b1eebe"
         ],
-        "林清雅.png": [],
         "雪嫣.png": [],
         "东方瑶.png": [],
         "故事叙述者.png": [],
@@ -4295,7 +4319,48 @@
         "大奉打更人之寝取.png": [],
         "世界调制模式·重制版.png": [],
         "万界欺诈师：无信者之盟.png": [],
-        "捞女游戏.png": []
+        "捞女游戏.png": [],
+        "clk-001租来的女友.png": [],
+        "clk-003性感女房东.png": [],
+        "1707雍正王朝+红楼梦 v1.1.png": [],
+        "绝对纯爱「我+女友+青梅竹马+姐姐」.png": [],
+        "人生复本MVU.png": [],
+        "人生复本.png": [],
+        "综武终极升级 扬州之叛DLC.png": [],
+        "时尚杂志编辑 - 张美玲.png": [],
+        "末日之黑暗召唤师.png": [],
+        "全职法师.png": [],
+        "[都市]-【熟妇狩猎者】.png": [],
+        "施美艳.png": [],
+        "【欲望拍卖行】.png": [],
+        "娇妻的江湖.png": [],
+        "吞噬星空.png": [],
+        "【欲女校花-陈思雨】.png": [],
+        "【继承者们：宿命的冠冕】.png": [],
+        "林若雪1.png": [],
+        "【绝美女教师-沈雪】.png": [],
+        "被你征服的人妻-陈筱雨.png": [],
+        "欲求不满的人妻-莉莎.png": [],
+        "轮回空间.png": [],
+        "林清雅.png": [],
+        "[都市]-【白帝学园】.png": [],
+        "【你的老婆是炮友转正】.png": [],
+        "【蓝天航空公司】.png": [],
+        "【成熟魅惑表面端庄的舞者，实则渴望被玩弄的隐秘荡妇】.png": [],
+        "【表面温柔的私人秘书，暗夜俱乐部的调教女王】.png": [],
+        "【武侠-天龙八部世界】.png": [],
+        "[都市]-【神豪的后宫日常】.png": [],
+        "表面端庄内敛的中医-林芷柔.png": [],
+        "【鬼吹灯世界】.png": [],
+        "王晓艳.png": [],
+        "张雨涵.png": [],
+        "【冰山美人外科医生-控制欲与顺从欲并存的精英女性】.png": [],
+        "【表面高冷禁欲的大学文学教授，暗藏痴女本性的双面反差女学者】.png": [],
+        "【表面是冷艳女高管，私下是欲求不满的骚奴】.png": [],
+        "【少年歌行世界】.png": [],
+        "clk-019分手后变得放荡的前女友.png": [],
+        "clk-021创世神的游戏.png": [],
+        "学习？学个屁.png": []
     },
     "nai_settings": {
         "temperature": 1.5,
@@ -5509,8 +5574,8 @@
         "personality_format": "[{{char}}'s personality: {{personality}}]",
         "openai_model": "gemini-exp-1206",
         "claude_model": "claude-3-5-sonnet-20240620",
-        "google_model": "gemini-2.5-flash",
-        "vertexai_model": "gemini-2.5-flash-preview-05-20",
+        "google_model": "gemini-2.5-pro",
+        "vertexai_model": "gemini-2.5-pro",
         "ai21_model": "jamba-1.5-large",
         "mistralai_model": "mistral-large-latest",
         "cohere_model": "command-r-plus",
