@@ -2,7 +2,7 @@
     "firstRun": false,
     "accountStorage": {
         "__migrated": "1",
-        "NavOpened": "true",
+        "NavOpened": "false",
         "LNavOpened": "false",
         "Characters_PerPage": "1000",
         "SelectedNavTab": "rm_button_characters",
@@ -46,7 +46,7 @@
         "AlertWI_微信付费版.png": "true",
         "AlertWI_逆转援交.png": "true",
         "mediaWarningShown:莉安娜·魅夜 (淫乱欲女).png": "true",
-        "extension_update_nag": "Thu Jul 03 2025",
+        "extension_update_nag": "Mon Jul 07 2025",
         "AlertWI_精神小妹1.png": "true",
         "AlertWI_机会成本.png": "true",
         "AlertRegex_机会成本.png": "true",
@@ -54,11 +54,21 @@
         "AlertWI_人生复本MVU.png": "true",
         "AlertRegex_人生复本MVU.png": "true",
         "AlertWI_人生复本.png": "true",
-        "AlertRegex_人生复本.png": "true"
+        "AlertRegex_人生复本.png": "true",
+        "AlertWI_[都市]-【熟妇狩猎者】.png": "true",
+        "AlertWI_clk-001租来的女友.png": "true",
+        "AlertWI_clk-003性感女房东.png": "true",
+        "AlertWI_【你的老婆是炮友转正】.png": "true",
+        "AlertWI_[都市]-【神豪的后宫日常】.png": "true",
+        "AlertWI_【鬼吹灯世界】.png": "true",
+        "AlertWI_clk-019分手后变得放荡的前女友.png": "true",
+        "AlertWI_世界调制模式·重制版.png": "true",
+        "AlertRegex_世界调制模式·重制版.png": "true",
+        "AlertWI_学习？学个屁.png": "true"
     },
     "currentVersion": "1.13.1",
     "username": "林深",
-    "active_character": "人生复本MVU.png",
+    "active_character": "DC世界.png",
     "active_group": null,
     "api_server": "http://127.0.0.1:5000/api",
     "preset_settings": "RecoveredRuins",
@@ -1061,7 +1071,8 @@
             }
         ],
         "muyoo_dataTable": {
-            "updateIndex": 4
+            "updateIndex": 4,
+            "lastSelectedTemplate": null
         }
     },
     "extension_settings": {
@@ -1182,7 +1193,8 @@
             "柳欣妍.png",
             "机会成本.png",
             "人生复本MVU.png",
-            "人生复本.png"
+            "人生复本.png",
+            "世界调制模式·重制版.png"
         ],
         "tts": {
             "voiceMap": "",
@@ -4330,7 +4342,25 @@
         "被你征服的人妻-陈筱雨.png": [],
         "欲求不满的人妻-莉莎.png": [],
         "轮回空间.png": [],
-        "林清雅.png": []
+        "林清雅.png": [],
+        "[都市]-【白帝学园】.png": [],
+        "【你的老婆是炮友转正】.png": [],
+        "【蓝天航空公司】.png": [],
+        "【成熟魅惑表面端庄的舞者，实则渴望被玩弄的隐秘荡妇】.png": [],
+        "【表面温柔的私人秘书，暗夜俱乐部的调教女王】.png": [],
+        "【武侠-天龙八部世界】.png": [],
+        "[都市]-【神豪的后宫日常】.png": [],
+        "表面端庄内敛的中医-林芷柔.png": [],
+        "【鬼吹灯世界】.png": [],
+        "王晓艳.png": [],
+        "张雨涵.png": [],
+        "【冰山美人外科医生-控制欲与顺从欲并存的精英女性】.png": [],
+        "【表面高冷禁欲的大学文学教授，暗藏痴女本性的双面反差女学者】.png": [],
+        "【表面是冷艳女高管，私下是欲求不满的骚奴】.png": [],
+        "【少年歌行世界】.png": [],
+        "clk-019分手后变得放荡的前女友.png": [],
+        "clk-021创世神的游戏.png": [],
+        "学习？学个屁.png": []
     },
     "nai_settings": {
         "temperature": 1.5,
@@ -5545,7 +5575,7 @@
         "openai_model": "gemini-exp-1206",
         "claude_model": "claude-3-5-sonnet-20240620",
         "google_model": "gemini-2.5-pro",
-        "vertexai_model": "gemini-2.5-flash-preview-05-20",
+        "vertexai_model": "gemini-2.5-pro",
         "ai21_model": "jamba-1.5-large",
         "mistralai_model": "mistral-large-latest",
         "cohere_model": "command-r-plus",
