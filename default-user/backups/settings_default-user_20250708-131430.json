@@ -3,7 +3,7 @@
     "accountStorage": {
         "__migrated": "1",
         "NavOpened": "true",
-        "LNavOpened": "true",
+        "LNavOpened": "false",
         "Characters_PerPage": "1000",
         "SelectedNavTab": "rm_button_characters",
         "WINavOpened": "true",
@@ -46,7 +46,7 @@
         "AlertWI_微信付费版.png": "true",
         "AlertWI_逆转援交.png": "true",
         "mediaWarningShown:莉安娜·魅夜 (淫乱欲女).png": "true",
-        "extension_update_nag": "Fri Jul 04 2025",
+        "extension_update_nag": "Tue Jul 08 2025",
         "AlertWI_精神小妹1.png": "true",
         "AlertWI_机会成本.png": "true",
         "AlertRegex_机会成本.png": "true",
@@ -57,11 +57,18 @@
         "AlertRegex_人生复本.png": "true",
         "AlertWI_[都市]-【熟妇狩猎者】.png": "true",
         "AlertWI_clk-001租来的女友.png": "true",
-        "AlertWI_clk-003性感女房东.png": "true"
+        "AlertWI_clk-003性感女房东.png": "true",
+        "AlertWI_【你的老婆是炮友转正】.png": "true",
+        "AlertWI_[都市]-【神豪的后宫日常】.png": "true",
+        "AlertWI_【鬼吹灯世界】.png": "true",
+        "AlertWI_clk-019分手后变得放荡的前女友.png": "true",
+        "AlertWI_世界调制模式·重制版.png": "true",
+        "AlertRegex_世界调制模式·重制版.png": "true",
+        "AlertWI_学习？学个屁.png": "true"
     },
     "currentVersion": "1.13.1",
     "username": "林深",
-    "active_character": "速度与姬情 v13.0 Ω.png",
+    "active_character": "DC世界.png",
     "active_group": null,
     "api_server": "http://127.0.0.1:5000/api",
     "preset_settings": "RecoveredRuins",
@@ -269,7 +276,7 @@
         "play_sound_unfocused": true,
         "auto_save_msg_edits": false,
         "confirm_message_delete": true,
-        "sort_field": "date_last_chat",
+        "sort_field": "create_date",
         "sort_order": "desc",
         "sort_rule": null,
         "font_scale": 1,
@@ -1064,7 +1071,8 @@
             }
         ],
         "muyoo_dataTable": {
-            "updateIndex": 4
+            "updateIndex": 4,
+            "lastSelectedTemplate": null
         }
     },
     "extension_settings": {
@@ -1185,7 +1193,8 @@
             "柳欣妍.png",
             "机会成本.png",
             "人生复本MVU.png",
-            "人生复本.png"
+            "人生复本.png",
+            "世界调制模式·重制版.png"
         ],
         "tts": {
             "voiceMap": "",
@@ -3766,6 +3775,28 @@
             "color": "",
             "color2": "",
             "create_date": 1750562172872
+        },
+        {
+            "id": "d782fb2f-3062-4287-bab6-d3edcbb1ac55",
+            "name": "秦时明月",
+            "folder_type": "NONE",
+            "filter_state": "UNDEFINED",
+            "sort_order": null,
+            "is_hidden_on_character_card": false,
+            "color": "",
+            "color2": "",
+            "create_date": 1751979868061
+        },
+        {
+            "id": "d95f484c-ffdb-4f37-97fa-148aa8bbd46f",
+            "name": "高度自由",
+            "folder_type": "NONE",
+            "filter_state": "UNDEFINED",
+            "sort_order": null,
+            "is_hidden_on_character_card": false,
+            "color": "",
+            "color2": "",
+            "create_date": 1751979868061
         }
     ],
     "tag_map": {
@@ -4333,7 +4364,36 @@
         "被你征服的人妻-陈筱雨.png": [],
         "欲求不满的人妻-莉莎.png": [],
         "轮回空间.png": [],
-        "林清雅.png": []
+        "林清雅.png": [],
+        "[都市]-【白帝学园】.png": [],
+        "【你的老婆是炮友转正】.png": [],
+        "【蓝天航空公司】.png": [],
+        "【成熟魅惑表面端庄的舞者，实则渴望被玩弄的隐秘荡妇】.png": [],
+        "【表面温柔的私人秘书，暗夜俱乐部的调教女王】.png": [],
+        "【武侠-天龙八部世界】.png": [],
+        "[都市]-【神豪的后宫日常】.png": [],
+        "表面端庄内敛的中医-林芷柔.png": [],
+        "【鬼吹灯世界】.png": [],
+        "王晓艳.png": [],
+        "张雨涵.png": [],
+        "【冰山美人外科医生-控制欲与顺从欲并存的精英女性】.png": [],
+        "【表面高冷禁欲的大学文学教授，暗藏痴女本性的双面反差女学者】.png": [],
+        "【表面是冷艳女高管，私下是欲求不满的骚奴】.png": [],
+        "【少年歌行世界】.png": [],
+        "clk-019分手后变得放荡的前女友.png": [],
+        "clk-021创世神的游戏.png": [],
+        "学习？学个屁.png": [],
+        "【秦时便器】.png": [
+            "6aed81b9-b1e2-47a1-a1ba-5ab22364e784",
+            "f8982d50-3052-47a4-b55d-6b79847aac24",
+            "b75758da-8b98-4ae8-aa3a-5c6f1ee8e9a1",
+            "d2896a2c-2092-4785-bc3a-14e51ed0b0a9",
+            "ca6a87e1-a2b4-4b56-8d3a-b95759eef88d",
+            "1fcc1017-123f-468b-af33-63eb5a33990a",
+            "5face84a-31ad-453b-bb34-606e689f70e7",
+            "d782fb2f-3062-4287-bab6-d3edcbb1ac55",
+            "d95f484c-ffdb-4f37-97fa-148aa8bbd46f"
+        ]
     },
     "nai_settings": {
         "temperature": 1.5,
@@ -4405,7 +4465,7 @@
         "min_p_openai": 0,
         "top_a_openai": 0,
         "repetition_penalty_openai": 1,
-        "stream_openai": true,
+        "stream_openai": false,
         "openai_max_context": 2000000,
         "openai_max_tokens": 16000,
         "wrap_in_quotes": false,
@@ -5548,7 +5608,7 @@
         "openai_model": "gemini-exp-1206",
         "claude_model": "claude-3-5-sonnet-20240620",
         "google_model": "gemini-2.5-pro",
-        "vertexai_model": "gemini-2.5-pro",
+        "vertexai_model": "gemini-2.0-flash",
         "ai21_model": "jamba-1.5-large",
         "mistralai_model": "mistral-large-latest",
         "cohere_model": "command-r-plus",
@@ -5561,7 +5621,7 @@
         "xai_model": "grok-3-beta",
         "pollinations_model": "openai",
         "custom_model": "[EXPRESS] gemini-2.5-pro",
-        "custom_url": "https://ak1616162025-google-vertex.hf.space/v1",
+        "custom_url": "https://ak1616162024-gv.hf.space",
         "custom_include_body": "",
         "custom_exclude_body": "",
         "custom_include_headers": "",
@@ -5574,7 +5634,7 @@
         "openrouter_allow_fallbacks": false,
         "openrouter_middleout": "on",
         "reverse_proxy": "",
-        "chat_completion_source": "custom",
+        "chat_completion_source": "makersuite",
         "max_context_unlocked": true,
         "api_url_scale": "",
         "show_external_models": true,
