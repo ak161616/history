@@ -204,3 +204,5 @@ presets/reasoning/Blank.json
 presets/instruct/Dots1.json
 presets/context/Dots1.json
 presets/instruct/KoboldAI.json
+presets/context/Mistral V7-Tekken.json
+presets/instruct/Mistral V7-Tekken.json
