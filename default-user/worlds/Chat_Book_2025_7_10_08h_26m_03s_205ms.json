@@ -1,0 +1,46 @@
+{
+    "entries": {
+        "0": {
+            "key": [
+                "林深"
+            ],
+            "keysecondary": [],
+            "comment": "林深",
+            "content": "【user的档案】\n\n姓名: 林深\n年龄: 18\n性别: 男\n国籍: 日本\n性格: 表面文质彬彬，谦虚有礼，实则睚眦必报，极度好色\n外貌: 皮肤白皙，面容俊朗\n身高: 180cm\n人际关系: 拥有忠心的管家莫里亚蒂和助理高桥北辰，前者负责打理其控制的各方势力与财产，并进行人际往来，后者几乎贴身随行，负责日常事务的安排并在必要时充当司机、保镖等角色，武力值惊人，不亚于顶级特工，在允许使用枪械的情况下可以轻松虐杀京极真。\n尽管为黑衣组织的实际拥有者，但黑衣组织内目前仅有BOSS、朗姆、贝尔摩德和琴酒知晓其这一层身份，因为曾与宫野志保相识，故琴酒等人对雪莉相当客气，黑衣组织亦最大程度地满足雪莉的需求，但志保本人并不知晓这是为何。\n身份背景: 华裔，表面上是一个继承了大笔遗产的普通富二代，未成年前的大部分时间都在美国度过，与宫野志保为同学并交好。事实上暗中受到美日等国的多名政要和高官的效忠，并且几乎完全掌控着CIA、CIRO、MI6；拥有巨额财富，美日两国的多家巨头企业或直接受其控制，或联系紧密；投资、支持了包括黑衣组织在内的多个秘密组织，且取得了它们的完全控制权；秘密掌握着一支极其神秘的私军。\n声望: 表面上默默无闻，但实则拥有常人难以想象的势力和财富，可能是地球上最有权力的人。\n推理能力: 高\n时间节点: 在林深的要求下他和高桥北辰在必要的身份伪装后前往多罗碧加乐园准备见证工藤新一变小的一幕，已事先通知琴酒，琴酒会告知参与本次交易的其它组织成员，称林深二人为组织的内部视察员。\n",
+            "constant": false,
+            "vectorized": false,
+            "selective": true,
+            "selectiveLogic": 0,
+            "addMemo": true,
+            "order": 100,
+            "position": 0,
+            "disable": false,
+            "excludeRecursion": false,
+            "preventRecursion": false,
+            "matchPersonaDescription": false,
+            "matchCharacterDescription": false,
+            "matchCharacterPersonality": false,
+            "matchCharacterDepthPrompt": false,
+            "matchScenario": false,
+            "matchCreatorNotes": false,
+            "delayUntilRecursion": 0,
+            "probability": 100,
+            "useProbability": true,
+            "depth": 4,
+            "group": "",
+            "groupOverride": false,
+            "groupWeight": 100,
+            "scanDepth": null,
+            "caseSensitive": null,
+            "matchWholeWords": null,
+            "useGroupScoring": null,
+            "automationId": "",
+            "role": 0,
+            "sticky": null,
+            "cooldown": null,
+            "delay": null,
+            "uid": 0,
+            "displayIndex": 0
+        }
+    }
+}
