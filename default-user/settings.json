@@ -69,7 +69,9 @@
         "AlertWI_她眼中的潮汐.png": "true",
         "AlertRegex_她眼中的潮汐.png": "true",
         "AlertWI_名探侦 コナン.png": "true",
-        "AlertRegex_名探侦 コナン.png": "true"
+        "AlertRegex_名探侦 コナン.png": "true",
+        "AlertWI_哥谭模拟器.png": "true",
+        "AlertRegex_哥谭模拟器.png": "true"
     },
     "currentVersion": "1.13.1",
     "username": "林深",
@@ -1198,7 +1200,8 @@
             "人生复本.png",
             "世界调制模式·重制版.png",
             "她眼中的潮汐.png",
-            "名探侦 コナン.png"
+            "名探侦 コナン.png",
+            "哥谭模拟器.png"
         ],
         "tts": {
             "voiceMap": "",
