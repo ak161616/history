@@ -1505,11 +1505,6 @@
                 "sticky": 0,
                 "cooldown": 0,
                 "delay": 0
-            },
-            "characterFilter": {
-                "isExclude": false,
-                "names": [],
-                "tags": []
             }
         },
         "21": {
@@ -1581,11 +1576,6 @@
                 "sticky": 0,
                 "cooldown": 0,
                 "delay": 0
-            },
-            "characterFilter": {
-                "isExclude": false,
-                "names": [],
-                "tags": []
             }
         },
         "22": {
@@ -2677,11 +2667,6 @@
                 "sticky": 0,
                 "cooldown": 0,
                 "delay": 0
-            },
-            "characterFilter": {
-                "isExclude": false,
-                "names": [],
-                "tags": []
             }
         },
         "37": {
@@ -3409,11 +3394,6 @@
                 "sticky": 0,
                 "cooldown": 0,
                 "delay": 0
-            },
-            "characterFilter": {
-                "isExclude": false,
-                "names": [],
-                "tags": []
             }
         },
         "47": {
@@ -3644,11 +3624,6 @@
                 "sticky": 0,
                 "cooldown": 0,
                 "delay": 0
-            },
-            "characterFilter": {
-                "isExclude": false,
-                "names": [],
-                "tags": []
             }
         },
         "50": {
@@ -4180,7 +4155,7 @@
             "addMemo": true,
             "order": 18,
             "position": 0,
-            "disable": false,
+            "disable": true,
             "excludeRecursion": true,
             "preventRecursion": true,
             "matchPersonaDescription": false,
@@ -4318,7 +4293,7 @@
             "addMemo": true,
             "order": 100,
             "position": 4,
-            "disable": false,
+            "disable": true,
             "excludeRecursion": true,
             "preventRecursion": true,
             "matchPersonaDescription": false,
@@ -4368,11 +4343,6 @@
                 "sticky": 0,
                 "cooldown": 0,
                 "delay": 0
-            },
-            "characterFilter": {
-                "isExclude": false,
-                "names": [],
-                "tags": []
             }
         },
         "60": {
@@ -4392,7 +4362,7 @@
             "addMemo": true,
             "order": 100,
             "position": 0,
-            "disable": false,
+            "disable": true,
             "excludeRecursion": true,
             "preventRecursion": true,
             "matchPersonaDescription": false,
@@ -4442,11 +4412,6 @@
                 "sticky": 0,
                 "cooldown": 0,
                 "delay": 0
-            },
-            "characterFilter": {
-                "isExclude": false,
-                "names": [],
-                "tags": []
             }
         },
         "61": {
@@ -4466,7 +4431,7 @@
             "addMemo": true,
             "order": 100,
             "position": 0,
-            "disable": false,
+            "disable": true,
             "excludeRecursion": true,
             "preventRecursion": true,
             "matchPersonaDescription": false,
@@ -4539,7 +4504,7 @@
             "addMemo": true,
             "order": 100,
             "position": 0,
-            "disable": false,
+            "disable": true,
             "excludeRecursion": true,
             "preventRecursion": true,
             "matchPersonaDescription": false,
@@ -4612,7 +4577,7 @@
             "addMemo": true,
             "order": 100,
             "position": 0,
-            "disable": false,
+            "disable": true,
             "excludeRecursion": true,
             "preventRecursion": true,
             "matchPersonaDescription": false,
@@ -4685,7 +4650,7 @@
             "addMemo": true,
             "order": 100,
             "position": 0,
-            "disable": false,
+            "disable": true,
             "excludeRecursion": true,
             "preventRecursion": true,
             "matchPersonaDescription": false,
