@@ -1076,7 +1076,8 @@
         ],
         "muyoo_dataTable": {
             "updateIndex": 4,
-            "lastSelectedTemplate": null
+            "lastSelectedTemplate": null,
+            "rebuild_token_limit_value": 100000
         }
     },
     "extension_settings": {
