@@ -283,6 +283,7 @@
         "confirm_message_delete": true,
         "sort_field": "create_date",
         "sort_order": "desc",
+        "sort_rule": null,
         "font_scale": 1,
         "blur_strength": 10,
         "shadow_width": 2,
@@ -1468,6 +1469,9 @@
                 "enable_echo": true,
                 "url": "http://localhost:6621",
                 "duration": 1000
+            },
+            "debug": {
+                "enabled": false
             }
         }
     },
