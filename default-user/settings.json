@@ -3,7 +3,7 @@
     "accountStorage": {
         "__migrated": "1",
         "NavOpened": "false",
-        "LNavOpened": "false",
+        "LNavOpened": "true",
         "Characters_PerPage": "1000",
         "SelectedNavTab": "rm_button_characters",
         "WINavOpened": "true",
@@ -5974,14 +5974,6 @@
                     },
                     {
                         "identifier": "728db1e0-d49f-476d-bf53-8ac1f266150f",
-                        "enabled": true
-                    },
-                    {
-                        "identifier": "68a3e539-e18c-49a0-bbd7-adc2d9b78906",
-                        "enabled": false
-                    },
-                    {
-                        "identifier": "87f12de9-f722-4e1d-b334-ce0da7075e42",
                         "enabled": true
                     },
                     {
