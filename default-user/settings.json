@@ -2,7 +2,7 @@
     "firstRun": false,
     "accountStorage": {
         "__migrated": "1",
-        "NavOpened": "false",
+        "NavOpened": "true",
         "LNavOpened": "false",
         "Characters_PerPage": "1000",
         "SelectedNavTab": "rm_button_characters",
@@ -4909,7 +4909,7 @@
         "repetition_penalty_openai": 1,
         "stream_openai": false,
         "openai_max_context": 2000000,
-        "openai_max_tokens": 8192,
+        "openai_max_tokens": 16000,
         "wrap_in_quotes": false,
         "prompts": [
             {
@@ -6049,7 +6049,7 @@
         "personality_format": "[{{char}}'s personality: {{personality}}]",
         "openai_model": "gemini-exp-1206",
         "claude_model": "claude-3-5-sonnet-20240620",
-        "google_model": "gemini-2.5-pro-exp-03-25",
+        "google_model": "gemini-2.5-pro",
         "vertexai_model": "gemini-2.0-flash",
         "ai21_model": "jamba-1.5-large",
         "mistralai_model": "mistral-large-latest",
