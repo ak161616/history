@@ -131,11 +131,6 @@
                 "sticky": 0,
                 "cooldown": 0,
                 "delay": 0
-            },
-            "characterFilter": {
-                "isExclude": false,
-                "names": [],
-                "tags": []
             }
         },
         "2": {
@@ -202,6 +197,11 @@
                 "sticky": 0,
                 "cooldown": 0,
                 "delay": 0
+            },
+            "characterFilter": {
+                "isExclude": false,
+                "names": [],
+                "tags": []
             }
         },
         "3": {
@@ -303,7 +303,7 @@
             "addMemo": true,
             "order": 60,
             "position": 0,
-            "disable": false,
+            "disable": true,
             "excludeRecursion": false,
             "preventRecursion": false,
             "matchPersonaDescription": false,
@@ -353,11 +353,6 @@
                 "sticky": 0,
                 "cooldown": 0,
                 "delay": 0
-            },
-            "characterFilter": {
-                "isExclude": false,
-                "names": [],
-                "tags": []
             }
         },
         "5": {
@@ -509,6 +504,11 @@
                 "sticky": 0,
                 "cooldown": 0,
                 "delay": 0
+            },
+            "characterFilter": {
+                "isExclude": false,
+                "names": [],
+                "tags": []
             }
         },
         "7": {
@@ -578,6 +578,11 @@
                 "sticky": 0,
                 "cooldown": 0,
                 "delay": 0
+            },
+            "characterFilter": {
+                "isExclude": false,
+                "names": [],
+                "tags": []
             }
         },
         "8": {
@@ -594,7 +599,7 @@
             "addMemo": true,
             "order": 100,
             "position": 4,
-            "disable": false,
+            "disable": true,
             "excludeRecursion": false,
             "preventRecursion": false,
             "matchPersonaDescription": false,
@@ -644,11 +649,6 @@
                 "sticky": 0,
                 "cooldown": 0,
                 "delay": 0
-            },
-            "characterFilter": {
-                "isExclude": false,
-                "names": [],
-                "tags": []
             }
         },
         "9": {
@@ -713,11 +713,6 @@
                 "sticky": 0,
                 "cooldown": 0,
                 "delay": 0
-            },
-            "characterFilter": {
-                "isExclude": false,
-                "names": [],
-                "tags": []
             }
         },
         "10": {
@@ -785,11 +780,6 @@
                 "sticky": 0,
                 "cooldown": 0,
                 "delay": 0
-            },
-            "characterFilter": {
-                "isExclude": false,
-                "names": [],
-                "tags": []
             }
         },
         "11": {
@@ -1961,11 +1951,6 @@
                 "sticky": 0,
                 "cooldown": 0,
                 "delay": 0
-            },
-            "characterFilter": {
-                "isExclude": false,
-                "names": [],
-                "tags": []
             }
         },
         "27": {
@@ -1984,7 +1969,7 @@
             "addMemo": true,
             "order": 50,
             "position": 4,
-            "disable": false,
+            "disable": true,
             "excludeRecursion": false,
             "preventRecursion": false,
             "matchPersonaDescription": false,
@@ -2034,11 +2019,6 @@
                 "sticky": 0,
                 "cooldown": 0,
                 "delay": 0
-            },
-            "characterFilter": {
-                "isExclude": false,
-                "names": [],
-                "tags": []
             }
         },
         "28": {
@@ -2059,7 +2039,7 @@
             "addMemo": true,
             "order": 501,
             "position": 4,
-            "disable": true,
+            "disable": false,
             "excludeRecursion": false,
             "preventRecursion": false,
             "matchPersonaDescription": false,
@@ -2109,11 +2089,6 @@
                 "sticky": 0,
                 "cooldown": 0,
                 "delay": 0
-            },
-            "characterFilter": {
-                "isExclude": false,
-                "names": [],
-                "tags": []
             }
         },
         "29": {
@@ -2131,7 +2106,7 @@
             "addMemo": true,
             "order": 100,
             "position": 4,
-            "disable": true,
+            "disable": false,
             "excludeRecursion": false,
             "preventRecursion": false,
             "matchPersonaDescription": false,
@@ -2181,11 +2156,6 @@
                 "sticky": 0,
                 "cooldown": 0,
                 "delay": 0
-            },
-            "characterFilter": {
-                "isExclude": false,
-                "names": [],
-                "tags": []
             }
         },
         "30": {
@@ -2255,11 +2225,6 @@
                 "sticky": 0,
                 "cooldown": 0,
                 "delay": 0
-            },
-            "characterFilter": {
-                "isExclude": false,
-                "names": [],
-                "tags": []
             }
         },
         "31": {
@@ -2400,11 +2365,6 @@
                 "sticky": 0,
                 "cooldown": 0,
                 "delay": 0
-            },
-            "characterFilter": {
-                "isExclude": false,
-                "names": [],
-                "tags": []
             }
         },
         "33": {
@@ -2476,11 +2436,6 @@
                 "sticky": 0,
                 "cooldown": 0,
                 "delay": 0
-            },
-            "characterFilter": {
-                "isExclude": false,
-                "names": [],
-                "tags": []
             }
         },
         "34": {
@@ -2552,11 +2507,6 @@
                 "sticky": 0,
                 "cooldown": 0,
                 "delay": 0
-            },
-            "characterFilter": {
-                "isExclude": false,
-                "names": [],
-                "tags": []
             }
         },
         "35": {
@@ -2628,11 +2578,6 @@
                 "sticky": 0,
                 "cooldown": 0,
                 "delay": 0
-            },
-            "characterFilter": {
-                "isExclude": false,
-                "names": [],
-                "tags": []
             }
         },
         "36": {
@@ -2704,11 +2649,6 @@
                 "sticky": 0,
                 "cooldown": 0,
                 "delay": 0
-            },
-            "characterFilter": {
-                "isExclude": false,
-                "names": [],
-                "tags": []
             }
         },
         "37": {
@@ -2931,11 +2871,6 @@
                 "sticky": 0,
                 "cooldown": 0,
                 "delay": 0
-            },
-            "characterFilter": {
-                "isExclude": false,
-                "names": [],
-                "tags": []
             }
         },
         "40": {
@@ -3159,11 +3094,6 @@
                 "sticky": 0,
                 "cooldown": 0,
                 "delay": 0
-            },
-            "characterFilter": {
-                "isExclude": false,
-                "names": [],
-                "tags": []
             }
         },
         "43": {
@@ -3235,11 +3165,6 @@
                 "sticky": 0,
                 "cooldown": 0,
                 "delay": 0
-            },
-            "characterFilter": {
-                "isExclude": false,
-                "names": [],
-                "tags": []
             }
         },
         "44": {
@@ -3311,11 +3236,6 @@
                 "sticky": 0,
                 "cooldown": 0,
                 "delay": 0
-            },
-            "characterFilter": {
-                "isExclude": false,
-                "names": [],
-                "tags": []
             }
         },
         "45": {
@@ -3385,6 +3305,11 @@
                 "sticky": 0,
                 "cooldown": 0,
                 "delay": 0
+            },
+            "characterFilter": {
+                "isExclude": false,
+                "names": [],
+                "tags": []
             }
         },
         "46": {
