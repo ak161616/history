@@ -46,7 +46,7 @@
         "AlertWI_微信付费版.png": "true",
         "AlertWI_逆转援交.png": "true",
         "mediaWarningShown:莉安娜·魅夜 (淫乱欲女).png": "true",
-        "extension_update_nag": "Mon Jul 07 2025",
+        "extension_update_nag": "Fri Jul 11 2025",
         "AlertWI_精神小妹1.png": "true",
         "AlertWI_机会成本.png": "true",
         "AlertRegex_机会成本.png": "true",
@@ -64,14 +64,21 @@
         "AlertWI_clk-019分手后变得放荡的前女友.png": "true",
         "AlertWI_世界调制模式·重制版.png": "true",
         "AlertRegex_世界调制模式·重制版.png": "true",
-        "AlertWI_学习？学个屁.png": "true"
+        "AlertWI_学习？学个屁.png": "true",
+        "NavLockOn": "false",
+        "AlertWI_她眼中的潮汐.png": "true",
+        "AlertRegex_她眼中的潮汐.png": "true",
+        "AlertWI_名探侦 コナン.png": "true",
+        "AlertRegex_名探侦 コナン.png": "true",
+        "AlertWI_哥谭模拟器.png": "true",
+        "AlertRegex_哥谭模拟器.png": "true",
+        "AlertWI_Transformers Simulator.png": "true",
+        "AlertRegex_Transformers Simulator.png": "true"
     },
     "currentVersion": "1.13.1",
     "username": "林深",
-    "active_character": "DC世界.png",
+    "active_character": "哥谭模拟器.png",
     "active_group": null,
-    "api_server": "http://127.0.0.1:5000/api",
-    "preset_settings": "RecoveredRuins",
     "user_avatar": "user-default.png",
     "amount_gen": 350,
     "max_context": 8192,
@@ -1072,7 +1079,8 @@
         ],
         "muyoo_dataTable": {
             "updateIndex": 4,
-            "lastSelectedTemplate": null
+            "lastSelectedTemplate": null,
+            "rebuild_token_limit_value": 100000
         }
     },
     "extension_settings": {
@@ -1194,7 +1202,11 @@
             "机会成本.png",
             "人生复本MVU.png",
             "人生复本.png",
-            "世界调制模式·重制版.png"
+            "世界调制模式·重制版.png",
+            "她眼中的潮汐.png",
+            "名探侦 コナン.png",
+            "哥谭模拟器.png",
+            "Transformers Simulator.png"
         ],
         "tts": {
             "voiceMap": "",
@@ -1412,6 +1424,7 @@
             "isEnabled": false,
             "isCombined": false,
             "isPopout": false,
+            "showPopoutButton": true,
             "config": {
                 "setList": [
                     {
@@ -1433,7 +1446,9 @@
                 "global_script_enabled": true,
                 "scriptsRepository": [],
                 "characters_with_scripts": [
-                    "人生复本MVU.png"
+                    "人生复本MVU.png",
+                    "她眼中的潮汐.png",
+                    "名探侦 コナン.png"
                 ]
             },
             "audio": {
@@ -1457,6 +1472,9 @@
                 "enable_echo": true,
                 "url": "http://localhost:6621",
                 "duration": 1000
+            },
+            "debug": {
+                "enabled": false
             }
         }
     },
@@ -3775,6 +3793,358 @@
             "color": "",
             "color2": "",
             "create_date": 1750562172872
+        },
+        {
+            "id": "d782fb2f-3062-4287-bab6-d3edcbb1ac55",
+            "name": "秦时明月",
+            "folder_type": "NONE",
+            "filter_state": "UNDEFINED",
+            "sort_order": null,
+            "is_hidden_on_character_card": false,
+            "color": "",
+            "color2": "",
+            "create_date": 1751979868061
+        },
+        {
+            "id": "d95f484c-ffdb-4f37-97fa-148aa8bbd46f",
+            "name": "高度自由",
+            "folder_type": "NONE",
+            "filter_state": "UNDEFINED",
+            "sort_order": null,
+            "is_hidden_on_character_card": false,
+            "color": "",
+            "color2": "",
+            "create_date": 1751979868061
+        },
+        {
+            "id": "0cbe22e2-1346-4a1f-b1ab-daf4a99ff0d8",
+            "name": "月瑶",
+            "folder_type": "NONE",
+            "filter_state": "UNDEFINED",
+            "sort_order": null,
+            "is_hidden_on_character_card": false,
+            "color": "",
+            "color2": "",
+            "create_date": 1751981213584
+        },
+        {
+            "id": "8702abed-412f-4529-a879-8df3db2a216c",
+            "name": "魔女",
+            "folder_type": "NONE",
+            "filter_state": "UNDEFINED",
+            "sort_order": null,
+            "is_hidden_on_character_card": false,
+            "color": "",
+            "color2": "",
+            "create_date": 1751981213586
+        },
+        {
+            "id": "a6d62f84-6699-412c-b03f-36c44cf21044",
+            "name": "仙子",
+            "folder_type": "NONE",
+            "filter_state": "UNDEFINED",
+            "sort_order": null,
+            "is_hidden_on_character_card": false,
+            "color": "",
+            "color2": "",
+            "create_date": 1751981213587
+        },
+        {
+            "id": "fefb9a1a-fff4-4ffb-9370-7d4694d01abd",
+            "name": "古风",
+            "folder_type": "NONE",
+            "filter_state": "UNDEFINED",
+            "sort_order": null,
+            "is_hidden_on_character_card": false,
+            "color": "",
+            "color2": "",
+            "create_date": 1751981213588
+        },
+        {
+            "id": "6a2fedb2-37ec-4804-9285-03b914416b71",
+            "name": "高冷",
+            "folder_type": "NONE",
+            "filter_state": "UNDEFINED",
+            "sort_order": null,
+            "is_hidden_on_character_card": false,
+            "color": "",
+            "color2": "",
+            "create_date": 1751981213589
+        },
+        {
+            "id": "75f5c7be-6963-4b71-a97d-6328a9f7ca5c",
+            "name": "禁欲",
+            "folder_type": "NONE",
+            "filter_state": "UNDEFINED",
+            "sort_order": null,
+            "is_hidden_on_character_card": false,
+            "color": "",
+            "color2": "",
+            "create_date": 1751981213590
+        },
+        {
+            "id": "2d090f24-7764-463a-bbc2-21720c96fe8c",
+            "name": "淫娃",
+            "folder_type": "NONE",
+            "filter_state": "UNDEFINED",
+            "sort_order": null,
+            "is_hidden_on_character_card": false,
+            "color": "",
+            "color2": "",
+            "create_date": 1751981213592
+        },
+        {
+            "id": "0c3ff93b-cf09-40d5-8169-5513b1de4aaa",
+            "name": "深度角色",
+            "folder_type": "NONE",
+            "filter_state": "UNDEFINED",
+            "sort_order": null,
+            "is_hidden_on_character_card": false,
+            "color": "",
+            "color2": "",
+            "create_date": 1751981213592
+        },
+        {
+            "id": "4b625fc5-6ace-4f7b-a19c-0175378123e7",
+            "name": "剧情",
+            "folder_type": "NONE",
+            "filter_state": "UNDEFINED",
+            "sort_order": null,
+            "is_hidden_on_character_card": false,
+            "color": "",
+            "color2": "",
+            "create_date": 1751981214843
+        },
+        {
+            "id": "a91b1599-a9e0-4a4d-b320-7c87a47734b1",
+            "name": "原创世界观",
+            "folder_type": "NONE",
+            "filter_state": "UNDEFINED",
+            "sort_order": null,
+            "is_hidden_on_character_card": false,
+            "color": "",
+            "color2": "",
+            "create_date": 1751981214844
+        },
+        {
+            "id": "04e5e4ca-0887-4e41-be6a-d960d2d4199c",
+            "name": "多女主",
+            "folder_type": "NONE",
+            "filter_state": "UNDEFINED",
+            "sort_order": null,
+            "is_hidden_on_character_card": false,
+            "color": "",
+            "color2": "",
+            "create_date": 1751981214846
+        },
+        {
+            "id": "f2f8e118-5823-40d0-af76-590edd9f3aad",
+            "name": "多分支剧情",
+            "folder_type": "NONE",
+            "filter_state": "UNDEFINED",
+            "sort_order": null,
+            "is_hidden_on_character_card": false,
+            "color": "",
+            "color2": "",
+            "create_date": 1751981215935
+        },
+        {
+            "id": "feadddba-6776-44eb-ba94-539975694642",
+            "name": "大学讲师",
+            "folder_type": "NONE",
+            "filter_state": "UNDEFINED",
+            "sort_order": null,
+            "is_hidden_on_character_card": false,
+            "color": "",
+            "color2": "",
+            "create_date": 1751981216943
+        },
+        {
+            "id": "b9b566b8-3a61-4dc9-8200-c9600bd737ff",
+            "name": "媚男",
+            "folder_type": "NONE",
+            "filter_state": "UNDEFINED",
+            "sort_order": null,
+            "is_hidden_on_character_card": false,
+            "color": "",
+            "color2": "",
+            "create_date": 1751981216943
+        },
+        {
+            "id": "dda1a750-9e18-4006-a905-d45238c15fa9",
+            "name": "风流尤物",
+            "folder_type": "NONE",
+            "filter_state": "UNDEFINED",
+            "sort_order": null,
+            "is_hidden_on_character_card": false,
+            "color": "",
+            "color2": "",
+            "create_date": 1751981216944
+        },
+        {
+            "id": "a94ef027-5c1a-41ae-a7fe-84ad5c74a145",
+            "name": "权力博弈",
+            "folder_type": "NONE",
+            "filter_state": "UNDEFINED",
+            "sort_order": null,
+            "is_hidden_on_character_card": false,
+            "color": "",
+            "color2": "",
+            "create_date": 1751981217981
+        },
+        {
+            "id": "c964cd9c-c565-47d7-ad14-f7c7da38dc31",
+            "name": "情感拉扯",
+            "folder_type": "NONE",
+            "filter_state": "UNDEFINED",
+            "sort_order": null,
+            "is_hidden_on_character_card": false,
+            "color": "",
+            "color2": "",
+            "create_date": 1751981217981
+        },
+        {
+            "id": "d9b7b680-2295-4887-9e10-580fb5df09bb",
+            "name": "NSFW",
+            "folder_type": "NONE",
+            "filter_state": "UNDEFINED",
+            "sort_order": null,
+            "is_hidden_on_character_card": false,
+            "color": "",
+            "color2": "",
+            "create_date": 1751981217982
+        },
+        {
+            "id": "33df2d4d-4267-44b7-8a8f-3919e719ebf9",
+            "name": "慢热",
+            "folder_type": "NONE",
+            "filter_state": "UNDEFINED",
+            "sort_order": null,
+            "is_hidden_on_character_card": false,
+            "color": "",
+            "color2": "",
+            "create_date": 1751981217982
+        },
+        {
+            "id": "f4686357-77fa-4e96-9d69-9520b3c84f56",
+            "name": "没落贵族",
+            "folder_type": "NONE",
+            "filter_state": "UNDEFINED",
+            "sort_order": null,
+            "is_hidden_on_character_card": false,
+            "color": "",
+            "color2": "",
+            "create_date": 1751981219060
+        },
+        {
+            "id": "30bbbfb3-39aa-4f67-bf8b-e369145392bb",
+            "name": "M",
+            "folder_type": "NONE",
+            "filter_state": "UNDEFINED",
+            "sort_order": null,
+            "is_hidden_on_character_card": false,
+            "color": "",
+            "color2": "",
+            "create_date": 1751981219060
+        },
+        {
+            "id": "4f792fed-f96d-4b6f-987f-f38b771399f4",
+            "name": "CNC",
+            "folder_type": "NONE",
+            "filter_state": "UNDEFINED",
+            "sort_order": null,
+            "is_hidden_on_character_card": false,
+            "color": "",
+            "color2": "",
+            "create_date": 1751981219061
+        },
+        {
+            "id": "2affe230-268d-47a8-b593-1413686dd7c1",
+            "name": "堕落",
+            "folder_type": "NONE",
+            "filter_state": "UNDEFINED",
+            "sort_order": null,
+            "is_hidden_on_character_card": false,
+            "color": "",
+            "color2": "",
+            "create_date": 1751981219062
+        },
+        {
+            "id": "adab9927-f596-4361-86d8-c9d4aa291b34",
+            "name": "苏月华",
+            "folder_type": "NONE",
+            "filter_state": "UNDEFINED",
+            "sort_order": null,
+            "is_hidden_on_character_card": false,
+            "color": "",
+            "color2": "",
+            "create_date": 1751981220128
+        },
+        {
+            "id": "08af3709-e3c7-4be1-932c-9b06e92b3fba",
+            "name": "青楼花魁",
+            "folder_type": "NONE",
+            "filter_state": "UNDEFINED",
+            "sort_order": null,
+            "is_hidden_on_character_card": false,
+            "color": "",
+            "color2": "",
+            "create_date": 1751981220129
+        },
+        {
+            "id": "e3e51070-0d1a-406e-95fb-e155b7b4e21e",
+            "name": "落魄贵女",
+            "folder_type": "NONE",
+            "filter_state": "UNDEFINED",
+            "sort_order": null,
+            "is_hidden_on_character_card": false,
+            "color": "",
+            "color2": "",
+            "create_date": 1751981220130
+        },
+        {
+            "id": "a46860c1-7b2d-4921-8478-13dba46f48b7",
+            "name": "内心矛盾",
+            "folder_type": "NONE",
+            "filter_state": "UNDEFINED",
+            "sort_order": null,
+            "is_hidden_on_character_card": false,
+            "color": "",
+            "color2": "",
+            "create_date": 1751981220130
+        },
+        {
+            "id": "66f28eea-4df0-4e99-83b9-09acb7efa1b1",
+            "name": "强制",
+            "folder_type": "NONE",
+            "filter_state": "UNDEFINED",
+            "sort_order": null,
+            "is_hidden_on_character_card": false,
+            "color": "",
+            "color2": "",
+            "create_date": 1751981220131
+        },
+        {
+            "id": "a754db39-a6c7-4464-b9fa-a22e840c08f5",
+            "name": "非自愿",
+            "folder_type": "NONE",
+            "filter_state": "UNDEFINED",
+            "sort_order": null,
+            "is_hidden_on_character_card": false,
+            "color": "",
+            "color2": "",
+            "create_date": 1751981220131
+        },
+        {
+            "id": "1e9c5f70-e218-4a65-9018-e9d5067aee21",
+            "name": "多轮交互",
+            "folder_type": "NONE",
+            "filter_state": "UNDEFINED",
+            "sort_order": null,
+            "is_hidden_on_character_card": false,
+            "color": "",
+            "color2": "",
+            "create_date": 1751981220132
         }
     ],
     "tag_map": {
@@ -4360,7 +4730,110 @@
         "【少年歌行世界】.png": [],
         "clk-019分手后变得放荡的前女友.png": [],
         "clk-021创世神的游戏.png": [],
-        "学习？学个屁.png": []
+        "学习？学个屁.png": [],
+        "【秦时便器】.png": [
+            "6aed81b9-b1e2-47a1-a1ba-5ab22364e784",
+            "f8982d50-3052-47a4-b55d-6b79847aac24",
+            "b75758da-8b98-4ae8-aa3a-5c6f1ee8e9a1",
+            "d2896a2c-2092-4785-bc3a-14e51ed0b0a9",
+            "ca6a87e1-a2b4-4b56-8d3a-b95759eef88d",
+            "1fcc1017-123f-468b-af33-63eb5a33990a",
+            "5face84a-31ad-453b-bb34-606e689f70e7",
+            "d782fb2f-3062-4287-bab6-d3edcbb1ac55",
+            "d95f484c-ffdb-4f37-97fa-148aa8bbd46f"
+        ],
+        "【神鬼剑士】.png": [
+            "6aed81b9-b1e2-47a1-a1ba-5ab22364e784",
+            "eb2d9d7b-96a6-4cbc-bb55-ea104f0b9d14",
+            "f8982d50-3052-47a4-b55d-6b79847aac24",
+            "1f07c56f-86be-4c45-a946-bf28111ca6a2",
+            "ca6a87e1-a2b4-4b56-8d3a-b95759eef88d",
+            "b75758da-8b98-4ae8-aa3a-5c6f1ee8e9a1",
+            "01666bf6-ab60-4940-804c-3e9a54975867",
+            "1fcc1017-123f-468b-af33-63eb5a33990a",
+            "f88f6023-01a7-49c5-9ece-f090fddec7ef"
+        ],
+        "曾是名门闺秀，因家道中落沦为青楼头牌.png": [
+            "fefb9a1a-fff4-4ffb-9370-7d4694d01abd",
+            "aedd61b7-0e4a-4647-9e86-e6dd1b8a891f",
+            "f16bd4ff-9d06-4d99-95b0-489a9f6a4d27",
+            "adab9927-f596-4361-86d8-c9d4aa291b34",
+            "08af3709-e3c7-4be1-932c-9b06e92b3fba",
+            "e3e51070-0d1a-406e-95fb-e155b7b4e21e",
+            "a46860c1-7b2d-4921-8478-13dba46f48b7",
+            "66f28eea-4df0-4e99-83b9-09acb7efa1b1",
+            "a754db39-a6c7-4464-b9fa-a22e840c08f5",
+            "1e9c5f70-e218-4a65-9018-e9d5067aee21"
+        ],
+        "【表面端庄娴静的没落贵族小姐，实则内心叛逆，渴望颠覆】.png": [
+            "fefb9a1a-fff4-4ffb-9370-7d4694d01abd",
+            "104a7bb1-0778-40b4-a67d-4f20c3cd9197",
+            "aedd61b7-0e4a-4647-9e86-e6dd1b8a891f",
+            "5e40cdc9-e5ca-434c-837f-b1716cf1a945",
+            "f4686357-77fa-4e96-9d69-9520b3c84f56",
+            "30bbbfb3-39aa-4f67-bf8b-e369145392bb",
+            "4f792fed-f96d-4b6f-987f-f38b771399f4",
+            "2affe230-268d-47a8-b593-1413686dd7c1"
+        ],
+        "【时尚杂志高级编辑-御姐】.png": [
+            "d875e5b3-59a6-4eec-8e94-8e6ee1a737e0",
+            "7c6153fd-2682-41bc-9ac7-22ac10e9db32",
+            "a94ef027-5c1a-41ae-a7fe-84ad5c74a145",
+            "c964cd9c-c565-47d7-ad14-f7c7da38dc31",
+            "d9b7b680-2295-4887-9e10-580fb5df09bb",
+            "33df2d4d-4267-44b7-8a8f-3919e719ebf9"
+        ],
+        "表面是文静优雅的大学讲师，背地里是夜店媚男的风流尤物.png": [
+            "33efe6dc-0041-4826-9bb3-b47f3b0b7209",
+            "104a7bb1-0778-40b4-a67d-4f20c3cd9197",
+            "01666bf6-ab60-4940-804c-3e9a54975867",
+            "feadddba-6776-44eb-ba94-539975694642",
+            "b9b566b8-3a61-4dc9-8200-c9600bd737ff",
+            "dda1a750-9e18-4006-a905-d45238c15fa9"
+        ],
+        "【笑傲神雕】.png": [
+            "6aed81b9-b1e2-47a1-a1ba-5ab22364e784",
+            "f8982d50-3052-47a4-b55d-6b79847aac24",
+            "d2896a2c-2092-4785-bc3a-14e51ed0b0a9",
+            "b75758da-8b98-4ae8-aa3a-5c6f1ee8e9a1",
+            "d8668047-b0ea-4777-97f0-7543037853e1",
+            "01666bf6-ab60-4940-804c-3e9a54975867",
+            "f88f6023-01a7-49c5-9ece-f090fddec7ef",
+            "eb2d9d7b-96a6-4cbc-bb55-ea104f0b9d14",
+            "0ff6bfb6-54e6-4310-8ce8-b09534fd95ec",
+            "f2f8e118-5823-40d0-af76-590edd9f3aad"
+        ],
+        "【校园女友】.png": [
+            "8d18ae93-4a50-4c07-a8fb-f24a02408a8f",
+            "ca6a87e1-a2b4-4b56-8d3a-b95759eef88d",
+            "7c6153fd-2682-41bc-9ac7-22ac10e9db32",
+            "4c3f5ad0-2087-4322-8c58-c382bc82203b",
+            "4b625fc5-6ace-4f7b-a19c-0175378123e7",
+            "a91b1599-a9e0-4a4d-b320-7c87a47734b1",
+            "04e5e4ca-0887-4e41-be6a-d960d2d4199c"
+        ],
+        "高冷禁欲的古风仙子，实则内心荡漾的淫娃.png": [
+            "1f07c56f-86be-4c45-a946-bf28111ca6a2",
+            "104a7bb1-0778-40b4-a67d-4f20c3cd9197",
+            "75dfe9aa-4fcc-46e4-9520-b49eec8d872b",
+            "0cbe22e2-1346-4a1f-b1ab-daf4a99ff0d8",
+            "8702abed-412f-4529-a879-8df3db2a216c",
+            "a6d62f84-6699-412c-b03f-36c44cf21044",
+            "fefb9a1a-fff4-4ffb-9370-7d4694d01abd",
+            "6a2fedb2-37ec-4804-9285-03b914416b71",
+            "75f5c7be-6963-4b71-a97d-6328a9f7ca5c",
+            "2d090f24-7764-463a-bbc2-21720c96fe8c",
+            "0c3ff93b-cf09-40d5-8169-5513b1de4aaa"
+        ],
+        "Transformers Simulator.png": [],
+        "clk-025 好赌的肉偿人妻v1.1.png": [],
+        "乱交摄影师.png": [],
+        "名探侦 コナン.png": [],
+        "哥谭模拟器.png": [],
+        "她眼中的潮汐.png": [],
+        "我与她与他土她们.png": [],
+        "身为纯阳之体，用点阴气调和也合理吧.png": [],
+        "造物之笔.png": []
     },
     "nai_settings": {
         "temperature": 1.5,
@@ -4420,7 +4893,9 @@
         "mirostat_eta": 0.1,
         "use_default_badwordsids": false,
         "grammar": "",
-        "seed": -1
+        "seed": -1,
+        "api_server": "http://127.0.0.1:5000/api",
+        "preset_settings": "RecoveredRuins"
     },
     "oai_settings": {
         "preset_settings_openai": "[方舟预设] Re1.6",
@@ -5575,7 +6050,7 @@
         "openai_model": "gemini-exp-1206",
         "claude_model": "claude-3-5-sonnet-20240620",
         "google_model": "gemini-2.5-pro",
-        "vertexai_model": "gemini-2.5-pro",
+        "vertexai_model": "gemini-2.0-flash",
         "ai21_model": "jamba-1.5-large",
         "mistralai_model": "mistral-large-latest",
         "cohere_model": "command-r-plus",
@@ -5588,7 +6063,7 @@
         "xai_model": "grok-3-beta",
         "pollinations_model": "openai",
         "custom_model": "[EXPRESS] gemini-2.5-pro",
-        "custom_url": "https://ak1616162025-google-vertex.hf.space/v1",
+        "custom_url": "https://ak1616162024-gv.hf.space",
         "custom_include_body": "",
         "custom_exclude_body": "",
         "custom_include_headers": "",
