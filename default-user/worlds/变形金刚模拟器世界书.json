@@ -131,11 +131,6 @@
                 "sticky": 0,
                 "cooldown": 0,
                 "delay": 0
-            },
-            "characterFilter": {
-                "isExclude": false,
-                "names": [],
-                "tags": []
             }
         },
         "2": {
@@ -200,11 +195,6 @@
                 "sticky": 0,
                 "cooldown": 0,
                 "delay": 0
-            },
-            "characterFilter": {
-                "isExclude": false,
-                "names": [],
-                "tags": []
             }
         },
         "3": {
@@ -219,7 +209,7 @@
             "addMemo": true,
             "order": 100,
             "position": 4,
-            "disable": false,
+            "disable": true,
             "excludeRecursion": false,
             "preventRecursion": false,
             "matchPersonaDescription": false,
@@ -269,11 +259,6 @@
                 "sticky": 0,
                 "cooldown": 0,
                 "delay": 0
-            },
-            "characterFilter": {
-                "isExclude": false,
-                "names": [],
-                "tags": []
             }
         },
         "4": {
@@ -338,11 +323,6 @@
                 "sticky": 0,
                 "cooldown": 0,
                 "delay": 0
-            },
-            "characterFilter": {
-                "isExclude": false,
-                "names": [],
-                "tags": []
             }
         },
         "5": {
@@ -407,11 +387,6 @@
                 "sticky": 0,
                 "cooldown": 0,
                 "delay": 0
-            },
-            "characterFilter": {
-                "isExclude": false,
-                "names": [],
-                "tags": []
             }
         },
         "6": {
