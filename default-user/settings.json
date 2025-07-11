@@ -3,7 +3,7 @@
     "accountStorage": {
         "__migrated": "1",
         "NavOpened": "false",
-        "LNavOpened": "true",
+        "LNavOpened": "false",
         "Characters_PerPage": "1000",
         "SelectedNavTab": "rm_button_characters",
         "WINavOpened": "true",
@@ -4909,7 +4909,7 @@
         "repetition_penalty_openai": 1,
         "stream_openai": false,
         "openai_max_context": 2000000,
-        "openai_max_tokens": 16000,
+        "openai_max_tokens": 8192,
         "wrap_in_quotes": false,
         "prompts": [
             {
@@ -5977,6 +5977,14 @@
                         "enabled": true
                     },
                     {
+                        "identifier": "68a3e539-e18c-49a0-bbd7-adc2d9b78906",
+                        "enabled": false
+                    },
+                    {
+                        "identifier": "87f12de9-f722-4e1d-b334-ce0da7075e42",
+                        "enabled": true
+                    },
+                    {
                         "identifier": "jailbreak",
                         "enabled": true
                     },
@@ -5998,7 +6006,7 @@
                     },
                     {
                         "identifier": "e5097714-e9fc-4abe-91c1-7c7e5799d1e4",
-                        "enabled": true
+                        "enabled": false
                     }
                 ]
             }
@@ -6060,12 +6068,12 @@
         "custom_exclude_body": "",
         "custom_include_headers": "",
         "windowai_model": "",
-        "openrouter_model": "microsoft/mai-ds-r1:free",
+        "openrouter_model": "OR_Website",
         "openrouter_use_fallback": false,
         "openrouter_group_models": false,
         "openrouter_sort_models": "alphabetically",
         "openrouter_providers": [],
-        "openrouter_allow_fallbacks": false,
+        "openrouter_allow_fallbacks": true,
         "openrouter_middleout": "on",
         "reverse_proxy": "",
         "chat_completion_source": "makersuite",
