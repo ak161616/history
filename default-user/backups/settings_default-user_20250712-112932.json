@@ -3,7 +3,7 @@
     "accountStorage": {
         "__migrated": "1",
         "NavOpened": "false",
-        "LNavOpened": "true",
+        "LNavOpened": "false",
         "Characters_PerPage": "1000",
         "SelectedNavTab": "rm_button_characters",
         "WINavOpened": "true",
@@ -46,7 +46,7 @@
         "AlertWI_微信付费版.png": "true",
         "AlertWI_逆转援交.png": "true",
         "mediaWarningShown:莉安娜·魅夜 (淫乱欲女).png": "true",
-        "extension_update_nag": "Tue Jul 08 2025",
+        "extension_update_nag": "Sat Jul 12 2025",
         "AlertWI_精神小妹1.png": "true",
         "AlertWI_机会成本.png": "true",
         "AlertRegex_机会成本.png": "true",
@@ -64,14 +64,29 @@
         "AlertWI_clk-019分手后变得放荡的前女友.png": "true",
         "AlertWI_世界调制模式·重制版.png": "true",
         "AlertRegex_世界调制模式·重制版.png": "true",
-        "AlertWI_学习？学个屁.png": "true"
+        "AlertWI_学习？学个屁.png": "true",
+        "NavLockOn": "false",
+        "AlertWI_她眼中的潮汐.png": "true",
+        "AlertRegex_她眼中的潮汐.png": "true",
+        "AlertWI_名探侦 コナン.png": "true",
+        "AlertRegex_名探侦 コナン.png": "true",
+        "AlertWI_哥谭模拟器.png": "true",
+        "AlertRegex_哥谭模拟器.png": "true",
+        "AlertWI_Transformers Simulator.png": "true",
+        "AlertRegex_Transformers Simulator.png": "true",
+        "AlertWI_金庸群侠传：襄阳烽火录.png": "true",
+        "AlertRegex_金庸群侠传：襄阳烽火录.png": "true",
+        "AlertWI_超英模拟器.png": "true",
+        "AlertRegex_超英模拟器.png": "true",
+        "AlertWI_名器至上：沪上欲都ver1.4.png": "true",
+        "mediaWarningShown:三国历史模拟.png": "true",
+        "AlertWI_三国历史模拟.png": "true",
+        "AlertRegex_三国历史模拟.png": "true"
     },
     "currentVersion": "1.13.1",
     "username": "林深",
-    "active_character": "DC世界.png",
+    "active_character": "速度与姬情 v13.0 Ω.png",
     "active_group": null,
-    "api_server": "http://127.0.0.1:5000/api",
-    "preset_settings": "RecoveredRuins",
     "user_avatar": "user-default.png",
     "amount_gen": 350,
     "max_context": 8192,
@@ -276,9 +291,8 @@
         "play_sound_unfocused": true,
         "auto_save_msg_edits": false,
         "confirm_message_delete": true,
-        "sort_field": "create_date",
+        "sort_field": "date_last_chat",
         "sort_order": "desc",
-        "sort_rule": null,
         "font_scale": 1,
         "blur_strength": 10,
         "shadow_width": 2,
@@ -1072,7 +1086,8 @@
         ],
         "muyoo_dataTable": {
             "updateIndex": 4,
-            "lastSelectedTemplate": null
+            "lastSelectedTemplate": null,
+            "rebuild_token_limit_value": 100000
         }
     },
     "extension_settings": {
@@ -1194,7 +1209,14 @@
             "机会成本.png",
             "人生复本MVU.png",
             "人生复本.png",
-            "世界调制模式·重制版.png"
+            "世界调制模式·重制版.png",
+            "她眼中的潮汐.png",
+            "名探侦 コナン.png",
+            "哥谭模拟器.png",
+            "Transformers Simulator.png",
+            "金庸群侠传：襄阳烽火录.png",
+            "超英模拟器.png",
+            "三国历史模拟.png"
         ],
         "tts": {
             "voiceMap": "",
@@ -1412,6 +1434,7 @@
             "isEnabled": false,
             "isCombined": false,
             "isPopout": false,
+            "showPopoutButton": true,
             "config": {
                 "setList": [
                     {
@@ -1433,7 +1456,9 @@
                 "global_script_enabled": true,
                 "scriptsRepository": [],
                 "characters_with_scripts": [
-                    "人生复本MVU.png"
+                    "人生复本MVU.png",
+                    "她眼中的潮汐.png",
+                    "名探侦 コナン.png"
                 ]
             },
             "audio": {
@@ -1457,6 +1482,9 @@
                 "enable_echo": true,
                 "url": "http://localhost:6621",
                 "duration": 1000
+            },
+            "debug": {
+                "enabled": false
             }
         }
     },
@@ -4127,6 +4155,160 @@
             "color": "",
             "color2": "",
             "create_date": 1751981220132
+        },
+        {
+            "id": "a664c849-a8b3-449d-8469-112994ea69d3",
+            "name": "Explicit",
+            "folder_type": "NONE",
+            "filter_state": "UNDEFINED",
+            "sort_order": null,
+            "is_hidden_on_character_card": false,
+            "color": "",
+            "color2": "",
+            "create_date": 1752292945908
+        },
+        {
+            "id": "4f90c4f7-b4f9-4739-8b91-66cffd9eb76d",
+            "name": "Erotic",
+            "folder_type": "NONE",
+            "filter_state": "UNDEFINED",
+            "sort_order": null,
+            "is_hidden_on_character_card": false,
+            "color": "",
+            "color2": "",
+            "create_date": 1752292945909
+        },
+        {
+            "id": "de0e3d01-d787-45ca-aa55-7d4f1cbf0889",
+            "name": "Dominance",
+            "folder_type": "NONE",
+            "filter_state": "UNDEFINED",
+            "sort_order": null,
+            "is_hidden_on_character_card": false,
+            "color": "",
+            "color2": "",
+            "create_date": 1752292945909
+        },
+        {
+            "id": "106a00b5-ed48-459a-b6af-7c539a7420cb",
+            "name": "Submission",
+            "folder_type": "NONE",
+            "filter_state": "UNDEFINED",
+            "sort_order": null,
+            "is_hidden_on_character_card": false,
+            "color": "",
+            "color2": "",
+            "create_date": 1752292945910
+        },
+        {
+            "id": "f7994daa-3d53-4782-a338-d4c5b46d592d",
+            "name": "NonCon (Implied by setting)",
+            "folder_type": "NONE",
+            "filter_state": "UNDEFINED",
+            "sort_order": null,
+            "is_hidden_on_character_card": false,
+            "color": "",
+            "color2": "",
+            "create_date": 1752292945910
+        },
+        {
+            "id": "91010845-2929-4976-acd2-5eb42f9e306e",
+            "name": "Degradation",
+            "folder_type": "NONE",
+            "filter_state": "UNDEFINED",
+            "sort_order": null,
+            "is_hidden_on_character_card": false,
+            "color": "",
+            "color2": "",
+            "create_date": 1752292945911
+        },
+        {
+            "id": "df4b7785-7da0-45c9-8232-6228c5d28382",
+            "name": "Worldbuilding",
+            "folder_type": "NONE",
+            "filter_state": "UNDEFINED",
+            "sort_order": null,
+            "is_hidden_on_character_card": false,
+            "color": "",
+            "color2": "",
+            "create_date": 1752292945911
+        },
+        {
+            "id": "b4778f38-e63a-4990-97a3-e829f2c47402",
+            "name": "Dystopian",
+            "folder_type": "NONE",
+            "filter_state": "UNDEFINED",
+            "sort_order": null,
+            "is_hidden_on_character_card": false,
+            "color": "",
+            "color2": "",
+            "create_date": 1752292945912
+        },
+        {
+            "id": "71bfdf3b-5678-4952-9701-b77ed6a5e1b7",
+            "name": "Sci-Fi",
+            "folder_type": "NONE",
+            "filter_state": "UNDEFINED",
+            "sort_order": null,
+            "is_hidden_on_character_card": false,
+            "color": "",
+            "color2": "",
+            "create_date": 1752292945912
+        },
+        {
+            "id": "8e1097c3-723e-4a2f-a613-a910078e8686",
+            "name": "Body Modification (Implied)",
+            "folder_type": "NONE",
+            "filter_state": "UNDEFINED",
+            "sort_order": null,
+            "is_hidden_on_character_card": false,
+            "color": "",
+            "color2": "",
+            "create_date": 1752292945913
+        },
+        {
+            "id": "8e77393b-c869-450c-823c-a526b4d3185a",
+            "name": "上海",
+            "folder_type": "NONE",
+            "filter_state": "UNDEFINED",
+            "sort_order": null,
+            "is_hidden_on_character_card": false,
+            "color": "",
+            "color2": "",
+            "create_date": 1752292945914
+        },
+        {
+            "id": "8cbdbf31-c02b-49ed-8d0d-72a788fef063",
+            "name": "名器",
+            "folder_type": "NONE",
+            "filter_state": "UNDEFINED",
+            "sort_order": null,
+            "is_hidden_on_character_card": false,
+            "color": "",
+            "color2": "",
+            "create_date": 1752292945916
+        },
+        {
+            "id": "9f58208e-a127-4b4d-992c-4498efdf3df0",
+            "name": "龙根",
+            "folder_type": "NONE",
+            "filter_state": "UNDEFINED",
+            "sort_order": null,
+            "is_hidden_on_character_card": false,
+            "color": "",
+            "color2": "",
+            "create_date": 1752292945917
+        },
+        {
+            "id": "8cad47d4-bd24-47f8-a053-1dec2fb2a493",
+            "name": "等级制度",
+            "folder_type": "NONE",
+            "filter_state": "UNDEFINED",
+            "sort_order": null,
+            "is_hidden_on_character_card": false,
+            "color": "",
+            "color2": "",
+            "create_date": 1752292945918
         }
     ],
     "tag_map": {
@@ -4724,7 +4906,6 @@
             "d782fb2f-3062-4287-bab6-d3edcbb1ac55",
             "d95f484c-ffdb-4f37-97fa-148aa8bbd46f"
         ],
-        "clk-025 好赌的肉偿人妻.png": [],
         "【神鬼剑士】.png": [
             "6aed81b9-b1e2-47a1-a1ba-5ab22364e784",
             "eb2d9d7b-96a6-4cbc-bb55-ea104f0b9d14",
@@ -4807,6 +4988,37 @@
             "75f5c7be-6963-4b71-a97d-6328a9f7ca5c",
             "2d090f24-7764-463a-bbc2-21720c96fe8c",
             "0c3ff93b-cf09-40d5-8169-5513b1de4aaa"
+        ],
+        "Transformers Simulator.png": [],
+        "clk-025 好赌的肉偿人妻v1.1.png": [],
+        "乱交摄影师.png": [],
+        "名探侦 コナン.png": [],
+        "哥谭模拟器.png": [],
+        "她眼中的潮汐.png": [],
+        "我与她与他土她们.png": [],
+        "身为纯阳之体，用点阴气调和也合理吧.png": [],
+        "造物之笔.png": [],
+        "金庸群侠传：襄阳烽火录.png": [],
+        "欲望天际：重制版.png": [],
+        "超英模拟器.png": [],
+        "三国历史模拟.png": [],
+        "穿越修仙界7.0无图版.png": [],
+        "名器至上：沪上欲都ver1.4.png": [
+            "d9b7b680-2295-4887-9e10-580fb5df09bb",
+            "a664c849-a8b3-449d-8469-112994ea69d3",
+            "4f90c4f7-b4f9-4739-8b91-66cffd9eb76d",
+            "de0e3d01-d787-45ca-aa55-7d4f1cbf0889",
+            "106a00b5-ed48-459a-b6af-7c539a7420cb",
+            "f7994daa-3d53-4782-a338-d4c5b46d592d",
+            "91010845-2929-4976-acd2-5eb42f9e306e",
+            "df4b7785-7da0-45c9-8232-6228c5d28382",
+            "b4778f38-e63a-4990-97a3-e829f2c47402",
+            "71bfdf3b-5678-4952-9701-b77ed6a5e1b7",
+            "8e1097c3-723e-4a2f-a613-a910078e8686",
+            "8e77393b-c869-450c-823c-a526b4d3185a",
+            "8cbdbf31-c02b-49ed-8d0d-72a788fef063",
+            "9f58208e-a127-4b4d-992c-4498efdf3df0",
+            "8cad47d4-bd24-47f8-a053-1dec2fb2a493"
         ]
     },
     "nai_settings": {
@@ -4867,7 +5079,9 @@
         "mirostat_eta": 0.1,
         "use_default_badwordsids": false,
         "grammar": "",
-        "seed": -1
+        "seed": -1,
+        "api_server": "http://127.0.0.1:5000/api",
+        "preset_settings": "RecoveredRuins"
     },
     "oai_settings": {
         "preset_settings_openai": "[方舟预设] Re1.6",
@@ -5978,7 +6192,7 @@
                     },
                     {
                         "identifier": "e5097714-e9fc-4abe-91c1-7c7e5799d1e4",
-                        "enabled": true
+                        "enabled": false
                     }
                 ]
             }
@@ -6040,12 +6254,12 @@
         "custom_exclude_body": "",
         "custom_include_headers": "",
         "windowai_model": "",
-        "openrouter_model": "microsoft/mai-ds-r1:free",
+        "openrouter_model": "OR_Website",
         "openrouter_use_fallback": false,
         "openrouter_group_models": false,
         "openrouter_sort_models": "alphabetically",
         "openrouter_providers": [],
-        "openrouter_allow_fallbacks": false,
+        "openrouter_allow_fallbacks": true,
         "openrouter_middleout": "on",
         "reverse_proxy": "",
         "chat_completion_source": "makersuite",
@@ -6072,7 +6286,7 @@
         "continue_postfix": " ",
         "custom_prompt_post_processing": "merge",
         "show_thoughts": true,
-        "reasoning_effort": "max",
+        "reasoning_effort": "high",
         "enable_web_search": false,
         "request_images": false,
         "seed": -1,
