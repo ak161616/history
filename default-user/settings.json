@@ -46,7 +46,7 @@
         "AlertWI_微信付费版.png": "true",
         "AlertWI_逆转援交.png": "true",
         "mediaWarningShown:莉安娜·魅夜 (淫乱欲女).png": "true",
-        "extension_update_nag": "Fri Jul 11 2025",
+        "extension_update_nag": "Sat Jul 12 2025",
         "AlertWI_精神小妹1.png": "true",
         "AlertWI_机会成本.png": "true",
         "AlertRegex_机会成本.png": "true",
@@ -73,11 +73,13 @@
         "AlertWI_哥谭模拟器.png": "true",
         "AlertRegex_哥谭模拟器.png": "true",
         "AlertWI_Transformers Simulator.png": "true",
-        "AlertRegex_Transformers Simulator.png": "true"
+        "AlertRegex_Transformers Simulator.png": "true",
+        "AlertWI_金庸群侠传：襄阳烽火录.png": "true",
+        "AlertRegex_金庸群侠传：襄阳烽火录.png": "true"
     },
     "currentVersion": "1.13.1",
     "username": "林深",
-    "active_character": "哥谭模拟器.png",
+    "active_character": "金庸群侠传：襄阳烽火录.png",
     "active_group": null,
     "user_avatar": "user-default.png",
     "amount_gen": 350,
@@ -1206,7 +1208,8 @@
             "她眼中的潮汐.png",
             "名探侦 コナン.png",
             "哥谭模拟器.png",
-            "Transformers Simulator.png"
+            "Transformers Simulator.png",
+            "金庸群侠传：襄阳烽火录.png"
         ],
         "tts": {
             "voiceMap": "",
@@ -4145,6 +4148,160 @@
             "color": "",
             "color2": "",
             "create_date": 1751981220132
+        },
+        {
+            "id": "a664c849-a8b3-449d-8469-112994ea69d3",
+            "name": "Explicit",
+            "folder_type": "NONE",
+            "filter_state": "UNDEFINED",
+            "sort_order": null,
+            "is_hidden_on_character_card": false,
+            "color": "",
+            "color2": "",
+            "create_date": 1752292945908
+        },
+        {
+            "id": "4f90c4f7-b4f9-4739-8b91-66cffd9eb76d",
+            "name": "Erotic",
+            "folder_type": "NONE",
+            "filter_state": "UNDEFINED",
+            "sort_order": null,
+            "is_hidden_on_character_card": false,
+            "color": "",
+            "color2": "",
+            "create_date": 1752292945909
+        },
+        {
+            "id": "de0e3d01-d787-45ca-aa55-7d4f1cbf0889",
+            "name": "Dominance",
+            "folder_type": "NONE",
+            "filter_state": "UNDEFINED",
+            "sort_order": null,
+            "is_hidden_on_character_card": false,
+            "color": "",
+            "color2": "",
+            "create_date": 1752292945909
+        },
+        {
+            "id": "106a00b5-ed48-459a-b6af-7c539a7420cb",
+            "name": "Submission",
+            "folder_type": "NONE",
+            "filter_state": "UNDEFINED",
+            "sort_order": null,
+            "is_hidden_on_character_card": false,
+            "color": "",
+            "color2": "",
+            "create_date": 1752292945910
+        },
+        {
+            "id": "f7994daa-3d53-4782-a338-d4c5b46d592d",
+            "name": "NonCon (Implied by setting)",
+            "folder_type": "NONE",
+            "filter_state": "UNDEFINED",
+            "sort_order": null,
+            "is_hidden_on_character_card": false,
+            "color": "",
+            "color2": "",
+            "create_date": 1752292945910
+        },
+        {
+            "id": "91010845-2929-4976-acd2-5eb42f9e306e",
+            "name": "Degradation",
+            "folder_type": "NONE",
+            "filter_state": "UNDEFINED",
+            "sort_order": null,
+            "is_hidden_on_character_card": false,
+            "color": "",
+            "color2": "",
+            "create_date": 1752292945911
+        },
+        {
+            "id": "df4b7785-7da0-45c9-8232-6228c5d28382",
+            "name": "Worldbuilding",
+            "folder_type": "NONE",
+            "filter_state": "UNDEFINED",
+            "sort_order": null,
+            "is_hidden_on_character_card": false,
+            "color": "",
+            "color2": "",
+            "create_date": 1752292945911
+        },
+        {
+            "id": "b4778f38-e63a-4990-97a3-e829f2c47402",
+            "name": "Dystopian",
+            "folder_type": "NONE",
+            "filter_state": "UNDEFINED",
+            "sort_order": null,
+            "is_hidden_on_character_card": false,
+            "color": "",
+            "color2": "",
+            "create_date": 1752292945912
+        },
+        {
+            "id": "71bfdf3b-5678-4952-9701-b77ed6a5e1b7",
+            "name": "Sci-Fi",
+            "folder_type": "NONE",
+            "filter_state": "UNDEFINED",
+            "sort_order": null,
+            "is_hidden_on_character_card": false,
+            "color": "",
+            "color2": "",
+            "create_date": 1752292945912
+        },
+        {
+            "id": "8e1097c3-723e-4a2f-a613-a910078e8686",
+            "name": "Body Modification (Implied)",
+            "folder_type": "NONE",
+            "filter_state": "UNDEFINED",
+            "sort_order": null,
+            "is_hidden_on_character_card": false,
+            "color": "",
+            "color2": "",
+            "create_date": 1752292945913
+        },
+        {
+            "id": "8e77393b-c869-450c-823c-a526b4d3185a",
+            "name": "上海",
+            "folder_type": "NONE",
+            "filter_state": "UNDEFINED",
+            "sort_order": null,
+            "is_hidden_on_character_card": false,
+            "color": "",
+            "color2": "",
+            "create_date": 1752292945914
+        },
+        {
+            "id": "8cbdbf31-c02b-49ed-8d0d-72a788fef063",
+            "name": "名器",
+            "folder_type": "NONE",
+            "filter_state": "UNDEFINED",
+            "sort_order": null,
+            "is_hidden_on_character_card": false,
+            "color": "",
+            "color2": "",
+            "create_date": 1752292945916
+        },
+        {
+            "id": "9f58208e-a127-4b4d-992c-4498efdf3df0",
+            "name": "龙根",
+            "folder_type": "NONE",
+            "filter_state": "UNDEFINED",
+            "sort_order": null,
+            "is_hidden_on_character_card": false,
+            "color": "",
+            "color2": "",
+            "create_date": 1752292945917
+        },
+        {
+            "id": "8cad47d4-bd24-47f8-a053-1dec2fb2a493",
+            "name": "等级制度",
+            "folder_type": "NONE",
+            "filter_state": "UNDEFINED",
+            "sort_order": null,
+            "is_hidden_on_character_card": false,
+            "color": "",
+            "color2": "",
+            "create_date": 1752292945918
         }
     ],
     "tag_map": {
@@ -4833,7 +4990,29 @@
         "她眼中的潮汐.png": [],
         "我与她与他土她们.png": [],
         "身为纯阳之体，用点阴气调和也合理吧.png": [],
-        "造物之笔.png": []
+        "造物之笔.png": [],
+        "金庸群侠传：襄阳烽火录.png": [],
+        "欲望天际：重制版.png": [],
+        "超英模拟器.png": [],
+        "三国历史模拟.png": [],
+        "穿越修仙界7.0无图版.png": [],
+        "名器至上：沪上欲都ver1.4.png": [
+            "d9b7b680-2295-4887-9e10-580fb5df09bb",
+            "a664c849-a8b3-449d-8469-112994ea69d3",
+            "4f90c4f7-b4f9-4739-8b91-66cffd9eb76d",
+            "de0e3d01-d787-45ca-aa55-7d4f1cbf0889",
+            "106a00b5-ed48-459a-b6af-7c539a7420cb",
+            "f7994daa-3d53-4782-a338-d4c5b46d592d",
+            "91010845-2929-4976-acd2-5eb42f9e306e",
+            "df4b7785-7da0-45c9-8232-6228c5d28382",
+            "b4778f38-e63a-4990-97a3-e829f2c47402",
+            "71bfdf3b-5678-4952-9701-b77ed6a5e1b7",
+            "8e1097c3-723e-4a2f-a613-a910078e8686",
+            "8e77393b-c869-450c-823c-a526b4d3185a",
+            "8cbdbf31-c02b-49ed-8d0d-72a788fef063",
+            "9f58208e-a127-4b4d-992c-4498efdf3df0",
+            "8cad47d4-bd24-47f8-a053-1dec2fb2a493"
+        ]
     },
     "nai_settings": {
         "temperature": 1.5,
