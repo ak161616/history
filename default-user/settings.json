@@ -2,7 +2,7 @@
     "firstRun": false,
     "accountStorage": {
         "__migrated": "1",
-        "NavOpened": "true",
+        "NavOpened": "false",
         "LNavOpened": "false",
         "Characters_PerPage": "1000",
         "SelectedNavTab": "rm_button_characters",
@@ -88,11 +88,15 @@
         "AlertWI_大乾风华录.png": "true",
         "AlertRegex_大乾风华录.png": "true",
         "AlertWI_寒冬末日 - 我有一个无敌的避难所.png": "true",
-        "AlertRegex_寒冬末日 - 我有一个无敌的避难所.png": "true"
+        "AlertRegex_寒冬末日 - 我有一个无敌的避难所.png": "true",
+        "AlertWI_欲望天际：重制版.png": "true",
+        "AlertRegex_欲望天际：重制版.png": "true",
+        "AlertWI_穿越修仙界7.0无图版.png": "true",
+        "AlertWI_乱交摄影师.png": "true"
     },
     "currentVersion": "1.13.1",
     "username": "林深",
-    "active_character": "寒冬末日 - 我有一个无敌的避难所.png",
+    "active_character": "名器至上：沪上欲都ver1.4.png",
     "active_group": null,
     "user_avatar": "user-default.png",
     "amount_gen": 350,
@@ -300,6 +304,7 @@
         "confirm_message_delete": true,
         "sort_field": "create_date",
         "sort_order": "desc",
+        "sort_rule": null,
         "font_scale": 1,
         "blur_strength": 10,
         "shadow_width": 2,
@@ -465,7 +470,7 @@
         "show_swipe_num_all_messages": false,
         "auto_connect": true,
         "auto_load_chat": true,
-        "forbid_external_media": true,
+        "forbid_external_media": false,
         "external_media_allowed_overrides": [],
         "external_media_forbidden_overrides": [],
         "pin_styles": true,
@@ -1226,7 +1231,8 @@
             "三国历史模拟.png",
             "命运升格-性斗神战！.png",
             "大乾风华录.png",
-            "寒冬末日 - 我有一个无敌的避难所.png"
+            "寒冬末日 - 我有一个无敌的避难所.png",
+            "欲望天际：重制版.png"
         ],
         "tts": {
             "voiceMap": "",
@@ -1441,7 +1447,7 @@
             "chara": []
         },
         "quickReplyV2": {
-            "isEnabled": false,
+            "isEnabled": true,
             "isCombined": false,
             "isPopout": false,
             "showPopoutButton": true,
@@ -1469,7 +1475,8 @@
                     "人生复本MVU.png",
                     "她眼中的潮汐.png",
                     "名探侦 コナン.png",
-                    "寒冬末日 - 我有一个无敌的避难所.png"
+                    "寒冬末日 - 我有一个无敌的避难所.png",
+                    "欲望天际：重制版.png"
                 ]
             },
             "audio": {
