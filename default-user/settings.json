@@ -2,7 +2,7 @@
     "firstRun": false,
     "accountStorage": {
         "__migrated": "1",
-        "NavOpened": "false",
+        "NavOpened": "true",
         "LNavOpened": "false",
         "Characters_PerPage": "1000",
         "SelectedNavTab": "rm_button_characters",
@@ -6181,7 +6181,7 @@
                     },
                     {
                         "identifier": "b925840f-c125-4385-87bb-eaf642493afd",
-                        "enabled": false
+                        "enabled": true
                     },
                     {
                         "identifier": "cffe7691-94d1-42cb-bf52-e3942703ef96",
