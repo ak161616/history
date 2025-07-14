@@ -2,7 +2,7 @@
     "firstRun": false,
     "accountStorage": {
         "__migrated": "1",
-        "NavOpened": "true",
+        "NavOpened": "false",
         "LNavOpened": "false",
         "Characters_PerPage": "1000",
         "SelectedNavTab": "rm_button_characters",
@@ -92,11 +92,13 @@
         "AlertWI_穿越修仙界7.0无图版.png": "true",
         "AlertWI_乱交摄影师.png": "true",
         "AlertWI_超英模拟器1.png": "true",
-        "AlertRegex_超英模拟器1.png": "true"
+        "AlertRegex_超英模拟器1.png": "true",
+        "AlertWI_归墟【梦星】.png": "true",
+        "AlertRegex_归墟【梦星】.png": "true"
     },
     "currentVersion": "1.13.1",
     "username": "林深",
-    "active_character": "超英模拟器1.png",
+    "active_character": "归墟【梦星】.png",
     "active_group": null,
     "user_avatar": "user-default.png",
     "amount_gen": 350,
@@ -1232,7 +1234,8 @@
             "大乾风华录.png",
             "寒冬末日 - 我有一个无敌的避难所.png",
             "欲望天际：重制版.png",
-            "超英模拟器1.png"
+            "超英模拟器1.png",
+            "归墟【梦星】.png"
         ],
         "tts": {
             "voiceMap": "",
@@ -1476,7 +1479,8 @@
                     "她眼中的潮汐.png",
                     "名探侦 コナン.png",
                     "寒冬末日 - 我有一个无敌的避难所.png",
-                    "欲望天际：重制版.png"
+                    "欲望天际：重制版.png",
+                    "归墟【梦星】.png"
                 ]
             },
             "audio": {
@@ -5641,7 +5645,22 @@
             "f9813f54-4e70-46da-95f6-682708e50b57",
             "a9e8d0bb-6b5d-41bc-8d7e-647479dc2dfa"
         ],
-        "超英模拟器1.png": []
+        "超英模拟器1.png": [],
+        "归墟【梦星】.png": [],
+        "冰山总裁、控制欲强但内心渴望臣服.png": [],
+        "【仙剑奇侠传Ⅲ】.png": [],
+        "没落望族的嫡长女，前朝遗孤.png": [],
+        "【神雕腥传】.png": [],
+        "失宠的侯府夫人，深闺怨妇.png": [],
+        "[都市]-【淫男乱女】.png": [],
+        "神雕游侠(神雕风流).png": [],
+        "【都市猎艳-征服网黄女主播】.png": [],
+        "【前卧底女警，表面优雅，内心炽热如雌兽】.png": [],
+        "【都市：我成了富二代反派】.png": [],
+        "【金融精英，反差女神】.png": [],
+        "【倩女幽魂-玄心奥妙诀】.png": [],
+        "【名校研究生，反差学霸】.png": [],
+        "【丧尸末日】.png": []
     },
     "nai_settings": {
         "temperature": 1.5,
