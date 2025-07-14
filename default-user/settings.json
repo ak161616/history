@@ -6909,7 +6909,7 @@
         "continue_postfix": " ",
         "custom_prompt_post_processing": "merge",
         "show_thoughts": true,
-        "reasoning_effort": "high",
+        "reasoning_effort": "max",
         "enable_web_search": false,
         "request_images": false,
         "seed": -1,
