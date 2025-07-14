@@ -1101,7 +1101,9 @@
         "muyoo_dataTable": {
             "updateIndex": 4,
             "lastSelectedTemplate": null,
-            "rebuild_token_limit_value": 100000
+            "rebuild_token_limit_value": 100000,
+            "isAiReadTable": true,
+            "isAiWriteTable": true
         }
     },
     "extension_settings": {
