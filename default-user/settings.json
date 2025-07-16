@@ -95,11 +95,12 @@
         "AlertRegex_超英模拟器1.png": "true",
         "AlertWI_归墟【梦星】.png": "true",
         "AlertRegex_归墟【梦星】.png": "true",
-        "AlertWI_抽卡江湖.png": "true"
+        "AlertWI_抽卡江湖.png": "true",
+        "AlertWI_娱乐之巅V1.0.png": "true"
     },
     "currentVersion": "1.13.1",
     "username": "林深",
-    "active_character": "抽卡江湖.png",
+    "active_character": "娱乐之巅V1.0.png",
     "active_group": null,
     "user_avatar": "user-default.png",
     "amount_gen": 350,
@@ -5516,7 +5517,6 @@
         "哥谭模拟器.png": [],
         "她眼中的潮汐.png": [],
         "我与她与他土她们.png": [],
-        "身为纯阳之体，用点阴气调和也合理吧.png": [],
         "造物之笔.png": [],
         "金庸群侠传：襄阳烽火录.png": [],
         "欲望天际：重制版.png": [],
@@ -5665,7 +5665,9 @@
         "【名校研究生，反差学霸】.png": [],
         "【丧尸末日】.png": [],
         "抽卡江湖.png": [],
-        "抽卡侠侣.png": []
+        "抽卡侠侣.png": [],
+        "身为纯阳之体，用点阴气调和也合理吧1.png": [],
+        "娱乐之巅V1.0.png": []
     },
     "nai_settings": {
         "temperature": 1.5,
