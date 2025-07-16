@@ -105,11 +105,12 @@
         "AlertWI_抽卡侠侣.png": "true",
         "AlertWI_【都市：我成了富二代反派】.png": "true",
         "AlertWI_我与她与他土她们.png": "true",
-        "AlertWI_曾是名门闺秀，因家道中落沦为青楼头牌.png": "true"
+        "AlertWI_曾是名门闺秀，因家道中落沦为青楼头牌.png": "true",
+        "AlertRegex_归墟【梦星作品】.png": "true"
     },
     "currentVersion": "1.13.1",
     "username": "林深",
-    "active_character": "人生复本MVU.png",
+    "active_character": "归墟【梦星作品】.png",
     "active_group": null,
     "user_avatar": "user-default.png",
     "amount_gen": 350,
@@ -1250,7 +1251,8 @@
             "超英模拟器1.png",
             "归墟【梦星】.png",
             "人生模拟器，我进入了诡异修仙界2.0.png",
-            "身为纯阳之体，用点阴气调和也合理吧1.png"
+            "身为纯阳之体，用点阴气调和也合理吧1.png",
+            "归墟【梦星作品】.png"
         ],
         "tts": {
             "voiceMap": "",
@@ -1495,7 +1497,8 @@
                     "名探侦 コナン.png",
                     "寒冬末日 - 我有一个无敌的避难所.png",
                     "欲望天际：重制版.png",
-                    "归墟【梦星】.png"
+                    "归墟【梦星】.png",
+                    "归墟【梦星作品】.png"
                 ]
             },
             "audio": {
@@ -5679,7 +5682,8 @@
         "抽卡侠侣.png": [],
         "身为纯阳之体，用点阴气调和也合理吧1.png": [],
         "娱乐之巅V1.0.png": [],
-        "人生模拟器，我进入了诡异修仙界2.0.png": []
+        "人生模拟器，我进入了诡异修仙界2.0.png": [],
+        "归墟【梦星作品】.png": []
     },
     "nai_settings": {
         "temperature": 1.5,
