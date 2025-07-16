@@ -96,11 +96,13 @@
         "AlertWI_归墟【梦星】.png": "true",
         "AlertRegex_归墟【梦星】.png": "true",
         "AlertWI_抽卡江湖.png": "true",
-        "AlertWI_娱乐之巅V1.0.png": "true"
+        "AlertWI_娱乐之巅V1.0.png": "true",
+        "AlertWI_人生模拟器，我进入了诡异修仙界2.0.png": "true",
+        "AlertRegex_人生模拟器，我进入了诡异修仙界2.0.png": "true"
     },
     "currentVersion": "1.13.1",
     "username": "林深",
-    "active_character": "归墟【梦星】.png",
+    "active_character": "人生模拟器，我进入了诡异修仙界2.0.png",
     "active_group": null,
     "user_avatar": "user-default.png",
     "amount_gen": 350,
@@ -1239,7 +1241,8 @@
             "寒冬末日 - 我有一个无敌的避难所.png",
             "欲望天际：重制版.png",
             "超英模拟器1.png",
-            "归墟【梦星】.png"
+            "归墟【梦星】.png",
+            "人生模拟器，我进入了诡异修仙界2.0.png"
         ],
         "tts": {
             "voiceMap": "",
@@ -1454,7 +1457,7 @@
             "chara": []
         },
         "quickReplyV2": {
-            "isEnabled": true,
+            "isEnabled": false,
             "isCombined": false,
             "isPopout": false,
             "showPopoutButton": true,
@@ -5667,7 +5670,8 @@
         "抽卡江湖.png": [],
         "抽卡侠侣.png": [],
         "身为纯阳之体，用点阴气调和也合理吧1.png": [],
-        "娱乐之巅V1.0.png": []
+        "娱乐之巅V1.0.png": [],
+        "人生模拟器，我进入了诡异修仙界2.0.png": []
     },
     "nai_settings": {
         "temperature": 1.5,
