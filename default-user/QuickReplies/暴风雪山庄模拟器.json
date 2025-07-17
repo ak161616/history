@@ -1,0 +1,30 @@
+{
+    "version": 2,
+    "name": "暴风雪山庄模拟器",
+    "disableSend": false,
+    "placeBeforeInput": false,
+    "injectInput": true,
+    "color": "rgba(0, 0, 0, 0)",
+    "onlyBorderColor": false,
+    "qrList": [
+        {
+            "id": 2,
+            "icon": "",
+            "showLabel": false,
+            "label": "暴风雪山庄模拟器",
+            "title": "",
+            "message": "/buttons labels=[\"查看属性\",\"查看任务\",\"查看记录\",\"存活情况\"] 暴风雪山庄模拟器 |\n/setvar key=option ||\n/if left=option rule=eq right=\"\" {: /flushvar option | /abort :} ||\n/if left=option rule=eq right=\"查看属性\" {: /send \"查看属性\" :} ||\n/if left=option rule=eq right=\"查看任务\" {: /send \"查看任务\" :} ||\n/if left=option rule=eq right=\"获得记录\" {: /send \"获得记录\" :} ||\n/if left=option rule=eq right=\"存活情况\" {: /send \"存活情况\" :} ||\n/trigger||",
+            "contextList": [],
+            "preventAutoExecute": true,
+            "isHidden": false,
+            "executeOnStartup": false,
+            "executeOnUser": false,
+            "executeOnAi": false,
+            "executeOnChatChange": false,
+            "executeOnGroupMemberDraft": false,
+            "executeOnNewChat": false,
+            "automationId": ""
+        }
+    ],
+    "idIndex": 2
+}

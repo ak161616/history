@@ -113,13 +113,11 @@
         "AlertRegex_华山论贱.png": "true",
         "AlertWI_暴风雪山庄模拟器.png": "true",
         "AlertRegex_暴风雪山庄模拟器.png": "true",
-        "AlertWI_平行宇宙编年史.png": "true",
-        "AlertWI_【影视之万界征服】.png": "true",
-        "AlertWI_造物之笔.png": "true"
+        "AlertWI_平行宇宙编年史.png": "true"
     },
     "currentVersion": "1.13.1",
     "username": "林深",
-    "active_character": "造物之笔.png",
+    "active_character": "平行宇宙编年史.png",
     "active_group": null,
     "user_avatar": "user-default.png",
     "amount_gen": 350,
